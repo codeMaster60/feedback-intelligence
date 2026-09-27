@@ -1,0 +1,26 @@
+cluster_id,sample_text,feature_area,review_count,error_spike_ratio
+3,yah aap Mein payment mat karo froad hai app😡😡😡😡,payment_gateway,18,122.5
+11,sometimes if someone sending money there is no notification,payment_gateway,6,122.5
+18,good phonepe does not cut normal interest like navi UpI,payment_gateway,5,122.5
+12,delivery charge is too high,checkout,4,93.0
+15,Not issuing refund despite wrong order delivery.,checkout,16,93.0
+8,late delivery,order_tracking,7,1.5
+16,"always a disappointing experience, better to use blinkit, Sw",order_tracking,8,1.5
+9,cancelled my order saying restaurant does not have that item,order_tracking,10,1.5
+23,I had a very disappointing experience with Swiggy today. The,order_tracking,8,1.5
+6,worst app ever because you can't even do cancellation of you,order_tracking,25,1.5
+5,excellent beacuse cash on delivery,order_tracking,40,1.5
+4,Worst to Worst experience I always feel bad experience over ,login_auth,12,1.5
+2,This has been happening repeatedly on Swiggy for the past 2–,order_tracking,21,1.5
+17,"it took 2 hrs to get my order .worst experience ,I lost my a",order_tracking,8,1.5
+22,without installation of this app they people are send many O,other,12,0.0
+21,app is good. but adds disturbs to the use.,other,3,0.0
+20,Poor Service. They assign multiple orders to one rider and t,other,16,0.0
+19,"Received wrong order, customer care executive didn't solve t",other,8,0.0
+0,"worst customer service, orders getting delayed but direct cu",other,12,0.0
+14,"I ordered a bucket biriyani In hotel near coimbatore, periya",other,10,0.0
+13,HORRIBLE SERVICE.,other,13,0.0
+1,"When I install the app and open it, why does the default tab",other,15,0.0
+10,Very Disappointing Experience with Swiggy Swiggy’s customer ,other,11,0.0
+7,shop owner numbers are not working,other,6,0.0
+24,Pathetic and not responsible and nor replying . Thye are not,other,2,0.0

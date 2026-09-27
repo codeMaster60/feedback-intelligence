@@ -1,0 +1,1197 @@
+app,review_id,text,rating,timestamp,helpful_count,category,feature_area,severity,sentiment
+swiggy,d12a7594-28f7-42ec-a862-0e32c6464634,yah aap Mein payment mat karo froad hai app😡😡😡😡,1,2026-09-16 23:04:04,0,bug,payment_gateway,5,negative
+swiggy,70a0667d-a9b6-40fb-aa5a-b432a536f50f,very nyc,5,2026-09-16 23:00:48,0,noise,other,1,neutral
+swiggy,1c326e6c-409d-4192-a0a4-65d32e9e7078,late delivery,1,2026-09-16 22:54:22,0,bug,order_tracking,4,negative
+swiggy,babed090-2847-41c6-8c3e-7e538a428ab0,good,5,2026-09-16 22:52:58,0,noise,other,1,positive
+swiggy,c103151b-69c8-4e80-9ac7-8c7eee598f6c,"Very Disappointing Experience with Swiggy Swiggy’s customer service is extremely disappointing. Customer care executives are often rude, unhelpful, and fail to resolve genuine complaints. They simply give scripted responses instead of taking responsibility. Another major issue is the lack of accountability of delivery partners, especially when delivering delicate bakery items like cakes. Cakes often arrive spoiled, damaged, yet Swiggy does not take proper responsibility",1,2026-09-16 22:44:53,0,bug,other,5,negative
+swiggy,8f29cf07-2b16-406e-968d-62b6c84ba9a5,good,5,2026-09-16 22:40:37,0,noise,other,1,positive
+swiggy,5ff04d53-178b-4100-afe2-c20d5d490091,weel respond,4,2026-09-16 22:36:09,0,noise,other,1,neutral
+swiggy,8f56b078-b427-439f-af8d-1307bf300007,super,5,2026-09-16 22:29:07,0,noise,other,1,positive
+swiggy,2d6141da-ae9e-4690-bef9-ccb90e50d919,Good service,5,2026-09-16 22:23:07,0,noise,other,1,positive
+swiggy,1e688d96-39bc-4f10-b409-d63a295a6cb6,good and services,5,2026-09-16 22:20:10,0,noise,other,1,positive
+swiggy,3d7a6160-3614-4dc6-8491-1755ea9bd843,good 👍💯💯 pi,5,2026-09-16 22:15:49,0,noise,other,1,positive
+swiggy,ffee9b3c-9c46-433e-9b6b-97eecfc9d903,Good Service 💯,5,2026-09-16 22:11:54,0,noise,other,1,positive
+swiggy,826b355a-b50a-477c-b54e-6b57295592d5,excellent,5,2026-09-16 22:05:21,0,noise,other,1,positive
+swiggy,5bf4d54b-1450-42d2-bed2-9c9bad9fe50f,HORRIBLE SERVICE.,1,2026-09-16 21:59:36,0,bug,other,5,negative
+swiggy,24544991-835c-40b6-9fcd-edd6592ad587,good,4,2026-09-16 21:55:23,0,noise,other,1,positive
+swiggy,4cb79799-a74c-4918-ad12-041f939f8b3c,it's good,5,2026-09-16 21:52:44,0,noise,other,1,positive
+swiggy,22050623-972b-4804-b68f-e75716ed3283,good,5,2026-09-16 21:48:19,0,noise,other,1,positive
+swiggy,c870f726-5c03-48a7-a595-526daaa54b77,good service,5,2026-09-16 21:41:45,0,noise,other,1,positive
+swiggy,5c08c40d-0be4-4824-8174-4061ec612d6c,Good delivery,3,2026-09-16 21:41:29,0,noise,other,1,neutral
+swiggy,e38f82b5-b531-4a6f-ba43-2e795f13bbfe,good thank you,4,2026-09-16 13:20:36,0,noise,other,1,positive
+swiggy,6f1e2ff2-f0c2-46d6-aa8a-8026fd4b4c83,excellent beacuse cash on delivery,5,2026-09-16 13:19:33,0,feature_request,payment_gateway,1,positive
+swiggy,59716a3d-23cf-4bda-8ec3-eb892cea37a2,good,5,2026-09-16 13:19:22,0,noise,other,1,positive
+swiggy,ee96258c-148e-4556-9902-47c6a0aeb6ec,good,5,2026-09-16 13:16:44,0,noise,other,1,positive
+swiggy,a3e27702-21cd-4d14-a289-9d0a72ee7c67,Mone not return,1,2026-09-16 13:12:56,0,bug,payment_gateway,5,negative
+swiggy,e97836b4-f67c-4e56-88fd-53c23870a798,"This has been happening repeatedly on Swiggy for the past 2–3 orders. Whenever I place an order, it doesn’t get delivered on time, and I’m told that a delivery partner has not been assigned. The food is ready at the restaurant and has been sitting there for a long time, but because no delivery partner is assigned, I end up receiving cold food. This is exactly why I had stopped ordering from Swiggy and started using Zomato instead.",1,2026-09-16 13:12:40,0,bug,order_tracking,4,negative
+swiggy,651073b0-c57d-4573-88ec-f8c81e7459ae,i like ATSWIGGY,5,2026-09-16 13:08:35,0,noise,other,1,positive
+swiggy,527841d8-8e3d-4d0d-9bf1-a9d71358b7e7,nice 👍🏻 aap,5,2026-09-16 13:05:36,0,noise,other,1,positive
+swiggy,c3ca566d-8376-4670-9e34-4b849bdaccf3,"When I install the app and open it, why does the default tab start with instamart and not food. And not to mention that it starts with an unskippable notification that says continue with instamart. Why did I install this app then...I already have the instamart app. Small issue I know but annoying. Fix ya'll UI UX guys.",4,2026-09-16 13:02:40,0,bug,notifications,2,negative
+swiggy,41b8ce12-08cd-478a-b4e2-7f70656b5ae4,good,5,2026-09-16 12:59:39,0,noise,other,1,positive
+swiggy,abce34e4-9edf-4bee-81dc-8c08990fe4c2,didn't like your service,1,2026-09-16 12:55:47,0,noise,other,1,negative
+swiggy,969b675c-6bf9-4679-982d-1d4cc3f0b859,nice nice swiggy,5,2026-09-16 12:54:36,0,noise,other,1,positive
+swiggy,c4e8dc80-9035-4c84-a417-b46c31e19c93,good,5,2026-09-16 12:46:11,0,noise,other,1,positive
+swiggy,5ef6f151-ec6e-4c2a-87fc-2a78ae439c04,excellent food,5,2026-09-16 12:43:12,0,noise,other,1,positive
+swiggy,14da55bb-f073-450a-8a80-460e1a5c0ddd,very good app,5,2026-09-16 12:42:43,0,noise,other,1,positive
+swiggy,7c2ded3a-f2e4-436d-8af5-7e09402baedb,good,5,2026-09-16 12:39:59,0,noise,other,1,positive
+swiggy,58107496-4660-40f4-8cdd-ac2ee1767e93,good service,5,2026-09-16 12:38:31,0,noise,other,1,positive
+swiggy,7b3447db-7c55-430a-9eac-20cb951f1a1c,good service 💯,5,2026-09-16 12:38:12,0,noise,other,1,positive
+swiggy,7f51a092-e652-4235-81ff-60696bff8c54,good,5,2026-09-16 12:37:13,0,noise,other,1,positive
+swiggy,f18adc6b-3180-4fbf-be27-380ffd83fb00,nice,2,2026-09-16 12:28:36,0,noise,other,1,neutral
+swiggy,a638762a-d958-4f1d-b710-dd0fb8f19f2a,good,5,2026-09-16 12:26:19,0,noise,other,1,positive
+swiggy,2703739c-89a0-4f30-86a7-9000f13efc13,👍👍,5,2026-09-16 12:24:03,0,noise,other,1,positive
+swiggy,c066d953-835a-4f47-8926-59d41fe1b1ee,best deal,5,2026-09-16 12:23:27,0,noise,other,1,positive
+swiggy,9a04985f-8bd4-4d81-a61d-4f3c67ba9f0c,ok,5,2026-09-16 12:16:55,0,noise,other,1,neutral
+swiggy,a574bf84-082f-480a-8f8d-829fd30466f8,good app,3,2026-09-16 12:16:10,0,noise,other,1,positive
+swiggy,54cc6eaa-2d99-42c9-a20c-425f969f0cc1,hope food is good,5,2026-09-16 12:16:06,0,noise,other,1,neutral
+swiggy,7340e365-9ace-421a-8c23-187c6fad533d,delivery charge is too high,4,2026-09-16 12:10:07,0,feature_request,checkout,3,negative
+swiggy,7ee29991-0a09-43c6-a4b2-cf5ed2e1b4d2,good,5,2026-09-16 12:09:23,0,noise,other,1,positive
+swiggy,d25cd8c9-beb1-4552-a53d-da38f37a421a,good,5,2026-09-16 12:08:42,0,noise,other,1,positive
+swiggy,42d13450-8022-4ed3-9bce-1a2756529486,worst app they never deliver on shown time jus bluffibg the customers,1,2026-09-16 12:02:47,0,bug,order_tracking,5,negative
+swiggy,ec6bee8c-e1db-44bb-8f0a-522455982c46,worst app ever because you can't even do cancellation of your order. they will just give you a worst bot who will say we can't do this.. zomato>Swiggy📉🤡,1,2026-09-16 12:01:39,0,bug,order_tracking,4,negative
+swiggy,87f8ccfb-6ce6-4862-83bb-67658e75d39c,I just love this sweets because her texture and sweetness is touch good then other sweets shops,5,2026-09-16 11:55:36,0,noise,other,1,positive
+swiggy,3d878ae9-a685-450e-b4c3-821f5fbaa95a,first time,4,2026-09-16 11:50:39,0,noise,other,1,neutral
+swiggy,c5b9cf2f-1db7-49f6-afc7-403cea51977d,subse kharab service h order kar dete h uske 1 gante bad me cancle karke bolte h resturant band h or cancellation fees or lete h,1,2026-09-16 11:41:36,0,bug,order_tracking,4,negative
+swiggy,a771425f-ee0b-4bc9-ade2-181d1da703e0,good,5,2026-09-16 11:32:05,0,noise,other,1,positive
+swiggy,b4157488-1ceb-455a-bf6c-b30c41e6776b,superb,5,2026-09-16 11:31:34,0,noise,other,1,positive
+swiggy,fe0c0d96-de76-494c-a3e0-6b0f555b49c9,this is very helpful and using to the app was easy,4,2026-09-16 11:30:41,0,noise,other,1,positive
+swiggy,71c45c4d-ff9e-46bc-9e2f-ea99afa73850,good performance,5,2026-09-16 11:17:48,0,noise,other,1,positive
+swiggy,098215a8-d07e-4549-99d1-748d4a3d9f3f,good 👍🏻,5,2026-09-16 11:14:19,0,noise,other,1,positive
+swiggy,9f058c2e-294c-4321-9941-c2f3edda3934,mast,5,2026-09-16 11:14:04,0,noise,other,1,neutral
+swiggy,004693c3-175a-49ec-b7b7-0b3dfc953a13,nice,5,2026-09-16 11:13:14,0,noise,other,1,positive
+swiggy,6085e7cf-1058-46d8-8119-f5cbff1d766c,एक रेटिंग दिए वह भी बहुत ज्यादा है,1,2026-09-16 11:12:34,0,ux_confusion,other,3,negative
+swiggy,d7f0337f-5407-4823-98f8-375d4bd9e91e,due to over cost,2,2026-09-16 11:09:33,0,feature_request,other,3,negative
+swiggy,82093ecf-ab9c-4850-8baf-55cef25e3a5b,"I ordered a bucket biriyani In hotel near coimbatore, periyanayaganpalam at a cost of 1400. I personally liked the biriyani so I visited the hotel for dinner with my family. I was shocked to see the actual price it was only 700, along with it tax of 110 and 75 delivery charges. why they are charging too much so my kind advice call the hotel directly to confirm the price if you have time. Double the cost for a food is too much for a middle class family. Hope swiggy will reduce it in the future.",1,2026-09-16 11:09:30,0,bug,checkout,3,negative
+swiggy,84669c9e-db4c-4e1b-af25-77af81a9696e,nice ❤️,5,2026-09-16 10:49:58,0,noise,other,1,positive
+swiggy,b7fc2bc0-b3b2-4e53-8186-03887c35c87c,nice 👍,5,2026-09-16 10:37:26,0,noise,other,1,positive
+swiggy,e7d4bc80-402e-467e-917d-ad0414294376,I ordered shahi paneer but receive who knows what and my money and time and health all issues 🤬🤬🤬🤬🤬🤬🤬🤬 Swiggy,1,2026-09-16 10:34:28,0,bug,order_tracking,5,negative
+swiggy,8e3535fe-b4b3-4ed2-a499-5d1555f85e4b,bakwas,1,2026-09-16 10:34:00,0,noise,other,1,negative
+swiggy,665cd75f-1179-4cd4-9d9b-1a72c1d27f83,"Swiggy app bahut hi bekar Hai yah bahut bada chor hai aur mere paise kha Gaya Hai pahle 366 kha Gaya uske bad aap 583 bhi kha Gaya aur kahta Hai ki refund mil jaega aur vah paise kabhi nahin milte Hain payment pahle Ho Gai Thi is vajah se aur bhi dikkat ho rahi hai paise Lene meiYou are a big thief, you ate up my money, first you cancelled 366 and now you are the one who ate up money in the name of refund by cancelling 583 orders, these cashiers stop the delivery when they want to eat up money.",1,2026-09-16 10:28:30,0,bug,payment_gateway,5,negative
+swiggy,666b14cd-63c8-4496-ab78-7836ccc16378,nice,5,2026-09-16 10:23:35,0,noise,other,1,positive
+swiggy,89b36c14-f85a-4f93-824e-0ea7e68e9267,nice,1,2026-09-16 10:13:28,0,noise,other,1,positive
+swiggy,4ecf7330-0dac-42bd-8533-b492cd84b568,wow,5,2026-09-16 09:55:26,0,noise,other,1,positive
+swiggy,67991e1e-326d-496f-996d-4db1b3b406df,Swiggy is deplorable. The delivery boys are pathetic and miserable. Zomato is far better as a brand and much more considerate towards customers. Swiggy has irrational delivery norms and levies too much GST. Extremely slow service and rude delivery agents. I shall never ever opt for this Delivery App. Bano crorepati customers se illicitly paisa lutkar. Faltu App.,1,2026-09-16 09:51:34,1,bug,other,5,negative
+swiggy,d231a92e-911a-4850-9cfe-90eaf0fa9e03,"without installation of this app they people are send many OTP , which purpose I don't know. very bad platform",1,2026-09-16 09:10:54,0,bug,login_auth,4,negative
+swiggy,8a2155e8-627f-4481-8b9d-5868b7556b4c,"worst customer service, orders getting delayed but direct customer support and the bot support keeps on chanting the same",1,2026-09-16 09:09:08,0,bug,other,4,negative
+swiggy,9d22974f-7a41-4c21-bf1b-419ce641471d,wow,5,2026-09-16 08:55:21,0,noise,other,1,positive
+swiggy,5c57ff0c-2e50-4342-b528-886b11a18e78,Nehru colony,5,2026-09-16 08:54:08,0,noise,other,1,neutral
+swiggy,78078deb-9a5a-4eb1-b3e9-b39b72f4594f,The grocery price is very reasonable compared to other apps,5,2026-09-16 08:45:00,0,noise,other,1,positive
+swiggy,22760660-b647-4917-b638-17a5e30bafa0,good,5,2026-09-16 08:27:06,0,noise,other,1,positive
+swiggy,db3d5234-c5da-4cb4-832f-df20844ac4f9,fast & best at service.. only they charge handling fees every time that should be omitted.,5,2026-09-16 08:14:32,0,feature_request,payment_gateway,3,negative
+swiggy,47f50adb-996e-4c27-afb3-729ff34e52c0,good,5,2026-09-16 08:14:14,0,noise,other,1,positive
+swiggy,48580d5e-5a01-45b9-ab0d-0178823c104a,super 😍,5,2026-09-16 08:13:17,0,noise,other,1,positive
+swiggy,b35ea34d-ec7d-4e1b-9392-084dae6f407b,👍👍👍,5,2026-09-16 07:48:28,0,noise,other,1,positive
+swiggy,8d961cf1-d26f-46e4-afea-55d440a6311d,"Swiggy kaa joo co founder hai usko bolna chata huu kii, app ko thora update Karo , itna bakwaas upka app and your's team service hai joo logo ko pareshan karke rakkha hai Swiggy use ei nahi karta huu tapvhi regularly 10/15 otp a kese raha hai app bana liye matlab sab kuch nahi hota , App ka update bhi karna chahiye, customer ko pareshan karke kya maaje milta hai uplogo koo??",1,2026-09-16 07:39:31,0,bug,login_auth,5,negative
+swiggy,a63ce005-717e-474b-b074-f7c5849cf81e,"scammers, chor log hai ye inhone mujhe different order diya , aur complaint ke naam pr bs sorry bol rahe .... in logo se bacho bhai",1,2026-09-16 07:32:01,0,bug,order_tracking,5,negative
+swiggy,c88fabca-70cf-4f43-85ac-5c453c37ddef,all gud,5,2026-09-16 07:27:30,0,noise,other,1,positive
+swiggy,9d474012-9c65-41f6-ad97-7f9a897a8372,nice,5,2026-09-16 07:10:25,0,noise,other,1,positive
+swiggy,1817f394-1460-4c98-9430-846bc6fa1f3d,"I had a very disappointing experience with Swiggy today. The app initially showed a delivery time of 15 minutes, so based on that estimate, I ordered a tea worth ₹125. After adding the delivery charges and other fees, the total amount came to around ₹196. However, after placing the order, the estimated delivery time suddenly changed to 35 minutes. Since it was early morning and I understood that there might be a shortage of delivery partners, I accepted the delay and waited patiently. But....",1,2026-09-16 06:50:00,0,bug,order_tracking,3,negative
+swiggy,130c9efe-9001-4a29-91a6-563f210c4076,Worst to Worst experience I always feel bad experience over the swiggy I have placed the order at 4 am and it's been 6:25 deliver partner is still assigning on priority . And their untrained and Unlearned Ai bot just giving the Sample Learned Answer from its prompts pathetic,1,2026-09-16 06:22:13,0,bug,order_tracking,4,negative
+swiggy,d5858757-7258-4ba5-adcf-897d4b17c1c8,very very nice and beautiful 😻😻,5,2026-09-16 06:10:08,0,noise,other,1,positive
+swiggy,6ebcfc9f-ea7a-4494-ab3c-24c3379b7906,worst experience,1,2026-09-16 04:10:17,0,noise,other,1,negative
+swiggy,72c31681-6a58-4aad-a055-404c6fe0a0e8,to good well,5,2026-09-16 04:01:20,0,noise,other,1,neutral
+swiggy,5b05db2c-d5be-4e58-b99d-5e3091551cfd,best shop,5,2026-09-16 03:38:21,0,noise,other,1,positive
+swiggy,1bbc2532-8ddc-4a01-ad4d-e6915f85a77d,"it took 2 hrs to get my order .worst experience ,I lost my appetite",1,2026-09-16 03:28:59,0,bug,order_tracking,3,negative
+swiggy,f7034ff8-f930-4106-9579-ce0a4c631f3e,Inka measurement team ekadam hi kharab hai time per reply Nahin Dete Hain Jab ya customer ke sath Aisa Karte Hain To Riders ke sath kaise karte rahenge......,1,2026-09-16 03:01:39,0,bug,other,4,negative
+swiggy,a800d94c-3b4b-4279-a09c-a4b48bee2d4d,best,5,2026-09-16 02:29:04,0,noise,other,1,positive
+swiggy,ed233a83-e512-4ee0-b565-3969a7a6b912,Good food 🤤,5,2026-09-16 02:19:56,0,noise,other,1,positive
+swiggy,f03ce588-f1e2-41b3-8923-dcf29c722aac,fast delivery,5,2026-09-16 02:11:36,0,noise,other,1,positive
+swiggy,04263b35-8391-4b43-8995-da60c408d37b,"Absolutely terrible service! 25 minutes was shown at the time of ordering, but the order arrived almost 2 hours later. On top of that, I ordered Dahi Handi but received Chinese Rice instead. The quantity was also ridiculously small. Wrong item, huge delay, and poor quantity — what a pathetic experience. This is completely unacceptable. I’m extremely disappointed and definitely won’t be ordering from Swiggy again.",1,2026-09-16 02:06:57,0,bug,order_tracking,5,negative
+swiggy,dd834986-bdee-43c2-9c13-2b118cb83e19,Swiggy is going to shutdown soon,1,2026-09-16 01:54:58,1,noise,other,3,negative
+swiggy,94520b47-b5e4-4a98-94ff-6b0aca5af1f3,Not issuing refund despite wrong order delivery.,1,2026-09-16 01:52:40,1,bug,checkout,4,negative
+swiggy,2016344f-ee58-4417-87d6-e92e442ccd0e,"Very bad experience. Waited almost 2 hours, and the order was wrongly marked as delivered. Swiggy refunded the amount, but my 2 hours were wasted. Even after escalating the issue, no proper response for 24+ hours. Very disappointing service. I will think twice before using Swiggy again.",1,2026-09-16 01:40:56,0,bug,order_tracking,5,negative
+swiggy,b9aafacc-d31b-4416-897d-34397997bab4,good service,5,2026-09-16 01:28:19,0,noise,other,1,positive
+swiggy,0e6d11a6-b6bd-461d-8f6f-4997a30506aa,"overpriced and pathetic customer service, it's like they don't even care about making customers wait for one+ hour and stressing out customers just to cancel an order which was completely due to their fault.. Swiggy used to be good but now it really has become the worst",1,2026-09-16 01:25:30,0,bug,other,5,negative
+swiggy,3d3984a5-35bd-4f72-a5d2-1b1a8ce2d97f,"bina reason k account block kr diya h or solution nhi de rahe h instamart me problem aa rha h kuch bhi order nahi ho raha h 25,30 din ho gae koi solution nahi mil rha h unable process to payment yhi show hota h bad service bad response",1,2026-09-16 01:14:18,0,bug,payment_gateway,5,negative
+swiggy,73720bec-56d1-49a9-97db-09ccc96940af,nice,5,2026-09-16 01:10:46,0,noise,other,1,positive
+swiggy,8e4ff55b-79c9-4371-b6c3-b3bb7927c75b,it's very bas service,1,2026-09-16 01:10:14,0,bug,other,3,negative
+swiggy,6a24a56f-796c-4e78-9e36-cdc666ace807,The worst app ever I have seen in communication i ordered a food than because of personal reason I cancelled it then also the order show delivered before I cancel it and there are no food delivered to me . and also cancellation part was too long,1,2026-09-16 01:07:37,0,bug,order_tracking,5,negative
+swiggy,e459fe93-b399-4e80-9fa0-54549e6dc869,ok,5,2026-09-16 01:01:17,0,noise,other,1,neutral
+swiggy,bbbc6420-ebb4-48cf-9756-45b0fbf9b4c4,Rong location,1,2026-09-16 01:00:26,0,bug,other,3,negative
+swiggy,4a4069c2-9976-40dc-bf10-84e2de7e0912,eww,1,2026-09-16 00:51:34,0,noise,other,1,negative
+swiggy,503516d4-23b6-45b8-969d-90d4fabbe7e6,ongoing Mushakgo offer there is some issue in leaderboard showing unachievable high score people are cheating with leaderboard,4,2026-09-16 00:50:26,0,bug,other,3,negative
+swiggy,61cbbc3f-53e2-4bda-9821-f58204172e24,Fills my stomach 😋,5,2026-09-16 00:49:52,0,noise,other,1,positive
+swiggy,db099887-068d-4a2f-96f9-cbbce37a3553,your delivery is very very late 🫩 I am waiting 1 hour,2,2026-09-16 00:47:40,0,bug,other,3,negative
+swiggy,404d53d3-87b6-4593-bdeb-547e9b03a282,👍,5,2026-09-16 00:47:24,0,noise,other,1,positive
+swiggy,fb01a62c-2f02-4e08-a9ee-6eccd3f34025,"absolutely worst customer service. they gave me raw chicken and bones in an order which has risk of salmonella disease, and they did not listen to me on chat they pushed me to email and have no been giving me a refund for 15 days. worst experience ever",1,2026-09-16 00:44:25,0,bug,other,5,negative
+swiggy,d71e749f-cead-48c2-af57-2d4ca7a471b9,Poor Service. They assign multiple orders to one rider and then your order which was supposed to get deliver in 45 mins gets delayed by 1.5 hours. Very unprofessional team doing stupid experiments to save cost and end up loosing customers.,1,2026-09-16 00:44:13,0,bug,order_tracking,4,negative
+swiggy,aa81d291-2d49-4a02-99d5-151eea78600f,😍,5,2026-09-16 00:42:50,0,noise,other,1,positive
+swiggy,8cb4e007-b7ea-4018-9574-4f22ab04f525,SURJIT KUMAR SHARMA zriuuk,5,2026-09-16 00:39:23,0,noise,other,1,neutral
+swiggy,0600deee-d762-40e7-a3c8-9fb332e9bf98,nice,5,2026-09-16 00:30:38,0,noise,other,1,positive
+swiggy,7317b639-96a2-4b2c-a493-c3c35d2d5803,verry bad survice for customer care,1,2026-09-16 00:29:23,0,bug,other,5,negative
+swiggy,58c2fda8-e0b9-46ac-a898-622bbd64ebd9,nf when i ordered food they didn't deliver food,1,2026-09-16 00:28:24,0,bug,order_tracking,5,negative
+swiggy,8d3e484c-e11a-4289-8566-2a7f3499fd0e,excellent service 👏,5,2026-09-16 00:21:55,0,noise,other,1,positive
+swiggy,12ab85d7-471f-47ee-85cb-f05619e0b5d8,Uninstalling app because of great customer service.,1,2026-09-16 00:21:19,0,noise,other,1,negative
+swiggy,da0b29f7-e318-4eed-9ab8-5a66a931e4d3,good,5,2026-09-16 00:16:30,0,noise,other,1,positive
+swiggy,1ce76567-7b0d-40d3-9aa3-0fc483bd44a3,very good sarvices,5,2026-09-16 00:14:40,0,noise,other,1,positive
+swiggy,d291cfbf-64d3-4792-9724-c3ca480e5fe6,supper,5,2026-09-16 00:05:42,0,noise,other,1,neutral
+swiggy,f80a4c51-7dbf-4732-8bb5-11fe2d600447,the delivery drivers are pathetic experienced this 3 to 4 times this week that delivery driver picks up the food and does not deliver it and the order takes upto 2 3 hours to get cancelled such a waste of time.,1,2026-09-16 00:02:47,0,bug,order_tracking,4,negative
+swiggy,0511403c-a41f-496c-a323-b4e09eac8659,leet nahi honi cahiye 5 no diye hai ok baki good service good staff 👍 ok,5,2026-09-16 00:00:54,0,noise,other,1,positive
+swiggy,e0f90567-242f-4b8e-8abd-29670014e2da,excellent,5,2026-09-15 23:58:09,0,noise,other,1,positive
+swiggy,46294135-7317-434d-a1c8-6ca9f4feca3b,price very high,4,2026-09-15 23:58:07,0,feature_request,checkout,3,negative
+swiggy,7c7c07da-b62b-4679-9653-f440e79a5fc0,very very very bad aap because u will order another food items than u receive another food items and food quality is very bad like 🤢🤮🤢🤮 and so high prices of food very very very very very bad aap download on ur risk if u want to maintain your health 🙏,1,2026-09-15 23:56:49,0,bug,order_tracking,4,negative
+swiggy,6f07e335-2957-4210-863c-6fbad80e777d,super,5,2026-09-15 23:55:08,0,noise,other,1,positive
+swiggy,77bb93b7-9ec2-4c37-a2dd-bec55bc06a33,good,5,2026-09-15 23:52:57,0,noise,other,1,positive
+swiggy,9e8fb826-2e1c-4bc2-899a-2bc108c2392b,great 👍,5,2026-09-15 23:49:05,0,noise,other,1,positive
+swiggy,27183b0e-1600-4052-90bf-0d1259bb89d9,"I cannot cancel it's one membership, which is so frustrating.",1,2026-09-15 23:43:13,0,bug,other,5,negative
+swiggy,06cb1a70-ef23-4b6e-8ddf-80fae30d28b4,good swiggy,5,2026-09-15 23:36:03,0,noise,other,1,positive
+swiggy,0ca8e757-30c8-47b1-b51c-b21f0171d5f8,good service sir,5,2026-09-15 23:23:12,0,noise,other,1,positive
+swiggy,41289354-5649-43cb-9cba-d34e6fd23f30,"My order was delivered late, and I had to wait much longer than the estimated delivery time. This was disappointing and inconvenient. Please look into the delay and ensure better delivery service in the future. I hope you can provide a suitable resolution for this issue.",1,2026-09-15 23:21:57,0,bug,order_tracking,5,negative
+swiggy,0deaad7b-373b-4ddf-9e79-e64077fe8ee1,"cod hai esi liye , 5star cash on delevry 😘",5,2026-09-15 23:21:55,0,feature_request,payment_gateway,1,positive
+swiggy,28daafde-0c38-4233-a27c-82f640cceaa1,too late,1,2026-09-15 23:18:10,0,bug,order_tracking,4,negative
+swiggy,ebef25ae-f93c-4e76-9aa4-81e7b3f9b079,વારી ગુડ,5,2026-09-15 23:17:59,0,noise,other,1,positive
+swiggy,c57b8fb5-0bee-4c89-8385-ab4ba39b45b1,prefect it's ok,5,2026-09-15 23:15:58,0,noise,other,1,neutral
+swiggy,9b209d26-2a5b-462b-aed3-ba1b83a2f176,good,5,2026-09-15 23:15:09,0,noise,other,1,positive
+swiggy,3a5269fc-f8ce-41d4-a253-d51c289755a0,good,5,2026-09-15 23:14:41,0,noise,other,1,positive
+swiggy,e7a58db3-7ad3-428b-9723-3c985943b12a,Such a useless app i order food its show delivery time 30min But aftr 30min its show 40min And in the end order cancled resion was delivery patner never pick a call He stol the food cheap app cheap delivery patner cheap support team ..,1,2026-09-15 23:12:23,0,bug,order_tracking,5,negative
+swiggy,944c9d7a-c370-44aa-b137-da44a4c9c4af,very good,5,2026-09-15 23:11:03,0,noise,other,1,positive
+swiggy,baf8083e-e617-48d2-957e-93640bc33ff5,top,5,2026-09-15 23:10:37,0,noise,other,1,positive
+swiggy,67b6f589-2634-4a3b-b840-dcd2340ba966,Best service timming delevary,5,2026-09-15 23:09:41,0,noise,other,1,positive
+swiggy,09a35ac6-9af8-4c02-8102-f3ff8e675525,nice,5,2026-09-15 23:08:28,0,noise,other,1,positive
+swiggy,085bd57b-b281-42da-bad2-ca10d7cc337f,best food delivery app nice 🤩,5,2026-09-15 23:07:26,0,noise,other,1,positive
+swiggy,9911bfb3-8ce1-400e-a5a6-c4bc70cf063a,good 💯,3,2026-09-16 22:53:20,0,noise,other,1,positive
+swiggy,396d7809-0693-424c-a1b8-220190248675,"Received wrong order, customer care executive didn't solve the problem and replied ""problem is from restuarant side"" seriously, ridiculous experience ever from Swiggy. Uninstalling app forever",1,2026-09-16 22:46:48,0,bug,other,5,negative
+swiggy,0ebdd032-ddf3-4efe-87d2-dd662d88fadd,nice,4,2026-09-16 22:45:29,0,noise,other,1,positive
+swiggy,f45c38dd-c22b-47db-a325-54c02842263d,very good,5,2026-09-16 22:44:29,0,noise,other,1,positive
+swiggy,6aaf1f67-db17-4b0e-8f33-51788bc9f48c,good,5,2026-09-16 22:42:58,0,noise,other,1,positive
+swiggy,7bba4cce-164d-4d17-99d3-4e97a72d1131,good,4,2026-09-16 22:40:28,0,noise,other,1,positive
+swiggy,b2e35a2a-b335-463b-a6a2-d60fcbc4912b,good 😊👍,5,2026-09-16 22:38:23,0,noise,other,1,positive
+swiggy,8a311311-3800-41de-b9ad-3c10c827a9ae,nice,1,2026-09-16 22:35:15,0,noise,other,1,positive
+swiggy,aff9df79-be97-41e0-8183-02b703fa2fce,bery bery ghoood appe👍🏻,5,2026-09-16 22:33:49,0,noise,other,1,positive
+swiggy,93b9124f-6c47-4aaa-9034-f40adeb3252d,third class app don't use it when I was using app for a moment I have added food in my cart accidentally ordered food within second i trying to cancel my order no one responding to my order don't use it disgusting app to cancel order and another time ordering food showing penalty don't use it my rating is 1 star,1,2026-09-16 22:26:29,0,bug,checkout,4,negative
+swiggy,72003bb8-bf65-4761-9020-ac32a0835c1c,good app,5,2026-09-16 22:25:53,0,noise,other,1,positive
+swiggy,a7c2802b-466e-49fe-93ad-193d35a524e9,good 👍,5,2026-09-16 22:22:17,0,noise,other,1,positive
+swiggy,f71fc99d-1046-4cea-89e7-91bf210cd116,Good,5,2026-09-16 22:20:49,0,noise,other,1,positive
+swiggy,82c5cd58-a255-4e7e-92c2-1b0cc6aa2f70,best food app,5,2026-09-16 22:14:41,0,noise,other,1,positive
+swiggy,c118efe1-9e70-41ae-b439-1eb9a87d63ab,good 😊,5,2026-09-16 22:14:21,0,noise,other,1,positive
+swiggy,ebb5a951-2544-4609-b212-4a0aa5283ac2,so nice,5,2026-09-16 22:09:33,0,noise,other,1,positive
+swiggy,646478ab-9459-4104-935a-2ffcac20415d,its verry expensive for service,1,2026-09-16 22:07:25,0,feature_request,other,3,negative
+swiggy,1e02da9d-a4be-4486-b74a-df8e3850e871,good speed,5,2026-09-16 22:02:03,0,noise,other,1,positive
+swiggy,669f764e-5504-4657-9763-667833621211,good 👍,5,2026-09-16 22:00:24,0,noise,other,1,positive
+swiggy,ee329a56-5ed1-49a2-976c-0439953d6816,down,1,2026-09-16 21:59:23,0,noise,other,1,negative
+swiggy,a9334f58-22f1-43b0-8238-5b39edf3d7e2,cancelled my order saying restaurant does not have that item in reality when I checked with the restaurant got to know that their driver ate the food and swiggy gave us no compensation for it.,1,2026-09-16 21:56:27,0,bug,order_tracking,4,negative
+swiggy,683ea32f-0a06-4f92-88c4-7e3c2cc45b29,Vikas Kumar ok new madhopuri gali number 18,5,2026-09-16 21:55:54,0,noise,other,1,neutral
+swiggy,7beb5b54-a3ac-4e2c-a569-2e2d6daa0169,good,5,2026-09-16 21:55:29,0,noise,other,1,positive
+swiggy,36fed755-6f8b-48c8-9053-e8604097e795,Pathetic and not responsible and nor replying . Thye are not interested to listen ur problem they just want tk sell their restaurant and after delivery they dont even listen ur problème. Ai instructed to wait for 6-i hours now its been 6 days still no reponse. and not even let us connect to the real agent. so basically they are telli we will help u till ur order gets delivered bt what delivered and quality u get they not liable to answer or solve the problems.,1,2026-09-16 21:54:47,0,bug,other,5,negative
+swiggy,f000b6d1-db9b-42bd-940d-1bce16324aa1,This app is totally frud food quality is worth . I ordered a Chili chicken 8 pieces but they give me 6 pieces only and gravy was too much less that a one person can not ate . Very bad app this is don't use,1,2026-09-16 21:54:28,0,bug,checkout,4,negative
+swiggy,575dadb4-9875-4fcb-9f36-b09b572808d8,excellent,5,2026-09-16 21:51:52,0,noise,other,1,positive
+swiggy,a2cdc75a-6837-46e4-a7e5-270f2001ed3d,gud app,5,2026-09-16 21:50:47,0,noise,other,1,positive
+swiggy,96bacfc8-84f6-4f96-8891-4697538ad1f2,good,4,2026-09-16 21:47:45,0,noise,other,1,positive
+swiggy,ef13df2a-937e-4a64-b094-45f5041fc5ad,bhot achha app hai ☺️👍,5,2026-09-16 21:42:16,0,noise,other,1,positive
+swiggy,0d9d083c-93d9-4e46-9e2e-073fb26fb3b7,oko,4,2026-09-16 21:39:28,0,noise,other,1,neutral
+swiggy,d5701d24-9bc5-4dd3-a0e0-8c9b99671524,why do I always get drunk delivery partner and also they have no change they also beg for tips,3,2026-09-16 21:35:55,0,bug,other,4,negative
+swiggy,9bca8555-8e18-4f7d-af04-6f3d85c43f93,"Not able to delivery on train ,worst experience,Have to sleep without eating 2nd time worst experience in train automatic cancellation of order and no food night time",2,2026-09-16 21:32:00,1,bug,other,4,negative
+swiggy,df3540f2-4766-403b-b3ee-f34547af3912,"Offers and fast deliveries are very good but there is no immediate cancelling option.Today while i was selecting items i just tapped the payment option to change it to cash on delivery, suddenly the order was placed and i tried cancelling it immediately but there was no option for it. i tried customer service but it was the worst customer service.",1,2026-09-16 21:30:35,1,bug,checkout,4,negative
+swiggy,4895ec81-c1be-42b9-914d-f70e086b7a65,very good and very fast l love Swiggy survice,5,2026-09-16 21:23:49,0,noise,other,1,positive
+swiggy,4d2bd6fb-36af-4b4b-aacb-537bbf04d986,"Very disappointed with Swiggy. I received a refund coupon, but it is not working when I try to use it. Customer support has not provided a proper solution either. If you issue a refund coupon, it should actually work. Please resolve this issue and provide a valid refund.",1,2026-09-16 21:20:55,0,bug,checkout,5,negative
+swiggy,9226e757-a8f1-4d5b-ade9-87614a43e128,👍👍👍👍👍👍👍,5,2026-09-16 21:20:14,0,noise,other,1,positive
+swiggy,0307f876-c35b-4cad-9efc-6b3b43ba1100,thank you for your lovely helping me,5,2026-09-16 21:19:01,0,noise,other,1,positive
+swiggy,3e4ad4d4-e1bb-4c1e-9fa2-c771359023a6,briyani 💕💕,5,2026-09-16 21:18:21,0,noise,other,1,positive
+swiggy,8260fbac-9478-47b6-b2d8-d87b34fc69f4,super 👍,5,2026-09-16 21:17:54,0,noise,other,1,positive
+swiggy,cf32a90e-e849-4c3a-becf-f6e0a4417c2b,excellent,5,2026-09-16 21:15:27,0,noise,other,1,positive
+swiggy,ffa76606-1876-4974-a5ad-e2f5c687b33c,jo thali offer Se pahle 119 ka dikha raha tha 250 Ko dikhane Laga phir 3 Mahina ke liye mujhe offer kharidne ka kya fayda yah to Salasar swiggy wala scan kar raha hai,1,2026-09-16 21:14:54,0,bug,other,5,negative
+swiggy,1e6aca82-9e3e-4d81-9149-0a7da66e2d14,fast delivery,5,2026-09-16 21:13:52,0,noise,other,1,positive
+swiggy,349009ab-f6e6-45b9-83f6-20c1b9f75277,very helpful. and very tasty food,5,2026-09-16 21:13:36,0,noise,other,1,positive
+swiggy,b8a66ed6-b243-490d-adc9-c2a0f2a0793f,its too bad experience of gulshan e karim as ordered chicken kabab but some vegetables seed found in kabab.,1,2026-09-16 21:13:27,0,bug,other,4,negative
+swiggy,432e51bb-6848-4844-8f0e-c9bf1fa62831,best,4,2026-09-16 21:13:01,0,noise,other,1,positive
+swiggy,bade9b30-1264-43be-a9f7-f7cf24132d1a,good,5,2026-09-16 21:12:05,0,noise,other,1,positive
+swiggy,f563076d-20f0-49de-a507-87e3d221c914,very bad swiggy company or all worker,1,2026-09-16 21:09:10,0,bug,other,5,negative
+swiggy,167c1a5f-6c1e-420f-8e56-1db529a7e7c1,my fav app,5,2026-09-16 21:07:49,0,noise,other,1,positive
+swiggy,d0df5c17-d4f7-4a55-9331-bf4d5959a732,sometimes they send rotten veggies 😕,3,2026-09-16 21:07:35,0,bug,other,3,negative
+swiggy,3fdd2761-a3a8-4a02-9918-27ee51317547,Highly disappointed from swiggy. My friend order food for me the address was same from both the sides but still delivery boy was not delivering the parcel. He was saying that he will deliver the food 1 km away from the house and he was not delivering the parcel. Next time I'll not try to get the food from any other person. Highly disappointed,1,2026-09-16 20:58:57,0,bug,order_tracking,4,negative
+swiggy,fef837f9-23a0-418b-84c1-e98a95f090ec,awesome offer 😀,5,2026-09-16 20:57:34,0,noise,other,1,positive
+swiggy,c75a0756-0c5f-4b7e-b8e8-df495b1f78fc,Excellent,5,2026-09-16 20:57:02,0,noise,other,1,positive
+swiggy,e38e1083-77a1-4dbd-94dd-6c18a60a1317,good,4,2026-09-16 20:54:49,0,noise,other,1,positive
+swiggy,baf5edb5-3d25-4657-9d34-8361f0c24ee4,delivery is not fast,1,2026-09-16 20:51:30,0,bug,order_tracking,3,negative
+swiggy,06256a85-eb9f-452f-8071-ffc3e6d29a95,I love it because price is to low,5,2026-09-16 20:51:07,0,noise,other,1,positive
+swiggy,32f8c576-f851-41d5-aa97-bb49d5c8bc59,worst food delivery app I ever used often scams and services are too bad,1,2026-09-16 20:50:36,1,bug,other,5,negative
+swiggy,d0af0818-95c9-46d6-9da9-c79c89c1b7ab,good,3,2026-09-16 20:49:33,0,noise,other,1,positive
+swiggy,db95689b-1b60-4f63-99c5-a41af7730453,best,5,2026-09-16 20:47:49,0,noise,other,1,positive
+swiggy,96971566-2401-4430-9c85-26cff697aee8,bekar hai,1,2026-09-16 20:46:42,0,noise,other,1,negative
+swiggy,2f489277-3765-459e-a166-8369bf262686,scammers,1,2026-09-16 20:46:22,0,bug,other,5,negative
+swiggy,63fd25f6-b5f4-499b-bfb0-fab6c8fff718,froud app hai ye I ordered a birthday cake and paid the amount online after sometime dilivery partner said I am new to this area can't find the address and said you have to come to collect the cake and after 5 minute they cancelled the order at there own and sent a msg that your payment will not be refunded in short swiggy has done a froud with me swiggy चोर है,1,2026-09-16 20:44:03,0,bug,checkout,5,negative
+swiggy,e89b12d3-87c5-4cef-b92c-1aebc7d51ea3,very good 👍🏻,5,2026-09-16 20:40:00,0,noise,other,1,positive
+swiggy,ebf9c001-da7d-401c-b941-4730a752d1d6,beter,3,2026-09-16 20:38:58,0,noise,other,1,neutral
+swiggy,91561ffb-6a89-476c-b4d8-4212f4ed79a0,not deliver on time,2,2026-09-16 20:34:02,0,bug,order_tracking,3,negative
+swiggy,cc0f992e-4adb-4835-8a3c-a836cbd582e0,good 👍👍👍👍👍👍👍👍,5,2026-09-16 20:34:00,0,noise,other,1,positive
+swiggy,5fce9ab6-fb59-4b88-b6c5-21f1e14ebcdd,nice,5,2026-09-16 20:33:14,0,noise,other,1,positive
+swiggy,9ff97b54-82a9-479d-8baf-ded303461e61,"How come your BOLT restaurant which was supposed to deliver food in 15 min, delivering food in more than 80 min???",1,2026-09-16 20:33:05,0,bug,other,5,negative
+swiggy,337d8764-5405-4718-9bbb-be83676605bd,order not received u ordered in nikka biriyani our of 5 items only 3 received,1,2026-09-16 20:32:44,0,bug,order_tracking,4,negative
+swiggy,30e71733-d3df-4973-bfdd-f4beee09eeba,good,5,2026-09-16 20:31:31,0,noise,other,1,positive
+swiggy,6efe606b-a802-4a94-b79a-54f413ff53e5,"always a disappointing experience, better to use blinkit, Swiggy, or get from shop, that would be any day faster!",1,2026-09-16 20:30:51,0,bug,other,4,negative
+swiggy,3f527695-9cd3-4da9-aeba-5570826adbf1,very nice,5,2026-09-16 20:30:14,0,noise,other,1,positive
+swiggy,6c7626f3-8756-4684-a736-5c5736891567,I am happy download this app 😍,5,2026-09-16 20:29:34,0,noise,other,1,positive
+swiggy,4d03b961-952c-4222-95e9-bf37c93e3006,too good,5,2026-09-16 20:29:26,0,noise,other,1,positive
+swiggy,f812d1e0-5d0d-48d0-8ba3-d2c787ca0920,Swaggy delivery app. Very good. App,5,2026-09-16 20:27:25,0,noise,other,1,positive
+swiggy,c30ac15e-3ed9-4f43-a31f-21c5c262f0c7,scam order kiye huye items pure nhi aate hain maine 3 chize order ki thi ek aayi hi nhi Maine iski comolain ki toh comolain leke kuch kara hi nhi,1,2026-09-16 20:27:22,0,bug,order_tracking,5,negative
+swiggy,fd0930fe-865d-486a-bbcb-8e71d5e75e17,"This is a waste app, They charged me twice for a server issue. .They said we would refund but haven't done so yet.",1,2026-09-16 20:26:37,0,bug,payment_gateway,4,negative
+swiggy,4ece7ff1-0192-4e20-94d5-95314e237821,very nice,5,2026-09-16 20:23:40,0,noise,other,1,positive
+swiggy,3f825c10-8bf6-47f4-b993-4f23a42b1e26,"Swiggy , charges more for the first time user as compared to regular user. if you're checking the price for the order thinking you will get more discount if you use it from the new device, then that's not going to help you.",1,2026-09-16 20:23:36,0,bug,other,3,negative
+swiggy,ad0d735e-884e-40cb-a882-09ac6ddd3d47,good 😊,5,2026-09-16 20:22:40,0,noise,other,1,positive
+swiggy,83d73fa4-a820-44d2-899c-fb71b38ef0ff,"worst experience, delivery person not reached to me and now Swiggy wants to pay a fine",1,2026-09-16 20:18:52,0,bug,other,5,negative
+swiggy,bfbffcd9-5d48-46aa-945d-0da898f27d09,super ❤️,5,2026-09-16 20:18:38,0,noise,other,1,positive
+swiggy,1f287e62-0c9f-496f-99eb-815709029638,good,5,2026-09-16 20:17:06,0,noise,other,1,positive
+swiggy,cc08509f-f6e5-48d0-b12b-d9ba49bcc4f5,super 👍,5,2026-09-16 20:15:29,0,noise,other,1,positive
+swiggy,f6622a92-1bf6-4dca-bfcb-84bdfc2e441d,idk,5,2026-09-16 20:15:11,0,noise,other,1,neutral
+swiggy,0057e37d-f81f-4afc-8592-dcad1c81a1fc,"wanteldly updating the distance of the restaurant more than 7kms, for one restaurant I have seen it was under 6kms in zomato but the same restaurant in swiggy is showing 8.2kms, they wanteldly doing this for delivery charges.",1,2026-09-16 20:02:19,1,bug,order_tracking,3,negative
+swiggy,5d1acd78-2c66-47ca-af27-f195e48a97ab,worst app I can login only after getting otp since 2 days I'm trying worst experience with this app 😮‍💨,1,2026-09-16 20:01:29,0,bug,login_auth,4,negative
+swiggy,a51efed0-a1ea-49f9-803f-d8fe85dd34d4,thank you,5,2026-09-16 19:59:26,0,noise,other,1,positive
+swiggy,be9afb3b-c7d1-4e09-b401-3d36fa8d6afe,amazing ❤️,5,2026-09-16 19:58:00,0,noise,other,1,positive
+swiggy,0d61e3a6-eb40-4727-843d-210ad9339f67,good 👍,5,2026-09-16 19:57:49,0,noise,other,1,positive
+swiggy,a6b8fd02-97e4-4057-8b91-08e4a725eab9,good,5,2026-09-16 19:56:01,0,noise,other,1,positive
+swiggy,879d1d85-aab0-49e1-96af-130e31e9f45b,"great interface, good customer service, if there's a problem then there's good support and all orders are successful.",5,2026-09-16 19:55:07,0,noise,other,1,positive
+swiggy,af30bf99-7c4f-4572-85cf-b85377b14451,good one,5,2026-09-16 19:50:45,0,noise,other,1,positive
+swiggy,627276a6-e66a-4897-aa8c-3c5fe66117f2,wov,5,2026-09-16 19:49:38,0,noise,other,1,neutral
+swiggy,76402724-d0ba-4fba-a6d3-3a7e1fd5dcda,good,5,2026-09-16 19:48:09,0,noise,other,1,positive
+swiggy,14d047f3-17c4-4e0d-85c7-31814bc7f51d,food are very nice really like the food of swiggy,5,2026-09-16 19:46:28,0,noise,other,1,positive
+swiggy,e5c6e6bf-b18e-4d86-a493-df1a40cc6978,good service,5,2026-09-16 19:46:09,0,noise,other,1,positive
+swiggy,8de344d8-b0a9-474f-9622-774bef6fd80d,good,3,2026-09-16 19:43:28,0,noise,other,1,positive
+swiggy,3e4e74bb-b567-46c9-ab8b-5f7622ae22a1,good,5,2026-09-16 19:39:50,0,noise,other,1,positive
+swiggy,285f1664-8c4b-4aa7-81fc-a5db8db55793,👍 Nice test,5,2026-09-16 19:37:28,0,noise,other,1,positive
+swiggy,23ceb6ab-3e71-46eb-a905-0e2bd0f31191,its fast and easy,5,2026-09-16 19:35:36,0,noise,other,1,positive
+swiggy,47ae537c-82c4-4a94-9d5a-e2a3f27ebcd3,good,5,2026-09-16 19:35:12,0,noise,other,1,positive
+swiggy,0c9f2939-e53e-4385-baef-f5704e3fcc23,very good service,4,2026-09-16 19:34:00,0,noise,other,1,positive
+swiggy,ebff816f-0dc8-41ea-9965-4e8769ab4904,good,3,2026-09-16 19:31:18,0,noise,other,1,positive
+swiggy,ae17c60b-2017-415d-ad11-ccdaa9a93f3c,poor customer service,1,2026-09-16 19:31:02,0,bug,other,5,negative
+swiggy,723d9d38-2c0b-4485-8058-dd7171c36873,💋,5,2026-09-16 19:29:36,0,noise,other,1,positive
+swiggy,9e25dc8d-396e-404c-a6a3-9f789e5a4130,"local products, heavy price, late delivery dont buy in instamart",1,2026-09-16 19:26:41,0,bug,order_tracking,4,negative
+swiggy,60bf4ad4-2037-446b-a03a-ecc90b8859f8,thank you,5,2026-09-16 19:23:59,0,noise,other,1,positive
+swiggy,8501556f-bb60-45cf-9af9-00df8173c6db,scha hi,5,2026-09-16 19:22:01,0,noise,other,1,neutral
+swiggy,58e8ecb9-ee0b-4609-865f-ac44ad838cb4,Fair price,4,2026-09-16 19:19:12,0,noise,other,1,positive
+swiggy,9703d9a6-8104-43da-af98-08fe21de0446,Good,5,2026-09-16 19:18:20,0,noise,other,1,positive
+swiggy,b1ddca91-274c-48d4-879d-128912beabac,good,5,2026-09-16 19:15:08,0,noise,other,1,positive
+swiggy,31f3789f-7b67-4ae1-84eb-5f257a382941,"Experience recently has been very poor in terms of delivery time. Even with Swiggy Black, it shows 25-30 mins before ordering, changes to 45 mins post ordering and actually arrives after an hour. They have no way to cancel orders which delays more than half an hour. I'm having better luck with Zomato in the last 3-4 months.. If the time is not possible realistically with traffic conditions, please state it ahead instead of false advertising in the name of premium membership. Disappointing.",2,2026-09-16 19:07:37,0,bug,order_tracking,3,negative
+swiggy,ca992953-3a86-461c-9030-ca619f0bbacd,👍,3,2026-09-16 19:06:32,0,noise,other,1,positive
+swiggy,765704d7-9196-4834-baab-bcaf5829b3a9,customer friendly app.,5,2026-09-16 19:06:20,0,noise,other,1,positive
+swiggy,8b01861d-a20c-4af2-99e9-b45e13a5b35f,ok,5,2026-09-16 19:05:58,0,noise,other,1,neutral
+swiggy,964f0866-309e-4e3c-b995-fe1b7c4a83f2,This app is of no use. they promise short time delivery but they batch your delivery with others and your order are delayed by 30-40mins. it's pathetic,1,2026-09-16 19:05:13,0,bug,order_tracking,3,negative
+swiggy,159892ca-af49-490d-bc64-762086c1dcea,OK,1,2026-09-16 19:02:43,0,noise,other,1,neutral
+swiggy,1161d364-cebf-46b1-b843-6d11f60b4a30,good performance,5,2026-09-16 19:01:27,0,noise,other,1,positive
+swiggy,0a306c94-662b-49ed-8367-0fb4bf754beb,Swiggy one benifits are non existent. They just need excuses to take more money from you and deliver bad service.,1,2026-09-16 18:50:57,0,noise,other,3,negative
+swiggy,ca65a1df-2a5c-4a10-a602-3238976f2e31,super,5,2026-09-16 18:50:33,0,noise,other,1,positive
+swiggy,a0c2ed2d-e49c-48f2-8392-5c19d99a4601,super fast,5,2026-09-16 18:50:14,0,noise,other,1,positive
+swiggy,5b2ac335-3657-4820-8df3-23415af171e9,nice drive,5,2026-09-16 18:47:49,0,noise,other,1,positive
+swiggy,85309781-3dba-435a-9170-8c60aa85dcb8,👎,1,2026-09-16 18:47:32,0,noise,other,1,negative
+swiggy,434d81fd-1bf4-4787-9669-487076683cb3,very nice,5,2026-09-16 18:43:39,0,noise,other,1,positive
+swiggy,229252a3-f70b-4fe9-b335-488f0aa6b6bb,best,5,2026-09-16 18:42:55,0,noise,other,1,positive
+swiggy,ae54cd50-1fe4-43a9-ad6f-b7e6af3f1b06,super,5,2026-09-16 18:40:02,0,noise,other,1,positive
+swiggy,0405ff90-63cd-43ab-8c19-4b40ccb7c853,very very good app and pizza under rs 99 Pizza quality is very good,5,2026-09-16 18:37:08,0,noise,other,1,positive
+swiggy,bbf74735-3c3a-4ce0-82c4-8e19955e3da1,good🧡🧡🧡,5,2026-09-16 18:30:02,0,noise,other,1,positive
+swiggy,0151fe9e-7864-4589-b7d4-fe818895729b,very good,5,2026-09-16 18:28:39,0,noise,other,1,positive
+swiggy,d7281db7-4bf9-40c6-9198-9522c9fd2186,good,4,2026-09-16 18:23:01,0,noise,other,1,positive
+swiggy,84b5337c-c363-48d8-b33f-63f2bcb443c1,nice,5,2026-09-16 18:21:14,0,noise,other,1,positive
+swiggy,9dd8c4ff-e24e-422f-968a-1d5fc0b12c63,delivery location not available first time available but now unavailable,1,2026-09-16 18:19:57,0,bug,checkout,4,negative
+swiggy,b0602dc3-6371-45a4-b1c1-5c03c37987cc,excellent,5,2026-09-16 18:14:58,0,noise,other,1,positive
+swiggy,dab21d3f-7bcd-4d82-8ea7-61b1331464d9,"Update: 1 star for my horrible experience with instamart and Swiggy said it'll follow up but never did on X or email. Old: Cancelled order an hour and ordering, and all restaurants being closed. No other support offered. Horrible.",1,2026-09-16 18:11:22,4,bug,order_tracking,5,negative
+swiggy,951b4170-16bc-4fba-906c-6d8e69f0808e,not bad,3,2026-09-16 18:07:20,0,noise,other,1,neutral
+swiggy,0fd384ac-0ac8-4f93-96b5-9e5a62524d51,Pocket friendly App Best and Simple they dont Over Charge like other apps,5,2026-09-16 18:04:09,0,noise,other,1,positive
+swiggy,b61eab4d-4e91-4035-9b46-bd6cf61e5bcc,nice,5,2026-09-16 18:03:42,0,noise,other,1,positive
+swiggy,49f38662-7be2-4709-b9b3-ff67da9a5ff0,verry bad experience from chawlas 3b2 mohali not resolve my problem and not refund,1,2026-09-16 17:54:54,0,bug,payment_gateway,5,negative
+swiggy,47edc405-4199-4220-9ace-1430032c3ca0,try to deliver fast 💛,5,2026-09-16 17:53:33,0,noise,other,1,positive
+swiggy,cee91d74-21e9-4a00-98ac-a63732772fbf,gooooooooddddd i was hungry but in a money conscious when i added to my cart i got much offer so happy on swiggy,5,2026-09-16 17:53:14,0,noise,other,1,positive
+swiggy,ca20ab93-bba1-4fd0-b4ef-e9635f4954a3,so good 👌🫰,5,2026-09-16 17:48:09,0,noise,other,1,positive
+swiggy,cf3026f6-964a-4a02-96b2-b0c1e57269b0,one of the fraudulent service don't but any thing in swiggy instamart what wiil doing higher management I don't know,1,2026-09-16 17:46:12,0,bug,other,4,negative
+swiggy,11dad599-1581-4cc8-8ee7-daf693c6f12e,worst taste of chinise wok and wastage of money don't buy anything from Swiggy or chinise wok first order me hi disappointed,1,2026-09-16 17:43:49,0,bug,other,5,negative
+swiggy,bad6e5a4-03e6-433d-b03a-8e241569fbd4,not at all a good app it will not give clear instructions to the customer regarding the order so l have lost my amount,1,2026-09-16 17:43:03,0,ux_confusion,order_tracking,4,negative
+swiggy,9f93d0e1-ad28-4d38-bc9f-81258977f426,yes right 👍🏻,5,2026-09-16 17:40:26,0,noise,other,1,positive
+swiggy,21630259-3db3-4c6f-9aa5-5b76a99d9100,nice delivery,5,2026-09-16 17:39:53,0,noise,other,1,positive
+swiggy,2a50c783-fc93-478a-bbfe-0df86359e32c,food item price low and order now high price,1,2026-09-16 17:34:58,0,bug,checkout,3,negative
+swiggy,e5897194-186c-4fc2-95eb-67dc335eda3f,nice 👍,4,2026-09-16 17:32:46,0,noise,other,1,positive
+swiggy,08d87f50-ba07-4cde-8f9a-ba315387d5c7,nice,5,2026-09-16 17:32:32,0,noise,other,1,positive
+swiggy,42ca9d1a-129a-4ffe-9db7-f8cc3d8b21cc,good experience but needs more images and describes of taste of customisation options,4,2026-09-16 17:29:09,0,feature_request,other,2,positive
+swiggy,ab93d4d3-e018-4ce6-8742-0aeba881ac57,wait,4,2026-09-16 17:27:43,0,noise,other,1,neutral
+swiggy,e37f9660-916a-4af0-b5a8-814c1f16c205,best,1,2026-09-16 17:16:56,0,noise,other,1,negative
+swiggy,4e845c03-0e2c-4ae2-861e-4fc16e03f9fa,timing is to much late😡,2,2026-09-16 17:13:27,0,bug,other,3,negative
+swiggy,62fc66fa-a5ad-4bc8-90c9-07d13a8a8144,not good app delivery item not acept me but order is already accepted showing or payment online first but order not received poor app zomato is best than Swiggy,1,2026-09-16 17:10:59,0,bug,order_tracking,5,negative
+swiggy,159b0d2e-864a-48b0-ba68-b627b4c87868,good,5,2026-09-16 17:10:14,0,noise,other,1,positive
+swiggy,59bef1e9-c5fd-4942-9ac2-f14390f6bc0f,bahut expensive food hain yhan par upar se food se zyada to extra charges add krke paise loot lete ho aap log,1,2026-09-16 17:08:27,0,bug,payment_gateway,4,negative
+swiggy,5fb4a944-4873-45de-a9fd-f48eb879f8a8,excellent,5,2026-09-16 17:07:39,0,noise,other,1,positive
+swiggy,75f286a1-915b-4c28-bbcf-5baedf3b1cfd,Crazy how u changed a restaurant distance from 6.5KM to 7.1KM within 2 minutes. It flew huh? You lost a customer.,1,2026-09-16 17:07:25,0,bug,search,3,negative
+swiggy,ce3fe77f-9243-45e9-9048-9c86a4d470d9,Good food,5,2026-09-16 17:04:35,0,noise,other,1,positive
+swiggy,570ac5af-d836-4449-9df2-b3382afaad43,nice,5,2026-09-16 17:03:28,0,noise,other,1,positive
+swiggy,646cfb5e-60aa-4a6b-89ad-7dc4c74fca29,nice,4,2026-09-16 17:01:00,0,noise,other,1,positive
+swiggy,a0945b71-f301-4b06-9f88-299d51f7fbea,Second bad experience with swiggy. Estimated delivery time was 25 mins but for over 1hr it kept showing as delivery on time at 25 mins. delivery partner wasn't moving. even new delivery person assignment was slow after contacting customer support.,2,2026-09-16 16:59:46,0,bug,order_tracking,4,negative
+swiggy,ef864cdf-059d-4e6f-b3fa-d4de7a313c38,good,5,2026-09-16 16:58:38,0,noise,other,1,positive
+swiggy,7b07c271-6bbd-40e0-9b43-92ca2bd84b52,delivery charge is too high,4,2026-09-16 16:55:36,0,feature_request,checkout,3,negative
+swiggy,f28f419f-a5c0-4611-a995-148dd9b36b7c,good,5,2026-09-16 16:51:52,0,noise,other,1,positive
+swiggy,fa559e35-7acc-4e8c-b46a-ee5a70e4ba2a,good,4,2026-09-16 16:51:24,0,noise,other,1,positive
+swiggy,63599ea6-c50a-48fe-a898-aa5e9afc237e,awesome,5,2026-09-16 16:47:43,0,noise,other,1,positive
+swiggy,23afc34a-57f8-419e-afef-c8bf2480baf3,good 👍,5,2026-09-16 16:47:36,0,noise,other,1,positive
+swiggy,b7a77dce-bb22-429a-9eb6-8790a9005f9b,good,5,2026-09-16 16:45:23,0,noise,other,1,positive
+swiggy,11f56a50-3099-4a2d-95f0-89ad507ca3b6,good,5,2026-09-16 16:40:02,0,noise,other,1,positive
+swiggy,1b898852-4fe8-4a45-8306-deaed009824b,very very very worst...there is no delivery on time then the order took 2 hours then there is no one to pick the order in hotel that took 2 hours.then we cancel the order but the cancellation charge is 100%(ful amount)too bad...very worst experience swiggy...hereafter swiggy is not trustable app.,1,2026-09-16 16:39:16,0,bug,checkout,5,negative
+swiggy,c34121fd-c178-45c8-b9cd-c6254e6addeb,good 👍 hai,5,2026-09-16 16:37:06,0,noise,other,1,positive
+swiggy,5ad28e67-64cd-409f-89a4-f930b391ae2d,good delivery,5,2026-09-16 16:36:33,0,noise,other,1,positive
+swiggy,dac3181a-8b6a-4a14-8343-98d8baae94f7,nice,5,2026-09-16 16:33:04,0,noise,other,1,positive
+swiggy,e365de37-2564-43e6-b85b-141d2c27325b,nice food delivery app,5,2026-09-16 16:28:54,0,noise,other,1,positive
+swiggy,05ab047e-977f-4013-ae3f-8f9b5ba2a00f,worst app the delivery boy clearly said that first I would delivery mine choice order than your and the aap shows that it will be delivered in 30 mins and not delivered even after 1 hour and 30 min also the help center was not giving the agent's number,1,2026-09-16 16:28:36,0,bug,order_tracking,5,negative
+swiggy,ca3dff73-1456-4226-83b0-59b8b14e50f5,very nice,5,2026-09-16 16:26:10,0,noise,other,1,positive
+swiggy,3b8de765-e89e-4ac8-aa17-2aba6e2eb144,Good 👍,5,2026-09-16 16:25:36,0,noise,other,1,positive
+swiggy,94a08d1b-0325-4c4f-8a9f-f5db538cb04c,"fraud app and not refund, very bad experiance",1,2026-09-16 16:24:05,0,bug,checkout,5,negative
+swiggy,58175f9b-72fe-4fb6-a990-d3ca8b23d433,nice very,4,2026-09-16 16:21:45,0,noise,other,1,positive
+swiggy,caafd4b1-a97f-4621-8707-4990593bc685,"I was trying to place a food order on Swiggy, but I accidentally clicked on Dineout. At the time, I thought I was placing a regular food order, but later I realized that it was actually an advance Dineout booking. I contacted Swiggy and requested a refund, but they refused to refund my payment, saying that they cannot process a refund. Since I cannot visit the café or use the Dineout benefit, I feel this situation is very unfair. So, please be careful while using Swiggy and make sure you don’t",1,2026-09-16 16:21:30,0,bug,checkout,4,negative
+swiggy,cf84334f-41b8-4ff1-a44c-c8136dbf159a,good,5,2026-09-16 16:21:02,0,noise,other,1,positive
+swiggy,6fc5d113-b919-4a14-971b-d2abdad6ef21,"A lot of charges, which were previously absent. on an order of 250, I got charged with 120.",1,2026-09-16 16:18:54,0,bug,payment_gateway,5,negative
+swiggy,93412ced-6539-4f87-aa21-72cc4b9ba5ec,super,5,2026-09-16 16:12:55,0,noise,other,1,positive
+swiggy,1f654f6a-f893-4fc6-a3a3-2f45a5fe7200,nice,5,2026-09-16 15:59:26,0,noise,other,1,positive
+swiggy,0af04f9b-0318-4477-b6ea-cba577b69c8e,Worst app ever I order food and even after delay of delivery I was patiently waiting for the food the delivery person called and mentioned me that he had an accident so won't be able to deliver I agreed being pity on the situation the delivery person cancelled and I am being charged with the full cancellation charges and none of the CX support solved my issue it's been a month. I'll suggest you better go for other platform.,1,2026-09-16 15:58:48,0,bug,checkout,4,negative
+swiggy,6bb17d09-19a9-4fa0-94fb-18da7e3c34f6,quick delivery,5,2026-09-16 15:58:17,0,noise,other,1,positive
+swiggy,5f060b55-d96f-4dbe-a183-30d6001d287e,👍 Good,5,2026-09-16 15:56:53,0,noise,other,1,positive
+swiggy,9ed1c4c6-da8a-47df-9cd0-5f090e75bb28,"Customer support is so pathetic. My order was delayed by +40 mins (for an ETA of 25mins). Couldnt find the customer support, only AI chatbot was accessible. After 15 mins struggle with the chatbot connected to the customer support. The resolution was wait for another 60 mins, we will get u the same food for you.",1,2026-09-16 15:56:51,0,bug,other,4,negative
+swiggy,265f247d-ca56-4564-a727-cc669fe31fc5,worst service. swiggy Instamart is doing fraud. Please don't use this app.,1,2026-09-16 15:51:57,0,bug,other,5,negative
+swiggy,3c064068-cee2-4cd2-8855-edb67dc19cdd,"I ordered 9 Inch Peri Peri Paneer Pizza, but got delivered 6 Inch Somthing else! This is unacceptable and the chat box and agents and restaurant are scamming without a proper resolution...they give coupon to use it in next order, why should I even order again? To get scammed by these people? Never! Uninstalling application right away!",1,2026-09-16 15:51:17,0,bug,order_tracking,5,negative
+swiggy,82250343-60c2-4eb6-83dd-b49436cb5ad0,osm app,5,2026-09-16 15:46:18,0,noise,other,1,positive
+swiggy,fbbef7f8-3047-4b14-a459-97b99936db34,"best aap hai ,",5,2026-09-16 15:38:11,0,noise,other,1,positive
+swiggy,8d1c9e92-95c4-469d-9b69-496e92a950e5,expensive,1,2026-09-16 15:36:46,0,bug,other,5,negative
+swiggy,4b03e5bd-ff61-4729-afb7-6328604b8f5c,worst delivery app....plz do not use this app.....worst customer support......plz avoid using such apps to safeguard yourself from fraudulent activities,1,2026-09-16 15:33:58,0,bug,payment_gateway,5,negative
+swiggy,29d50dea-80bf-44c9-bbe5-9705df285826,"One of the worst delivery apps waited for my order for more than 1.5 hrs still order not yet delivered, restaurant is saying they gave order to delivery partner already and their delivery partner is not picking calls",1,2026-09-16 15:31:53,0,bug,order_tracking,4,negative
+swiggy,ce85892f-fd83-4bbd-bbbf-c29820aca635,It is a stelling app. I added 8 items and I went to the payment menu to select cash on delivery it automatically ordered the food and when it came i received only 4 items . Worst app for ordering food,1,2026-09-16 15:31:44,0,bug,checkout,4,negative
+swiggy,6c194bd2-fe0b-4afc-be3e-1f999b1c11ef,good,5,2026-09-16 15:29:50,0,noise,other,1,positive
+swiggy,32d6469c-6cef-4ea9-b20b-5c049279d7ae,shop owner numbers are not working,1,2026-09-16 15:21:58,0,bug,other,3,negative
+swiggy,1b901dad-8ff1-49c1-a5ab-1c5e521b1e3a,pathetic delivery service and customer support,1,2026-09-16 15:17:04,0,bug,order_tracking,5,negative
+swiggy,9097b743-3baa-40d5-bf1c-764765a11fc1,The worst app. The customer service is pathetic. I got very bad smelly rotten food from a restraunt and they didn't even bother or cater it. Next time I ordered the restraunt didn't gave mutton in mutton biryani. Same behaviour by their customer service they replied through automated channel. Very bad pathetic online food delivery app. Please delete if you have one.,1,2026-09-16 15:16:51,0,bug,other,5,negative
+swiggy,cf892c47-0b46-4683-8d65-f1ae1417deb7,mast,5,2026-09-16 15:16:17,0,noise,other,1,neutral
+swiggy,fb9d777d-3fcf-467b-b7cd-187bb8a858bb,good 👍,5,2026-09-16 15:12:15,0,noise,other,1,positive
+swiggy,933ed520-17ec-4039-952c-1b1ef7c79e68,the instamart in it is very good and cheap it also offers 1 rupees stuff for orders above 150,5,2026-09-16 15:11:43,0,noise,other,1,positive
+swiggy,890a38e3-045d-4d23-9730-b2e46875b374,GREAT,5,2026-09-16 15:08:55,0,noise,other,1,positive
+swiggy,03293d6f-8671-43bc-a9f8-bcb2326bba89,I LOVE IT THANKS FORAKING EVERYTHING EASY SWIGGY,5,2026-09-16 15:06:54,0,noise,other,1,positive
+swiggy,d9dce113-1d03-42c2-b311-d36d1d6bc245,The customer service is non existent,1,2026-09-16 15:06:15,0,bug,other,5,negative
+swiggy,307c7526-2580-4254-bc71-fb7bcc8d71d0,"I am writing this review with extreme anger and hunger after the worst food delivery experience of my life with Swiggy. I ordered food at 12:50 PM today, it is now 2:45 PM going to 3:00 PM and I have still not received my order. This is not a 10 minute delay, this is more than 2 HOURS of waiting, starvation and mental harassment. We have not eaten anything since morning and Swiggy is completely responsible for this torture.I tried to contact the delivery partner.He said""I am not in Bhubaneswar""",1,2026-09-16 15:01:46,0,bug,order_tracking,5,negative
+swiggy,bfe1e262-ccc3-4d16-af0c-7cc33bbb81f4,very late delivery,1,2026-09-16 15:01:35,0,bug,order_tracking,4,negative
+swiggy,13e105d6-a0a5-4557-83bc-846715d58325,poor customer service.. very poor..,2,2026-09-16 14:56:29,0,bug,other,3,negative
+swiggy,7af43d24-71e3-415a-b749-315734b5f545,very bad 😔 app,1,2026-09-16 14:53:11,0,noise,other,1,negative
+swiggy,497dcd52-3487-470a-8bd5-2bf7507dceac,it giving me 0rupee 🍕,5,2026-09-16 14:52:24,0,bug,payment_gateway,3,negative
+swiggy,2c11d7dc-453f-4413-a05a-ea7bdb58e4ef,best,5,2026-09-16 14:51:14,0,noise,other,1,positive
+swiggy,6f77ab77-2ef7-4249-82ba-b517fdcdb6b8,"Extremely disappointing and disgusting experience. My order was not delivered, and the rider’s behaviour was rude and unprofessional. On top of that, the customer care service was extremely poor and unhelpful. Overall, the entire experience was highly unprofessional and frustrating. I would not recommend this app.",1,2026-09-16 14:50:58,0,bug,order_tracking,5,negative
+swiggy,f1a6ffac-6377-4110-baf2-c09b0ad121be,very nice,5,2026-09-16 14:50:56,0,noise,other,1,positive
+swiggy,b41ac92b-0072-43c9-a665-e8852a9081b5,okay 👌,4,2026-09-16 14:47:31,0,noise,other,1,neutral
+swiggy,58f669ed-0d6d-4861-85e9-630668d40cf4,acha he bahut,5,2026-09-16 14:46:37,0,noise,other,1,positive
+swiggy,51f213e9-5897-4b8f-9949-1ec2b5b3d43b,on time,5,2026-09-16 14:44:40,0,noise,other,1,positive
+swiggy,886c4803-8f6f-4800-a845-9417aa8bc4bd,"worst, I cancelled my order but it was not refunded,that order amount full of cancellation fee, worst really worst experience.",1,2026-09-16 14:42:57,0,bug,checkout,5,negative
+swiggy,8a98fb6f-e097-4a9d-af3b-6bd58a9afd52,nice,5,2026-09-16 14:42:55,0,noise,other,1,positive
+swiggy,38f4bb24-6ae7-43c2-a0b0-85572c22c8bd,कड़वा नहीं रहेगा jijj,5,2026-09-16 14:42:01,0,noise,other,1,neutral
+swiggy,382087df-e84e-49e8-9c50-e2fd685ef8ed,good,5,2026-09-16 14:35:28,0,noise,other,1,positive
+swiggy,7469479d-9a63-449d-aaf2-2a9dce43d681,very bad survice,1,2026-09-16 14:33:44,0,noise,other,1,negative
+swiggy,63a31131-d263-472b-8731-2b003ca60142,nice,5,2026-09-16 14:29:15,0,noise,other,1,positive
+swiggy,6d9e9c86-f0d2-4cbd-9ab3-35539bf9b162,good app,5,2026-09-16 14:28:58,0,noise,other,1,positive
+swiggy,9d48cc80-01ef-4378-b8bc-fe0bdc33773b,prices are too high,3,2026-09-16 14:23:24,0,feature_request,other,3,negative
+swiggy,354126e2-3655-4e71-a9cf-1ab39e4482ab,Pathetic services by Swiggy. fraud delivery partners,1,2026-09-16 14:21:50,0,bug,other,5,negative
+swiggy,0af3074d-ea57-4781-bdba-14dc415757cc,Day by day the services are deteriorating. no proper resolution of issues..... extreme delay is services and poor quality products.,2,2026-09-16 14:20:26,0,bug,other,4,negative
+swiggy,df2576ab-abc2-4add-9c59-b6e63c949ced,executive,1,2026-09-16 14:17:26,0,noise,other,1,negative
+swiggy,93603233-98f1-4647-a928-9856ece362f5,resturant bale kharab khana dete hai lekin complete karo to kuch response nahi aata hai,1,2026-09-16 14:16:04,0,bug,checkout,5,negative
+swiggy,04fed06f-00d8-40b5-a7c7-e0d9cbc6b9a4,over rate,2,2026-09-16 14:14:14,0,noise,other,1,neutral
+swiggy,404ce1b3-75c4-4fca-b58c-4ee50c2dfcad,customer support is very very unfair,1,2026-09-16 14:14:11,0,bug,other,4,negative
+swiggy,0363e101-fdee-41ba-98c0-f9fa6ab445bb,super,5,2026-09-16 14:13:47,0,noise,other,1,positive
+swiggy,28a840d5-cf58-4e0f-9929-dd68a10152e7,nice,5,2026-09-16 14:11:53,0,noise,other,1,positive
+swiggy,43fc235a-6f1b-41cf-99d9-747a5d7d4caa,worst app ever...,1,2026-09-16 14:05:44,0,noise,other,1,negative
+swiggy,42f3060a-1c12-4613-8d32-724c3302d816,😋,5,2026-09-16 14:05:22,0,noise,other,1,positive
+swiggy,aedffe61-9a05-4a5d-9587-9c6b903c9eec,super 💯,5,2026-09-16 14:03:10,0,noise,other,1,positive
+swiggy,700a27fc-d81b-4338-b918-916cbc0886d2,good app po,5,2026-09-16 14:02:37,0,noise,other,1,positive
+swiggy,546df53d-ba4a-4ff7-afe8-a6907a8170e8,👍,4,2026-09-16 13:59:55,0,noise,other,1,positive
+swiggy,7a8f17c7-0c71-47dc-b0cc-f9d8739e32fe,good,3,2026-09-16 13:59:28,0,noise,other,1,positive
+swiggy,a7920afb-aac2-42f7-9232-396c57d7a5cd,very good,5,2026-09-16 13:59:15,0,noise,other,1,positive
+swiggy,2e1a1672-a740-4750-be14-78ca55f6f57f,nice,5,2026-09-16 13:58:40,0,noise,other,1,positive
+swiggy,8aa358bb-df32-41bf-b2d6-bcd06586d873,good,4,2026-09-16 13:55:54,0,noise,other,1,positive
+swiggy,8f78a7d0-5fb3-4db8-b241-73480684367f,nice,1,2026-09-16 13:52:39,0,noise,other,1,positive
+swiggy,ce0b8886-9828-4873-a4ea-b41cc15260f9,best application for the food order.,5,2026-09-16 13:51:10,0,noise,other,1,positive
+swiggy,c33d0ca2-daca-4689-ab53-a9b7c3183072,good 👍,5,2026-09-16 13:49:35,0,noise,other,1,positive
+swiggy,d5a8cf80-efef-4ce2-a078-08931b273a55,👍,5,2026-09-16 13:49:11,0,noise,other,1,positive
+swiggy,faf1b73a-dc0d-4377-9f15-6f10480b0d15,very good,5,2026-09-16 13:48:25,0,noise,other,1,positive
+swiggy,8d4eb62f-cdec-4c55-af56-36d4e90c0b74,Worst application. Zomato is far better than Swiggy.,1,2026-09-16 13:46:13,0,noise,other,1,negative
+swiggy,5856b0c5-4302-492c-849d-7106b7ced65f,horrible chat support. extremely useless Ui of app . Go and learn from zomato,1,2026-09-16 13:43:20,0,ux_confusion,other,4,negative
+swiggy,d5a9e3aa-d59f-465f-82f5-bbe523ab8c6a,"I needed to change my order cuz I ordered the wrong one so I tried to cancel the order within a minute or so and wasn't able to cancel it, waste of money and food👎🏻",5,2026-09-16 13:42:44,0,bug,checkout,4,negative
+swiggy,918fb469-a79c-4c85-a259-3fb323323586,good,5,2026-09-16 13:42:29,0,noise,other,1,positive
+swiggy,0b9fa081-7f59-4e69-b5ab-16f05657ec3f,"Don't trust them and go for one delivery membership, they just cheat you and get membership amount, then delivery partners will not be assigned immediately, after u raise complaint only delivery partner will be assigned, then for raising complaint also customer care officer will not be assigned immediately, u will be forced to buy some other product as they say they do not have refund option",1,2026-09-16 13:42:19,0,bug,checkout,4,negative
+swiggy,212baf1c-5249-4943-b452-5f13931a4e81,"My recent order was cancelled by swiggy and the whole order amount was charged to me as cancellation fees.Upon checking with them ,they are replying with "" There is no option to reinitiate the order and there is no option to remove the cancellation fees.I am really sorry "". Advise to others and don't pay the order before delivery,in my case I paid the amount while ordering and now I'm wasting my time to get the refund for an order which was cancelled by swiggy and charged to me.",1,2026-09-16 13:38:45,0,bug,checkout,4,negative
+swiggy,804e9302-9e1d-4c9c-9d0c-de110ba10f5b,good,5,2026-09-16 13:38:31,0,noise,other,1,positive
+swiggy,8ec2aff8-eac6-4fba-a6d9-6206c7e87036,good one 👍,5,2026-09-16 13:37:57,0,noise,other,1,positive
+swiggy,5ac4ca66-cc45-4d36-9212-cfa87cfec210,😊,5,2026-09-16 13:32:53,0,noise,other,1,positive
+swiggy,e2535abc-9a1d-457d-b191-1618c8b3b7a3,gud,5,2026-09-16 13:31:04,0,noise,other,1,positive
+swiggy,692ea653-8b97-4263-a6d1-e1bab30f0eba,👍,5,2026-09-16 13:30:19,0,noise,other,1,positive
+swiggy,26147662-013f-43d9-b514-53c0f6103aad,food are good 💯 but plz improve the delivery,4,2026-09-16 13:28:03,0,feature_request,order_tracking,3,positive
+swiggy,c9a50b2d-98d9-4c93-9b6e-72beb805a4de,very good app 😃👍🏻,5,2026-09-16 13:21:19,0,noise,other,1,positive
+swiggy,9c1b78e6-c4d5-451d-87e2-a63705eb4f7c,ok,5,2026-09-15 23:05:26,0,noise,other,1,neutral
+swiggy,ecc212df-9055-4623-9f86-6a6250253e7e,genuine rate compare zomato,5,2026-09-15 23:04:33,0,noise,other,1,neutral
+swiggy,a03acdb3-eb1c-438f-acc0-ab5cccd954a1,good,5,2026-09-15 23:04:02,0,noise,other,1,positive
+swiggy,50aefd52-985c-4b52-b077-a32d1c156d45,itna amount problem,1,2026-09-15 23:01:28,0,bug,payment_gateway,5,negative
+swiggy,81e63db7-d6a7-4f58-a90d-1a9634820286,amazing,5,2026-09-15 22:57:09,0,noise,other,1,positive
+swiggy,9f9f61b2-90f4-410f-bb5c-8c760b846b2d,good delivery,4,2026-09-15 22:55:20,0,noise,other,1,positive
+swiggy,f5a10c45-f397-410a-a010-797d43dc387c,nice,5,2026-09-15 22:52:30,0,noise,other,1,positive
+swiggy,6c4dd5a4-03a7-49a4-8c8b-8938af0bdf5d,bahut Bdiya he,5,2026-09-15 22:52:14,0,noise,other,1,positive
+swiggy,f200c043-74ef-4737-88a8-3f6bff01f3ef,ரொம்ப மோசமான ஆப் டெலிவரி டைம் அதிக நம்ம போடுற ஆர்டர் வேற வர்ற ஆர்டர் வேற ரொம்ப மோசமான ஆப்,1,2026-09-15 22:52:13,0,bug,order_tracking,5,negative
+swiggy,14593840-35ac-408a-8724-a51b36f8e528,order delayed and the restaurant phone number is incorrect,1,2026-09-15 22:52:01,0,bug,order_tracking,5,negative
+swiggy,152c7220-2f48-49ad-8f2b-88c148e272e6,very disappointed service.,1,2026-09-15 22:45:49,0,bug,other,4,negative
+swiggy,971b0d21-de12-4364-856c-acb964cf5174,ok,5,2026-09-15 22:45:10,0,noise,other,1,neutral
+swiggy,671a6851-5483-4b07-9c16-3de3d74e44ac,good,4,2026-09-15 22:41:08,0,noise,other,1,positive
+swiggy,1b530da2-0ea5-4106-a0cc-a58c4c0ddf5c,"Every 3rd order in my history, is delayed by 2 hrs or it doesnt turnup at all. This is ridiculous we just sit hungry. Uninstalling right nw.",1,2026-09-15 22:40:57,0,bug,order_tracking,5,negative
+swiggy,fc03825d-a735-47d9-84d9-c00c3e381651,very poor customer service,1,2026-09-15 22:39:01,0,bug,other,5,negative
+swiggy,66c5f73e-e702-46bc-bfea-d4a4ddf4fb71,worst food application ever seen,1,2026-09-15 22:37:06,0,noise,other,1,negative
+swiggy,7f56b731-1676-4255-a833-a970902d0cb7,Horrible customer care. They overcharge. Delivery partners never pick up calls. Fraud company,1,2026-09-15 22:35:10,0,bug,checkout,4,negative
+swiggy,140eb336-936d-4d1f-b074-04d1f05fc6d2,too delivery charges,1,2026-09-15 22:34:53,0,bug,checkout,3,negative
+swiggy,6d63b934-70ca-4e4a-8f16-2cbc8ac70963,they don't refund the amount for the order you didn't not receive. worst experience.,1,2026-09-15 22:34:37,0,bug,payment_gateway,5,negative
+swiggy,82007d5a-3959-44bb-8433-a3a5712da65c,"really horrible customer service - they have limitations for everything.. they are of 0% assistance same problem every time... this time the customer care representative asked to to cancel the order and go for a refund, since they couldn't update the address 😂",1,2026-09-15 22:32:37,0,bug,other,5,negative
+swiggy,fd28bb6d-b10d-4a9b-9552-0cd801fef870,helpfull food delivery app for college students,5,2026-09-15 22:31:53,0,noise,other,1,positive
+swiggy,c9dc417e-0ff6-48c9-9475-25cbfc187fe3,Nice app,5,2026-09-15 22:31:02,0,noise,other,1,positive
+swiggy,698fc5b7-b408-468d-ba7c-9d0a4cfa480c,1 price too high than restaurant price 2 delivery + other charge more than food price.,1,2026-09-15 22:30:53,0,bug,other,4,negative
+swiggy,18590160-fac5-4975-b7bd-587989c4aad4,"The order cancellation process is inconvenient by design. The cancellation option itself is hard to find, and when you do find it you talk to an AI agent in circles eating time. when you do managed to request for a human (which wastes much time) the human agent refuses to respond to my queries. ultimately I gave up.",1,2026-09-15 22:30:34,0,ux_confusion,order_tracking,4,negative
+swiggy,632ccf9a-d101-4de5-b893-026e8910df95,I good,5,2026-09-15 22:23:48,0,noise,other,1,positive
+swiggy,4704fe99-9679-4b34-ad42-127c077df30d,good 👍,5,2026-09-15 22:19:56,0,noise,other,1,positive
+swiggy,8c3f0d6b-f18e-41a1-bce1-160d07abb1ea,worst experience,1,2026-09-15 22:16:03,0,noise,other,1,negative
+swiggy,0f440c01-a7b4-4ad2-b77e-0cbb550b72a4,😊,5,2026-09-15 22:15:22,0,noise,other,1,positive
+swiggy,7026e547-3838-4db3-ad0e-c21f91672c91,good,5,2026-09-15 22:14:30,0,noise,other,1,positive
+swiggy,2d15bf3e-3843-4e7c-833a-0914e2b64dc5,on time,5,2026-09-15 22:12:34,0,noise,other,1,positive
+swiggy,532da82b-157d-4974-a65a-aa0e774316f2,excellent site,5,2026-09-15 22:12:08,0,noise,other,1,positive
+swiggy,22a7b002-a28c-4ae9-9bb1-3e8fd8021bf5,bdiya 👍,5,2026-09-15 22:08:03,0,noise,other,1,positive
+swiggy,baecc63c-9806-41d8-a569-a3163c6ad190,Swiggy is not for people it's for no one else you will face a Harsh punishment or you will go bank curupted,1,2026-09-15 22:07:48,0,noise,other,1,negative
+swiggy,085449c6-fdb2-49bb-9f6f-7cf601bab554,"I ordered food at night and waited for a long time. Just before the delivery, you cancelled my order and refunded the amount. By that time, my hostel doors were already closed, and I was left without any food. The worst part is that there was not even an option to properly contact or talk to customer care for immediate help. A refund does not solve the problem after making a customer wait for so long. If you were unable to deliver the order, you should not have accepted it in the first place.",1,2026-09-15 22:06:46,0,bug,order_tracking,4,negative
+swiggy,29412f41-0375-4142-a657-a534eb0909d6,"Very disappointing experience with Swiggy. I ordered from Rominus Pizza and Burger through Swiggy at night, but chicken pieces smelled horrible and seemed stale/spoiled. I reported issue, yet I had to deal with 3+ hours of frustration with almost no proper customer support. No proper support number, and the in-app support was of little help. Food wasted, money wasted, and I was left hungry. Swiggy seriously needs to improve its customer support and take food-quality complaints seriously.",1,2026-09-15 22:06:34,0,bug,other,4,negative
+swiggy,41ce82f1-3fbb-4594-81d2-1399b22701c7,Thank,5,2026-09-15 22:06:33,0,noise,other,1,positive
+swiggy,f5730f68-b4b0-4798-989c-771cfe7fbabb,good 👍,5,2026-09-15 22:05:59,0,noise,other,1,positive
+swiggy,8290a5a2-2509-46d6-869e-ec398bd9a973,sabse ghatiya app hai mere sath 3 bar esa hua hai order krne ke 2 ghante tak order nhi mila mujhe . aur aap order cancel kroge to pura pesa charge bol ke kat lete hai 😟😟 inki marji hogi tabhi order pahuchega . 1 bar nhi 3 ya 4 bar hua hai mere sath aur mere pas iska screenshot bhi hai.,1,2026-09-15 22:05:31,0,bug,order_tracking,4,negative
+swiggy,5da42a9b-8002-497e-b0f8-69bdd4536c1d,ese hi,5,2026-09-15 22:05:10,0,noise,other,1,neutral
+swiggy,b789ba11-d603-4a33-9ed3-ddb3aaa6da7e,good 👍👍👍👍👍👍👍👍👍👍👍👍👍,5,2026-09-15 22:05:03,0,noise,other,1,positive
+swiggy,89c9d001-0c38-43e2-8c16-763512fd657b,ver good fast delivery,5,2026-09-15 22:03:43,0,noise,other,1,positive
+swiggy,5c9e8cc1-f5c4-4bcf-a518-be1b81c5368b,"Third class service, no delivery partner received call",1,2026-09-15 22:02:15,0,bug,notifications,5,negative
+swiggy,b4704847-58c8-431d-8d05-24a019ea41ee,good,5,2026-09-15 21:54:48,0,noise,other,1,positive
+swiggy,21551ef5-e076-4227-b8c9-96c13e0cd550,good,5,2026-09-15 21:54:19,0,noise,other,1,positive
+swiggy,c1822449-5eb1-4d5f-8fd9-636d3dc4672f,good,5,2026-09-15 21:49:07,0,noise,other,1,positive
+swiggy,51625877-5efd-4cb3-a5a9-0c8c2741522d,good 😊,5,2026-09-15 21:48:42,0,noise,other,1,positive
+swiggy,36c0f186-7251-42b1-ada1-56ee434e52ab,nice,5,2026-09-15 21:45:04,0,noise,other,1,positive
+swiggy,8bedecee-81d7-45a8-a848-7029e146f8d6,the food delivery partners are worst here,1,2026-09-15 21:44:44,0,bug,order_tracking,4,negative
+swiggy,86e43b75-4eb5-4c6f-9c30-7d1490acd4f2,nice,5,2026-09-15 21:44:11,0,noise,other,1,positive
+swiggy,6241a361-e9e7-4b88-81de-0486cad2494d,very good services,5,2026-09-15 21:41:09,0,noise,other,1,positive
+swiggy,28eaf0ff-0885-4c09-8301-126d20158e29,worst,1,2026-09-15 21:37:43,0,noise,other,5,negative
+swiggy,e4575ef3-aa8f-4a78-9c14-0ebf5604c0c6,good very good app I buy always red Bull they give chilled but other app no give chilled red bull thks you,5,2026-09-15 21:37:38,0,noise,other,1,positive
+swiggy,9065146f-2d26-420f-9dc9-34e20f914bf7,give more discount upto 99.9%,1,2026-09-15 21:37:28,0,feature_request,checkout,3,negative
+swiggy,339c758c-f993-43c2-9768-48bc041263ad,very third class service provided by Swiggy Instamart customer care,1,2026-09-15 21:37:20,0,bug,other,5,negative
+swiggy,7127bf6b-931d-41e3-9115-06f8c293b2db,they say they have no control over the restaurants...and they r free to supply u anything and everything with no liability on Swiggy's part...they are here just to charge u 150% of the actual cost of the items...along with numerous other taxes...and after u complaint....the help team is never the right team to solve the issues...they r simply an evil we tolerate....,1,2026-09-15 21:36:11,0,bug,other,5,negative
+swiggy,93c6842b-85eb-4425-93c5-2e684e902b5b,special service,5,2026-09-15 21:35:20,0,noise,other,1,positive
+swiggy,b0ced518-a645-4b92-89da-8180996d0ce3,good service,5,2026-09-15 21:33:19,0,noise,other,1,positive
+swiggy,94625071-2727-4802-849f-e2614ef5d98a,Wrong order delivered Swigy dosen't cares,1,2026-09-15 21:32:30,0,bug,order_tracking,5,negative
+swiggy,ed7b6d76-20ca-4404-ae47-05de34513951,super app very easy to use,5,2026-09-15 21:31:22,0,noise,other,1,positive
+swiggy,99073d35-3ae3-4c34-a5ab-3e20620756f1,very bad service,1,2026-09-15 21:31:21,0,bug,other,5,negative
+swiggy,3b49483f-2053-410b-aa39-e6961cd340f3,super 👍🏻,5,2026-09-15 21:30:44,0,noise,other,1,positive
+swiggy,7f29362a-293b-4517-8bf0-477020ba78ae,help support team very bad,1,2026-09-15 21:30:07,0,bug,other,5,negative
+swiggy,e477148f-d0de-46be-a389-64ad3d78ee0a,good,5,2026-09-15 21:28:47,0,noise,other,1,positive
+swiggy,96f742c9-9bb0-4015-b9b0-152d7263c23c,not good bad sarvice no response,1,2026-09-15 21:20:55,0,bug,other,5,negative
+swiggy,dbcef515-d53b-4a6c-be15-e6454bc50595,good,5,2026-09-15 21:20:50,0,noise,other,1,positive
+swiggy,2489835a-486c-43e8-a62d-6ec4893dde00,very good very nice,5,2026-09-15 21:20:30,0,noise,other,1,positive
+swiggy,044f79b0-8adb-40b1-85fe-4a4d9529e1d1,excellent,5,2026-09-15 21:19:41,0,noise,other,1,positive
+swiggy,255855cb-e27b-461e-a9a4-620ef9d53f3b,poor service. ordered not delivered and money not refunded. no customer care. no response.,1,2026-09-15 21:19:32,0,bug,order_tracking,5,negative
+swiggy,b465aacf-a330-4d61-a2eb-fe5771eb2179,osm,5,2026-09-15 21:19:23,0,noise,other,1,neutral
+swiggy,28e3434d-1230-4338-b437-e51ac3c53608,"Worst service. I ordered through Swiggy, but my order was not delivered and had to be cancelled. Very disappointing experience. I would not recommend this service.",1,2026-09-15 21:19:00,0,bug,order_tracking,5,negative
+swiggy,018683d5-f0a8-408b-9dee-b00e0aa37aa2,app not getting login and very bad experience,5,2026-09-15 21:18:55,0,bug,login_auth,5,negative
+swiggy,0927a170-b467-46bb-bb3e-2ebcb0517cc6,super,5,2026-09-15 21:17:00,0,noise,other,1,positive
+swiggy,99310f08-bcac-4d4b-9bef-d1c26ca65003,ok,1,2026-09-15 21:15:36,0,noise,other,1,neutral
+swiggy,93ed8d14-b211-4385-9f97-7772a5d691ea,super,5,2026-09-15 21:13:52,0,noise,other,1,positive
+swiggy,f6af2106-b2bd-4ca0-b451-2a6d51b7dc4f,"Absolutely pathetic customer service. Food arrived completely spilled and damaged, yet they clearly don’t care about customer experience or hygiene. Repeated issues with zero accountability. Not worth trusting this app.",1,2026-09-15 21:05:20,0,bug,other,5,negative
+swiggy,00a9b1f8-2ba5-4dc8-84da-2d808993da51,fast delivery,5,2026-09-15 21:05:06,0,noise,other,1,positive
+swiggy,8a904d7d-1d70-44c0-93cc-532eba58f538,very poor service do not value their customers money and time,1,2026-09-15 21:02:45,0,bug,other,4,negative
+swiggy,44c584e8-462e-4fe9-9279-e715d76c705d,good,5,2026-09-15 21:01:40,0,noise,other,1,positive
+swiggy,ef2352b1-3e4f-446a-8266-aa02d667fe2a,good 😊,5,2026-09-15 21:00:33,0,noise,other,1,positive
+swiggy,74d7f2ad-436e-44ef-ad85-323b76459a68,delivery price are little high,3,2026-09-15 20:56:06,0,feature_request,checkout,3,negative
+swiggy,4683ce94-9136-4280-9edb-cee41a53b7ac,swiggy the best fast delivery good,5,2026-09-15 20:55:53,0,noise,other,1,positive
+swiggy,5a7357eb-c5d8-4c1f-b2d2-d7068888b3ee,You have made up a lot of brain dictator response. The hat I love doing bad.,5,2026-09-15 20:55:15,0,noise,other,1,neutral
+swiggy,f77e9405-09d3-478a-9b11-9706600c15af,"spilled over items are delivered wherein whole sweet syrup of malpua is outside of packaging. why should I pay if you can't package and deliver it properly? instead of listening to customer problems, ai chatbot is programmed to route to looped response. Awful way of customer handling.",1,2026-09-15 20:54:56,0,bug,other,5,negative
+swiggy,f617e3cc-02c0-4ce5-9953-97ad32dc7853,good 👍😊,5,2026-09-15 20:53:36,0,noise,other,1,positive
+swiggy,b1fdcc8e-7265-4382-8c67-45b2c1c0ac89,nice app it's useful,4,2026-09-15 20:53:24,0,noise,other,1,positive
+swiggy,fcb1f672-01ad-486e-a678-948a1e5931e5,good,5,2026-09-15 20:46:24,0,noise,other,1,positive
+swiggy,a662ff6c-1284-4eab-b480-5491912f6f73,nice,5,2026-09-15 20:44:52,0,noise,other,1,positive
+swiggy,baf386ee-af8a-4b4d-8bed-9aab857d3acb,super,5,2026-09-15 20:44:43,0,noise,other,1,positive
+swiggy,39ae755b-49b4-4df7-959d-01a45e67b0a8,good,5,2026-09-15 20:43:47,0,noise,other,1,positive
+swiggy,5fcb0fd4-bf45-41d2-b697-3a21c23ce4dc,good,5,2026-09-15 20:41:29,0,noise,other,1,positive
+swiggy,8bbf83f2-0036-4727-a164-a3f27cdbae90,good 👍,4,2026-09-15 20:40:04,0,noise,other,1,positive
+swiggy,ae7e5b87-53b8-4ff6-b0d6-3e032eb5fc9f,Nice,5,2026-09-15 20:39:26,0,noise,other,1,positive
+swiggy,edacb12e-4bea-4d0c-aa8f-72378dda8a60,nice 👍,5,2026-09-15 20:38:52,0,noise,other,1,positive
+swiggy,03c9256f-b54d-4ea3-8f32-08b74fe844ae,verry nice,5,2026-09-15 20:36:46,0,noise,other,1,positive
+swiggy,88b6c606-0e0d-4924-864f-1d3a64eb9469,Ajay Kumar,5,2026-09-15 20:31:59,0,noise,other,1,neutral
+swiggy,66e30d83-4119-48c3-90d5-4853723e4647,good,5,2026-09-15 20:31:59,0,noise,other,1,positive
+swiggy,fc94b570-e592-46c5-911b-898707126fbb,it's ok,4,2026-09-15 20:29:24,0,noise,other,1,neutral
+swiggy,e90dc185-6fe8-4621-96cd-3fd9d597c4f1,good 👍,5,2026-09-15 20:26:48,0,noise,other,1,positive
+swiggy,8c337d10-155d-4fc7-92fa-35b93f760964,seriouslt it would have 0.5 star i can give it everytime when i place order it is taking more than 50 minutes and also four days before i placed order i was very hungry i could not go outside for restuarant so i ordered in swiggy it took 1 hour 20 minutes i placed the order 7:53 pm but i got it 9:20 i was really disappointed so i did not give bad rating for rider so i was silent even i ordered now 15 sept still it is taking 50 minutes come on i cant wait everytime,1,2026-09-15 20:23:28,0,bug,order_tracking,4,negative
+swiggy,f350bf93-503d-4e6b-a7ab-4f0c0626451e,superb,5,2026-09-15 20:17:02,0,noise,other,1,positive
+swiggy,3991fa61-e78b-4104-b1ed-b1bb94376dad,very bed and i request kadi gujarat location in not use below app very bad if zero star system i give same,1,2026-09-15 20:14:56,0,bug,other,5,negative
+swiggy,cb13abd6-6692-42c7-b9a7-7e51361d8ecc,"⚠️ THINK TWICE BEFORE USING SWIGGY! Extremely disappointing experience. I waited until 10:10 PM, but no delivery partner was assigned. When I tried to cancel, the app said “Unable to cancel.” I had to leave, and only afterward did the delivery partner call. I was then told I’d face a penalty on my next order. Swiggy’s delay, cancellation system, and customer support are extremely unfair. Customers shouldn’t be penalized for platform delays.",1,2026-09-15 20:13:51,0,bug,checkout,4,negative
+swiggy,30ac6827-8b25-41f9-a49f-614fadf3346d,good,5,2026-09-15 20:11:11,0,noise,other,1,positive
+swiggy,4bab48c5-e69e-4c14-99b0-a22d73a5aa93,"got food poisoning because of food i ordered from Swiggy and its partners. and when I asked for help from its customer service, they took it as a joke and the max they could do was refund my bill amount instead they gave me a penny compared to my bill. NEVER USE SWIGGY. GO WITH ZOMATO. THEY HAVE GOOD PARTNERS AND GOOD CUSTOMER SERVICE!",1,2026-09-15 20:09:46,0,bug,other,5,negative
+swiggy,652468da-77a7-4346-9e98-40cb8d88f73d,excellent,5,2026-09-15 20:05:48,0,noise,other,1,positive
+swiggy,565a8ccd-4977-40df-976d-8f5989528163,"Just giving 1 star because I can’t give -100 stars. I placed an order and tried to cancel it almost immediately, but the app said, “Your food is being cooked.” Seriously? How is the food already being prepared so quickly after placing the order? On top of that, the app doesn’t let me cancel the order or properly connect with customer support. I don’t want the order anymore, but there’s no proper way to cancel it. And somehow, even in 2026, the app is still the same. It crashes whenever I try",1,2026-09-15 20:05:41,0,bug,order_tracking,5,negative
+swiggy,0246a13b-1bd9-448c-bd8b-22268a952cfb,damage item delivered and not replaced or refund,1,2026-09-15 20:04:36,0,bug,checkout,4,negative
+swiggy,db4465b5-ec8b-4cd5-8204-825b6d631ae5,"the delivery time shows is total scam ,it shows always on time and if you calculate the exact time you can find it's always late minimum 15-20 min",1,2026-09-15 19:52:32,0,bug,order_tracking,5,negative
+swiggy,2c14244d-489a-457a-a2b4-4e681de4c01c,best and cheapest price🥰,5,2026-09-15 19:52:05,0,noise,other,1,positive
+swiggy,dd5f546a-9860-4848-8633-41160ab7c990,very good,4,2026-09-15 19:45:48,0,noise,other,1,positive
+swiggy,2ae50843-70f7-430a-9b24-ff81db0d4c0b,I am really disappointed as to how the support Executives replied and there is no call a support executive option. How is it justified to receive a cut/broken yogurt box worth 309 that cannot be used but all I get to hear is that the images have been checked (despite sharing clearly the broken and leaking part) and there is no refund or return. This happened earlier as well that time the box was 60 rupees so I did let it go. the services are taking the customers for granted every passing day.,1,2026-09-15 19:45:26,0,bug,other,4,negative
+swiggy,ffd44432-0caa-4f49-b0a5-e8bbafc2a275,awesome,5,2026-09-15 19:44:53,0,noise,other,1,positive
+swiggy,ec5f3b8a-3e2d-47ea-bac0-3645921d1948,dont order in swiggy. thay add 30% additional from asi its charge. kindly avoid swiggy and online order food. my last order saraswathy vilas hotel Theni 15.09.26,1,2026-09-15 19:43:47,0,bug,payment_gateway,4,negative
+swiggy,57a1618f-6d7d-4dd4-960a-87e628140d50,Bhai bdhiya app he,5,2026-09-15 19:40:24,0,noise,other,1,positive
+swiggy,21ee45e2-d2dd-4a9a-a4a2-d3ad874f85dc,good,5,2026-09-15 19:40:20,0,noise,other,1,positive
+swiggy,8660956b-7075-4fe3-a8fd-beaa4eb8a47f,nice,5,2026-09-15 19:38:01,0,noise,other,1,positive
+swiggy,664b6dd0-4e7d-4593-8804-4db0e32723bc,excellent,5,2026-09-15 19:36:38,0,noise,other,1,positive
+swiggy,f8078cb6-6b4e-4bba-b929-502d47e3d91e,good,4,2026-09-15 19:36:00,0,noise,other,1,positive
+swiggy,41a08956-f933-4d23-ba5a-c7fe5f848eba,great,5,2026-09-15 19:35:47,0,noise,other,1,positive
+swiggy,0d420843-98be-4df5-bcf4-ae1618c420cb,yah app mein jo delivery rahata hai na vah 5 minut dikhate hain lekin 5 minut mein aate nahin Hai,2,2026-09-15 19:31:21,0,bug,order_tracking,3,negative
+swiggy,d87a1e5f-a389-458a-8302-56a912ae272d,Hated it,1,2026-09-15 19:26:54,0,noise,other,1,negative
+swiggy,42b4d585-d78f-4ac5-94d7-e90d8ec602fd,very good,5,2026-09-15 19:23:04,0,noise,other,1,positive
+swiggy,c8daabc0-254b-4280-add1-043a59ba6d37,Nice app for food delivery,5,2026-09-15 19:20:53,0,noise,other,1,positive
+swiggy,61e394bd-2433-45b9-a9ff-934316ab6abf,👍🏻,5,2026-09-15 19:17:17,0,noise,other,1,positive
+swiggy,1f67b984-fcca-4b08-ab98-86407ecd747a,good app 💯,5,2026-09-15 19:14:59,0,noise,other,1,positive
+swiggy,a440695b-c7fc-491e-b27f-ddc13b7d19b0,agar aapne 1 baar order kar diya ...usko aap cancel nahi kar sakte ..vo penalty aap par hi lagagi...chahe vo 3 ghante tak koi response de ya na de..chahe aap kuch second baad hi order cancel karana chahe...aap order cancel nahi kar sakte..,1,2026-09-15 19:09:37,0,bug,checkout,4,negative
+swiggy,2baadb3d-063a-4f60-8744-c5399f2907d5,very nice and have product availability.,5,2026-09-15 19:08:22,0,noise,other,1,positive
+swiggy,969f041c-dd49-4819-b8ae-c083140ce062,Help service is poor. I didn't received my order and they took my money.,1,2026-09-15 19:06:27,0,bug,order_tracking,4,negative
+swiggy,965e795c-408e-49b4-b8c1-b79c5e61ce9b,Swiggy app not installingg,4,2026-09-15 19:02:40,0,bug,other,5,negative
+swiggy,c8cb0258-7995-42b7-b86e-b239deb13da0,good,5,2026-09-15 19:02:40,0,noise,other,1,positive
+swiggy,6b6c790d-d661-4181-aad9-60241a30a69d,good,5,2026-09-15 18:58:49,0,noise,other,1,positive
+swiggy,1c76f4b2-c78a-4497-a8a1-cb4c744c31de,❤️❤️,5,2026-09-15 18:54:50,0,noise,other,1,neutral
+swiggy,491e59da-fad7-46ca-9429-a1018a4b85f9,Stop using this app for three months and platform fee will become platform free.,1,2026-09-15 18:54:35,0,noise,other,1,negative
+swiggy,36693e5a-4f09-4552-a377-b21636d3e8f2,Nice 👍,5,2026-09-15 18:53:07,0,noise,other,1,positive
+swiggy,82fa4ebf-3c30-4959-aec9-46e768763b36,very good,5,2026-09-15 18:52:49,0,noise,other,1,positive
+swiggy,f08bf3ea-a8e6-40b0-aa74-736fe14a46de,good,5,2026-09-15 18:50:29,0,noise,other,1,positive
+swiggy,1f6b97cb-b996-4d80-932d-7e62edfb5916,khane ka baad rating karunga,5,2026-09-15 18:46:05,0,noise,other,1,neutral
+swiggy,a2551520-2b0a-4cb3-abb6-f68496d2784c,worst pathetic app with the worst customer service and they keep making the same mistake of not delivering orders time and time again. they are lucky google playstore doesn't have 0 zero star rating. else I'd have given 0 or -1 star,1,2026-09-15 18:45:09,0,bug,order_tracking,4,negative
+swiggy,d6ca8e6c-806f-46a3-89f7-c4ceba653272,nice,5,2026-09-15 18:40:23,0,noise,other,1,positive
+swiggy,6097c7e8-cfaf-4ce2-9f8e-6215ba952510,sangam kumari,4,2026-09-15 18:33:18,0,noise,other,1,neutral
+swiggy,334837cd-1df5-4a8f-9612-7296c989d001,good app,5,2026-09-15 18:19:09,0,noise,other,1,positive
+swiggy,3d735490-c338-4a00-bef4-6888f05e0435,toing service is very bad,3,2026-09-15 18:17:00,0,bug,other,3,negative
+swiggy,4480e212-8ec0-44bf-8c65-e20052ed79ae,dheva loves geetha,5,2026-09-15 18:16:54,0,noise,other,1,positive
+swiggy,479a089d-6ecc-4312-90c6-2e4f4faad2e4,nice 👍,5,2026-09-15 18:10:43,0,noise,other,1,positive
+swiggy,fa23ca57-ad65-466b-8d5b-3165a9f986fd,I have never seen such a irresponsible Platform ever.. today I ordered my food and I waited for it one and half hour... after that I called to swiggy customer care and they didnt help me ... they say we will refund you ... abe chutiyo mene refund ke liye one and half hour wait kiya tha kya ... aisi third class services dete ho sharam nahi aati ..😡😡😡😡.... I was damn hungry and didnt eat from morning and they do this to me .... agar business chalana nahi ata to karte kyu ho nallo 😡😡😡😡😡,1,2026-09-15 18:01:30,1,bug,order_tracking,5,negative
+swiggy,76c2a8a8-4f80-42b3-bf03-619225f28f31,👌👌👌,5,2026-09-15 17:59:34,0,noise,other,1,positive
+swiggy,67c878fa-9819-4261-8f1c-0425a1071cc2,good,5,2026-09-15 17:58:36,0,noise,other,1,positive
+swiggy,212ae7d5-8ae8-40e6-a3b7-69b512cd19cf,good,5,2026-09-15 17:53:21,0,noise,other,1,positive
+swiggy,ee498019-336b-4442-8213-8bc38e14d26b,"update: message from Swiggy social and was promised the refund but the way they said is not I was hoping for Swiggy reply: We certainly understand how disappointing this must be, as this is not the service we would like our customers to experience. We would like to offer our deepest apologies for the trouble you had to experience with us regarding your order. We as a delivery app always try to deliver delightful service to our customers and this is the exact opposite we pride our-self on.",1,2026-09-15 17:49:22,0,bug,checkout,5,negative
+swiggy,74cea890-29b9-4efb-9f27-991f04e144dc,good,2,2026-09-15 17:47:27,0,noise,other,1,neutral
+swiggy,0e6e0d7e-837a-41f5-b5de-35ea51359c23,superb,5,2026-09-15 17:45:46,0,noise,other,1,positive
+swiggy,0658df94-6faf-445f-9ee3-907eaf37ed0f,delivered in time,5,2026-09-15 17:39:25,0,noise,other,1,positive
+swiggy,f100c01e-6af9-4fdd-86ff-8361815444a9,bestt,5,2026-09-15 17:38:51,0,noise,other,1,positive
+swiggy,e8ed846c-02f2-4669-b638-c42291ab9d97,"very poor service, very late service.",1,2026-09-15 17:35:47,0,bug,other,5,negative
+swiggy,25d69d7c-e82b-4604-82f4-4149dc2c3a7d,good,5,2026-09-15 17:24:32,0,noise,other,1,positive
+swiggy,41d1b0a5-2d72-434c-9ead-f15c7a507258,Good experience,5,2026-09-15 17:20:45,0,noise,other,1,positive
+swiggy,91024f6d-974a-4549-9be9-a24ee6bf833f,Poor delayed deliveries.,1,2026-09-15 17:18:06,0,bug,order_tracking,4,negative
+swiggy,7dc95227-a8a2-4cd7-a5e2-82e3fbd3fddd,very good,5,2026-09-15 17:17:51,0,noise,other,1,positive
+swiggy,7c5db046-2da6-41c7-95c6-6842ecedd92b,very nice 👍🙂,5,2026-09-15 17:15:10,0,noise,other,1,positive
+swiggy,c8c93284-486f-4282-beed-7c6a519d7af3,ok,5,2026-09-15 17:13:46,0,noise,other,1,neutral
+swiggy,51ab8519-c53a-4f14-94cc-c01bd08abbee,Worst team. They send expired products and does not even refund after raising the request in the app by adding 2 photos. Only use this app if you want to face troubles,1,2026-09-15 17:11:30,0,bug,checkout,5,negative
+swiggy,120eda04-0dc2-486a-ac3d-b25e4d5f1bf9,Fabulous fantastic amazing excellent superb dashing service ❤️ 💙 💜 💖 💗 💘,5,2026-09-15 17:06:01,0,noise,other,1,positive
+swiggy,4c007bba-6ad9-425c-808e-f05ceec7d8a0,very good,5,2026-09-15 17:03:51,0,noise,other,1,positive
+swiggy,c3ab80b3-4f51-429b-9e78-b64489f27ba1,awesome,3,2026-09-15 16:58:24,0,noise,other,1,positive
+swiggy,73442b9f-6b26-4130-ad6d-8f998c03eeb4,tq for app,5,2026-09-15 16:48:15,0,noise,other,1,positive
+swiggy,314d5e24-54a5-4247-b9c4-f2dd6136d98b,good,4,2026-09-15 16:44:40,0,noise,other,1,positive
+swiggy,0b36c73a-7eb5-420d-a6e6-9e34f0ea8301,very nice,5,2026-09-15 16:43:18,0,noise,other,1,positive
+swiggy,5284912c-37b7-424b-ae92-79846a25e942,good,5,2026-09-15 16:40:27,0,noise,other,1,positive
+swiggy,b956090b-3c49-464f-982c-ccac61eca98c,it is the good and excellent app,5,2026-09-15 16:34:21,0,noise,other,1,positive
+swiggy,23b7e5d9-a57b-4edd-a7ac-d5a786bd8442,"worst app ever ,,, they delayed my order and i want to cancel the order they say u have to pay charges for cancellation...worst experience ever",1,2026-09-15 16:34:09,0,bug,order_tracking,4,negative
+swiggy,40308cfd-6a2f-488e-91b5-8b0c8f3b0400,nice app.,5,2026-09-15 16:31:28,0,noise,other,1,positive
+swiggy,c7dff49b-fe82-4404-8118-957d8d272a54,it's grt experience,5,2026-09-15 16:30:39,0,noise,other,1,positive
+swiggy,44410309-3d09-4ea8-9241-0cf5089eee72,best app,5,2026-09-15 16:26:15,0,noise,other,1,positive
+swiggy,f9bb400d-ed89-4824-ac0b-71022d5bb2f3,guu app,5,2026-09-15 16:23:36,0,noise,other,1,positive
+swiggy,8cca9ee4-98f7-46c9-9625-ec3a6a4cf882,worst experience I order food single time but in the application the order will be goes a twice so I have to cancel a one order for that cancellation order they are living my order and also inform me for next time food they will be charged me the cancellation for charges so there mistake and I will change I will pay the charges I uninstall it don't use it .,1,2026-09-15 16:22:59,0,bug,checkout,4,negative
+swiggy,1318b955-12d3-4284-abba-2bb5b5d3e214,nice,5,2026-09-15 16:21:48,0,noise,other,1,positive
+swiggy,6d7f388a-cd74-4d4e-9c59-462994e8b02d,Nice,5,2026-09-15 16:21:13,0,noise,other,1,positive
+swiggy,804925cf-bee8-4e03-aadd-909e60ef2fb3,delivery on time and item quality are good 😊,5,2026-09-15 16:18:09,0,noise,other,1,positive
+swiggy,c2e379f4-ebc3-47e5-afaa-5eaa01ff5881,befor order,5,2026-09-15 16:16:46,0,noise,other,1,neutral
+swiggy,a71fffc0-a149-42ec-9fe3-9f9e1fe979d6,ok,5,2026-09-15 16:13:51,0,noise,other,1,neutral
+swiggy,21049aad-ff9a-43cd-9b05-5786a69ed7cb,customer care is non existent,1,2026-09-15 16:12:53,0,bug,other,5,negative
+swiggy,6f707485-5a69-47dc-82ad-45475c030f92,bekar he yr,5,2026-09-15 16:11:21,0,noise,other,1,neutral
+swiggy,da715825-7e41-4f69-9e4c-994e92301e80,good 👍,3,2026-09-15 16:05:07,0,noise,other,1,positive
+swiggy,5a21b0a4-65a9-49f8-89ee-ff1e6fc9a07a,"placed order today at 1.38 pm .after 1hour 10minutes of waiting Swiggy informed that they cancelled order due to bike issue and refund will be credited within 5 days.after that placed order from sister's account and waited for 1/2 an hour and then again they changed partner and reported as bike issue again assigned to another partner ,and now finally we got lunch at 4pm.Thank you Swiggy..me my sister and my 6 year old baby waited till 4pm for having lunch 😔",1,2026-09-15 16:04:36,0,bug,order_tracking,4,negative
+swiggy,c9b0d622-4662-4866-86cf-ba73999d84b9,very nice,5,2026-09-15 16:04:31,0,noise,other,1,positive
+swiggy,670f6b65-3306-48a5-aa82-eec0a1702771,👍,5,2026-09-15 16:02:11,0,noise,other,1,positive
+swiggy,ebaaf401-8ce6-4efa-95d0-76832287bdb8,hhshshehe,5,2026-09-15 15:58:01,0,noise,other,1,neutral
+swiggy,ecd7e2b1-9d48-4403-b956-fecaa5d0ce5c,"ABSOLUTE SCAM! Found HAIR in my food today! The food quality was disgusting—foul smell & rock-hard bread. Support humiliated me by offering a ₹39 coupon for an order that cost way more. The agent blamed ""the system"", refused a real refund, and blocked me from talking to a manager. They take your real cash, deliver contaminated food, and refuse accountability. Swiggy has zero respect for food safety or customers. Do yourselves a favor, do not throw your money away here!",1,2026-09-15 15:55:12,1,bug,other,5,negative
+swiggy,5e7f0836-1b49-4454-a5de-08722f989eb2,not specified pure veg restaurant,1,2026-09-15 15:52:06,0,bug,other,3,negative
+swiggy,68b4112a-1138-4c65-bbeb-dad5227d45d6,good,5,2026-09-15 15:51:55,0,noise,other,1,positive
+swiggy,98fd14ac-95d7-4f13-8dc9-fd46a3afff4b,good,5,2026-09-15 15:51:25,0,noise,other,1,positive
+swiggy,a2a72f61-03a8-4096-b0d3-98a46cf4f90c,Delevery person is tha worst person,1,2026-09-15 15:49:50,0,bug,order_tracking,3,negative
+swiggy,3fc46995-b9bd-4aa8-ab89-d57402c459a2,good 5 star,5,2026-09-15 15:49:05,0,noise,other,1,positive
+swiggy,ef992e04-7fc6-4a9e-bde5-be3831521858,nice 👍,5,2026-09-15 15:48:37,0,noise,other,1,positive
+swiggy,15835e9b-b03d-458b-9bd3-de28ecbd93f9,nice bavundhi,2,2026-09-15 15:48:32,0,noise,other,1,neutral
+swiggy,83bdabd6-c758-4e56-81ee-6719de52999c,"The “Proceed Order Anyway” option after a payment failure/cancellation is concerning. My young son accidentally clicked it, and the order was placed immediately without any OTP or confirmation. Unfortunately, such orders cannot be cancelled either. Please reconsider this option and add a confirmation/OTP step to prevent accidental orders, especially by children. This would make the ordering experience much safer for customers.",1,2026-09-15 15:47:11,1,feature_request,checkout,4,negative
+swiggy,51202c21-70bf-4ec7-916d-631e97f1af4d,"I had another very bad experience with Swiggy. I placed an order today at 2:00 PM, but it still hadn’t been delivered even by 3:45 PM. I’m extremely disappointed and frustrated with Swiggy. This kind of service is really unacceptable.",1,2026-09-15 15:47:09,0,bug,order_tracking,5,negative
+swiggy,6766e748-17b4-447c-8fac-4d39ad64dc52,superb,5,2026-09-15 15:46:20,0,noise,other,1,positive
+swiggy,564b972a-3e3c-40fa-9f38-ac9ab4a1f14c,Nice 👍,3,2026-09-15 15:39:10,0,noise,other,1,positive
+swiggy,e0245b46-02cb-4129-87f8-218e0912c337,very good,5,2026-09-15 15:22:24,0,noise,other,1,positive
+swiggy,40e63412-97c5-445a-8076-f0ddc190c5fc,nice,5,2026-09-15 15:18:19,0,noise,other,1,positive
+swiggy,22832eee-41c5-45eb-82db-e2380fedecd1,chutya jevi app che delete mari dyo playstore mathi,1,2026-09-15 15:15:35,0,bug,other,5,negative
+swiggy,413a6769-a9da-440b-bffe-3369e1b13092,worst experience when delivering the food. they took more than 2 hours to pick up the order from the restaurant and keep on reassigning the delivery guy.,1,2026-09-15 15:06:21,0,bug,order_tracking,4,negative
+swiggy,7f80fa85-4db4-4a74-b633-00d5d597b170,Good,5,2026-09-15 15:04:00,0,noise,other,1,positive
+swiggy,51f7f62f-3f9f-4f83-8edb-3b70aa4d7340,good,5,2026-09-15 15:00:09,0,noise,other,1,positive
+swiggy,57fc4ec8-0ec2-46bf-a35e-bba7f6845e28,தெரியாத இடத்தில் இருந்து அட்ரஸ் எப்படி நான் போடுறது அதை கொஞ்சம் லொகேஷன் மட்டும் வச்சு கொஞ்சம் செட் பண்ற மாதிரி பாருங்க,5,2026-09-15 14:55:40,0,feature_request,checkout,2,positive
+swiggy,47530659-dceb-4cda-be2a-09d1114a758b,wonderful,5,2026-09-15 14:46:17,0,noise,other,1,positive
+swiggy,ec1e7bc0-1261-44e9-a226-86bc18de3246,good app,5,2026-09-15 14:42:41,0,noise,other,1,positive
+swiggy,0fc03b53-07de-490e-b7a3-b939035bfe3e,good,5,2026-09-15 14:28:54,0,noise,other,1,positive
+swiggy,01d3e38c-c3e2-4a77-8650-039e5617e1e5,good,5,2026-09-15 14:27:23,0,noise,other,1,positive
+swiggy,3711fabd-4e34-4ef3-9697-84547d221761,excellent,5,2026-09-15 14:19:47,0,noise,other,1,positive
+swiggy,394a2c6f-4345-4cd1-acad-f8d05e51064d,best,5,2026-09-15 14:15:15,0,noise,other,1,positive
+swiggy,264fd3d8-f3fa-440a-b18d-3725a4a5ec20,bolt in 15 min...but not yet received the food at time,1,2026-09-15 14:11:06,0,bug,order_tracking,4,negative
+swiggy,b394ea84-93c5-4f79-8ed3-e100501e069f,nice because it's is cash on delivery I don't use online payment 😭,5,2026-09-15 14:08:08,0,noise,other,1,positive
+swiggy,fab9d54b-ba73-46c3-834b-0167c1c070b3,kabhi oder time se nahi aaya hai or customer care me se bhi satisfying replay nahi milta ek dum 3rd class app hai,1,2026-09-15 14:01:23,0,bug,order_tracking,4,negative
+swiggy,8c16c9b8-72fc-4bd2-a7c7-5ee709b4e0df,good food,5,2026-09-15 13:56:18,0,noise,other,1,positive
+swiggy,6801101c-7ed6-4f3d-a68d-f73d259d2cab,good,5,2026-09-15 13:54:14,0,noise,other,1,positive
+swiggy,8f8a5c62-7e87-4820-8dde-8841e9752ff5,super,5,2026-09-15 13:44:46,0,noise,other,1,positive
+swiggy,ec5eff4f-83a9-4bbc-938a-165572c0f106,very bad delivery,1,2026-09-15 13:42:22,0,bug,order_tracking,5,negative
+swiggy,0b0d464a-27fd-4e1d-b53c-72bc588df926,bahut hi achcha app Hai yah download kara karo per ismein ek baat yah hai ki jo ismein jo order ka Paisa dikhata hai bad mein jab confirm karte Hain to aur jyada dikhata hai,5,2026-09-15 13:38:08,0,bug,checkout,3,positive
+swiggy,47ae222f-5240-46f4-8d40-31c96f2d59b7,cheap price,4,2026-09-15 13:24:03,0,noise,other,1,positive
+swiggy,c2b4665c-3e38-4e56-9d87-2c53fb6fa8e0,i have ordered available items . After placing order and completed payments.they are saying items not available. very poor service,1,2026-09-15 13:22:10,0,bug,checkout,5,negative
+swiggy,d54b3943-2df4-46ce-aa68-05565e32b3ed,best app,5,2026-09-15 13:13:21,0,noise,other,1,positive
+swiggy,f7a13aec-fc98-4b8d-8fa4-eb299959c4f5,nice,5,2026-09-15 13:10:49,0,noise,other,1,positive
+swiggy,20c2288b-94e3-4214-aeb8-802d5919d87d,most of the time order is delayed. no proper response. they mention as 15 mins bolt delivery and deliver order after 1 hour. no proper cancellation policy.,1,2026-09-15 13:06:29,0,bug,order_tracking,5,negative
+swiggy,8c82bf50-5478-4b6c-91f4-0cc583d09706,thank you,5,2026-09-15 13:05:37,0,noise,other,1,positive
+swiggy,d39c2ff8-f4bc-4457-977b-ed049428d16d,high service charges and taxes,1,2026-09-15 12:59:57,0,feature_request,payment_gateway,4,negative
+swiggy,2f4507f5-c32c-486f-994d-6887df4361bf,good,5,2026-09-15 12:57:15,0,noise,other,1,positive
+swiggy,44c3d314-8a78-4feb-aac7-b32a3b0f69d7,too much nagging,1,2026-09-15 12:48:31,0,ux_confusion,notifications,4,negative
+swiggy,8a0fa223-b438-4346-b882-596d50d76a09,good,4,2026-09-15 12:44:31,0,noise,other,1,positive
+swiggy,ddba9bb0-f5d5-4f19-9013-44fc133bc0ac,nhi aaayaaa,5,2026-09-15 12:39:04,0,noise,other,1,positive
+swiggy,a7ea1d1a-c867-4b69-8dfd-31ec8ed32bc5,good,5,2026-09-15 12:31:03,0,noise,other,1,positive
+swiggy,08093ce9-d704-4bb6-a501-46652c367c2b,best price 😎,5,2026-09-15 12:22:05,0,noise,other,1,positive
+swiggy,2c9cf1db-3f10-48e8-818b-add9c199245f,1 no application,5,2026-09-15 12:18:18,0,bug,other,3,negative
+swiggy,b7e5fb82-02fe-4ae2-8600-9e41e41347c2,no no coupon🥺😢😔,1,2026-09-15 12:01:59,0,feature_request,checkout,5,negative
+swiggy,9a6876ea-4bb6-4b9b-9b63-49eb2a3b045e,super 👌,5,2026-09-15 11:33:36,0,noise,other,1,positive
+swiggy,fc9ee0c1-9a14-48ea-afa6-53dd722df96c,Instamart is the worst app,1,2026-09-15 09:02:03,0,bug,other,3,negative
+swiggy,d61b1776-3e9c-4a91-9a73-f44fc662f01b,I haven't used Swiggy in 5 years but suddenly since two days I keep getting flooded with OTPs from Swiggy.,1,2026-09-15 09:00:57,0,bug,login_auth,3,negative
+swiggy,6c094018-4231-4d7f-ad7f-22823ad37fcf,all time available 24*7,4,2026-09-15 08:27:49,0,noise,other,1,positive
+swiggy,26cd0c70-4e11-4bb2-9e67-d8d3c9e71c71,good,5,2026-09-15 08:17:53,0,noise,other,1,positive
+swiggy,ab528f8a-6387-496c-b7e5-35cd2d5929c4,good,4,2026-09-15 08:12:18,0,noise,other,1,positive
+swiggy,d088147c-ff8c-4c03-9910-a87fc1760799,continuing my review with 1 star as after these many days still services and customer support is pathetic. taking one blck membership is a way of making customer fool as food deliver still like a general customer time so never take one blck membership,1,2026-09-15 07:58:18,2,ux_confusion,other,3,negative
+swiggy,a544ca7f-1ac3-40f9-acf3-bf4061f4efb3,good service,5,2026-09-15 07:51:00,0,noise,other,1,positive
+swiggy,0d9b1cd3-9af7-453f-b8c7-e19fdbbe89bc,thnx Swiggy I m always happy 😊,5,2026-09-15 07:49:00,0,noise,other,1,positive
+swiggy,d648f780-0e75-41cc-9141-5f06c0566ba0,"Useless app delivery guy 0 co-operation, delivery gets late more than one and half hour, no response if you want any update, and upon cancellation order The customer is the one to be blamed",1,2026-09-15 07:26:26,0,bug,order_tracking,4,negative
+swiggy,be6d912e-2cde-4d2d-912a-ddb1892dd48b,I have been triggered over 15 otps since day before yesterday night its scary hence Uninstalled the app to avoid cyber threat,3,2026-09-15 07:08:03,0,bug,login_auth,4,negative
+swiggy,9488796c-53d1-41aa-90df-12e8b1770519,basterds... even disconnect ur call without any consent... first they make mistake n then dont even have the audacity to listen to ur complaints,1,2026-09-15 05:29:55,0,bug,other,4,negative
+swiggy,157c8af1-014d-4d97-96a6-eafc1d01e14e,NICEEEE,5,2026-09-15 04:05:26,0,noise,other,1,positive
+swiggy,e662f1bc-16e5-46a1-a166-34ed828a2f14,worst food delivery app not safe i ordered food and it was not packed properly and someone ate from the bowl i have been buying food from this app for 5 years but its worst food delivery app.,1,2026-09-15 03:34:35,0,bug,other,5,negative
+swiggy,1753d46d-7919-41d2-8abf-be432d827979,good,5,2026-09-15 03:00:34,0,noise,other,1,positive
+swiggy,84a960a8-60b7-4af8-81d5-dfea6474f8a3,supar,5,2026-09-15 02:34:29,0,noise,other,1,positive
+swiggy,81099ee8-c9c6-437d-88bb-af4f5f2e9265,super,5,2026-09-15 01:46:26,0,noise,other,1,positive
+swiggy,4db105c8-0f14-4018-b6c3-04a2fb9452f0,"Swiggy's track record has become very, very poor as of late. Their delivery has slowed down while they charge unfairly on many billings. Their cancellation policy is also very ill devised. UI is also very uninspiring. Will prefer a competitor over this app, like Zomato.",1,2026-09-15 01:26:33,0,bug,order_tracking,5,negative
+swiggy,0248f997-ef55-4aa6-a1bc-2321a80004d3,good work,5,2026-09-15 01:22:44,0,noise,other,1,positive
+swiggy,daba82da-e5bf-4aa6-91bc-eed932ce5d66,super,3,2026-09-15 01:17:41,0,noise,other,1,positive
+swiggy,707d33d5-f37f-4325-a76d-6877c22d6d92,good,5,2026-09-15 00:48:51,0,noise,other,1,positive
+swiggy,820ce801-1814-4c1a-a80e-4216aa9c4895,good,5,2026-09-15 00:33:12,0,noise,other,1,positive
+phonepe,cb0bde26-56f3-4dd4-8eed-922dc04f6364,mast,5,2026-09-16 23:00:02,0,noise,other,1,neutral
+phonepe,164b6f4f-4dc2-47a9-a392-15230c96f96b,good,5,2026-09-16 22:50:42,0,noise,other,1,positive
+phonepe,9bba9e17-d3f9-4fd3-883b-214db25adbf7,not bad,4,2026-09-16 22:46:01,0,noise,other,1,neutral
+phonepe,eb5dfafb-79fa-4c2f-988b-4028aa84ebd1,sometimes if someone sending money there is no notification,1,2026-09-16 22:39:26,0,bug,notifications,3,negative
+phonepe,ab7d4dba-05eb-4855-b337-67d637057de4,why my phonepe is not working properly,5,2026-09-16 22:36:25,0,bug,payment_gateway,3,negative
+phonepe,ed14c263-312b-411b-984b-466d27c0c2fe,good phonepe does not cut normal interest like navi UpI,5,2026-09-16 22:34:16,0,feature_request,payment_gateway,1,positive
+phonepe,228d4e50-9b70-48fe-b18e-92a2de891f19,good apps,5,2026-09-16 22:30:11,0,noise,other,1,positive
+phonepe,3c83ce6d-13d9-43b3-865f-b7250a842d61,this app is not working when I scan QR code for payment,2,2026-09-16 22:28:12,0,bug,payment_gateway,3,negative
+phonepe,40a6f7a0-6601-41c4-b931-2c74c2e407fe,bad service and politically exposed. zero rating.,1,2026-09-16 22:09:44,1,bug,other,4,negative
+phonepe,db09b67c-bd74-4e49-9218-71e56bf69ddd,khatam tata bye bye,5,2026-09-16 21:56:37,0,noise,other,1,neutral
+phonepe,88df1fcb-d832-49e5-8706-4a4e68b46517,charge 3rs extra while recharging. its merchant charges why user needs to pay.,1,2026-09-16 21:53:33,0,bug,payment_gateway,3,negative
+phonepe,d35bd13a-6249-4bc9-97c9-008bcef7b2f0,network issue,3,2026-09-16 21:48:46,0,bug,other,3,negative
+phonepe,07431582-8bf6-4299-bf6c-3eb31bbf184f,experience good 👍,4,2026-09-16 21:43:40,0,noise,other,1,positive
+phonepe,a81e7138-9735-4de7-a7d6-c8f3e3075dc5,good,5,2026-09-16 21:42:04,0,noise,other,1,positive
+phonepe,cd1797e5-c6fa-49f9-9199-bcab2f10a58c,very nice,5,2026-09-16 21:38:09,0,noise,other,1,positive
+phonepe,d467eaf6-7922-48f6-8138-725f81800650,awesome,5,2026-09-16 21:32:20,0,noise,other,1,positive
+phonepe,1a15bc6a-4e56-499e-b08d-ad3ef47065e5,excellent,5,2026-09-16 21:31:52,0,noise,other,1,positive
+phonepe,fa04d78f-19af-4235-b700-b749de23ac65,best for payments but no rewards,5,2026-09-16 21:22:27,1,feature_request,payment_gateway,3,negative
+phonepe,1af98b6c-d5f9-46a4-bc68-226dc4948996,good 😊,5,2026-09-16 21:17:48,0,noise,other,1,positive
+phonepe,795343d7-7442-4a05-88ee-377964b47b2d,good app 💯,3,2026-09-16 21:16:32,0,noise,other,1,positive
+phonepe,e3f6ffed-8722-40aa-9895-34600807d0f0,good 👍,5,2026-09-16 21:15:50,0,noise,other,1,positive
+phonepe,7c632a36-17bc-4328-ab87-0ccfb8eaf9f2,good,5,2026-09-16 21:11:22,0,noise,other,1,positive
+phonepe,4439bbb9-03de-40c8-8e02-6c66e9ce158d,very good,5,2026-09-16 20:58:17,0,noise,other,1,positive
+phonepe,a6220935-970f-4cc6-b9f0-b4cc315e98d3,So good improved with latest technology.,4,2026-09-16 20:55:51,0,noise,other,1,positive
+phonepe,b896701c-7c11-4fb9-9d12-8ee86cfc60e5,ଏସ ୟାଇ,5,2026-09-16 20:51:31,0,noise,other,1,positive
+phonepe,6961af7d-7b28-41b2-8679-391ad7b7e864,good,5,2026-09-16 20:46:38,0,noise,other,1,positive
+phonepe,e6e39fcc-c8b3-46ea-9c21-3859ff33c9de,good,5,2026-09-16 20:44:03,0,noise,other,1,positive
+phonepe,db0d87a1-7259-4f77-b4b0-41d4ead3e455,yuy,1,2026-09-16 20:38:33,0,noise,other,1,negative
+phonepe,0c49188a-5f66-4551-b6c4-ae57cd96390c,ok good app ☺️☺️☺️☺️☺️,4,2026-09-16 20:38:19,0,noise,other,1,positive
+phonepe,e1111ff8-9858-460e-8939-db26d46c3023,it's good,5,2026-09-16 20:32:01,0,noise,other,1,positive
+phonepe,30e7680e-2e91-49a1-be37-b490224d3275,the phonepe app which is a good,5,2026-09-16 20:25:15,0,noise,other,1,positive
+phonepe,fa50f108-3201-4169-9875-87cc53e7afa7,Good,5,2026-09-16 20:24:34,0,noise,other,1,positive
+phonepe,f94219d0-f714-4627-adf2-4bd7b90e260b,bahut din baad wapas aaye same wahi phle jaise..... 4 bank account sbki alg upi id. baki apps mein ek hi upi id bank koi bhi link ho card koi bhi..! jab ek upi par kaam ho jaye reply kr dein dobara swich kr lunga,1,2026-09-16 20:21:04,0,feature_request,payment_gateway,3,negative
+phonepe,2be5b571-5fe6-4a3a-9fd0-5881412e995a,okay,1,2026-09-16 20:17:53,0,noise,other,1,neutral
+phonepe,5fcb701b-8fba-48ac-9eaa-7bfaa412f647,Nice App,5,2026-09-16 20:07:23,0,noise,other,1,positive
+phonepe,7f2db5d6-0081-4e34-b580-e18686be9948,sorry,5,2026-09-16 20:05:33,0,noise,other,1,negative
+phonepe,60ecb061-8317-44e0-bbff-e1c17a99cfdb,good,5,2026-09-16 20:02:14,0,noise,other,1,positive
+phonepe,71f1f579-4557-4e1b-a339-f1d73c977561,good 👍,5,2026-09-16 20:01:07,0,noise,other,1,positive
+phonepe,8f2693f1-8767-4bff-a3cb-1ab5c4885476,👍,5,2026-09-16 14:35:48,0,noise,other,1,positive
+phonepe,9446f54f-9c92-4519-912c-9ed778e2f5b7,the worst app. never solve the problem of user.,1,2026-09-16 14:35:32,0,bug,other,4,negative
+phonepe,de11d835-151f-4976-9879-462d30adda54,Good 👍,5,2026-09-16 14:34:13,0,noise,other,1,positive
+phonepe,23cd68cb-61b8-4593-bd14-2cb91a7c7e18,useful app.feel happy,5,2026-09-16 14:32:30,0,noise,other,1,positive
+phonepe,334bb18e-2e04-4d35-8e44-f21220d1cef5,good experience,5,2026-09-16 14:31:01,0,noise,other,1,positive
+phonepe,f7a757ce-72cb-461f-b7d0-6564caa4f9b9,very smart,5,2026-09-16 14:27:17,0,noise,other,1,positive
+phonepe,eb41d3da-6aa8-471b-a47f-56cf60ddfe12,good app for payment,5,2026-09-16 14:27:16,0,noise,other,1,positive
+phonepe,72ad7a88-6bcb-40f2-8440-f545b7fa0c63,super 😍,5,2026-09-16 14:26:38,0,noise,other,1,positive
+phonepe,e0685ab5-053a-4fc2-b518-3ac03ffdb48a,Mera Baat Manana hi seb Se Kabhi Paisa transfer Mat Karna ismein Se Mere ₹5000 cut gaye hain,1,2026-09-16 14:26:35,0,bug,payment_gateway,5,negative
+phonepe,67ddadbd-9f1a-409c-a791-1ffe7c307b51,don't show advertisement,5,2026-09-16 14:19:38,0,feature_request,other,3,positive
+phonepe,a939ba2c-5a1d-46a6-90eb-7222766eebd5,ok,5,2026-09-16 14:15:02,0,noise,other,1,neutral
+phonepe,5c8db7a0-f04d-4a49-b7e1-71b54ca09004,nice app,5,2026-09-16 14:13:14,0,noise,other,1,positive
+phonepe,020e2ebf-4f20-443d-b309-5ebbe5807733,So Nice payment app,5,2026-09-16 14:12:04,0,noise,other,1,positive
+phonepe,231768cd-baec-4bdb-9ad3-e3d4b7ec3900,cash back den,5,2026-09-16 14:10:56,0,noise,other,1,positive
+phonepe,ea4dbcd1-6c87-434d-9104-89f741542d06,best,5,2026-09-16 14:09:40,0,noise,other,1,positive
+phonepe,6ff67819-42e4-47d0-bca8-7c688a8ca91b,good,5,2026-09-16 14:09:38,0,noise,other,1,positive
+phonepe,09ff809d-356f-40ec-a27e-e46d00c6bb30,good,5,2026-09-16 14:09:29,0,noise,other,1,positive
+phonepe,2c88b16a-ec07-448e-a871-37dfd9985c20,Not secure and contact support is very loose,1,2026-09-16 14:09:20,0,bug,login_auth,5,negative
+phonepe,0de85390-bd8a-46f9-acbd-06c1f752700e,mast,5,2026-09-16 14:08:48,0,noise,other,1,neutral
+phonepe,4e886591-980b-49db-8f4e-a47a87a9917d,good,3,2026-09-16 14:05:05,0,noise,other,1,neutral
+phonepe,3232a1d7-8198-4c9c-80df-6eec38412d28,ager 55 wala reacharge karo to 57 rupiya le raha hai bekar app hai,1,2026-09-16 14:04:05,0,bug,payment_gateway,5,negative
+phonepe,d0dc7bed-ab93-4dff-a29f-c274a9fce40d,uninstall karo,1,2026-09-16 14:03:36,0,noise,other,1,negative
+phonepe,30b5c3f6-2223-4e95-979e-2c25817b2419,very simple ahx and good app,5,2026-09-16 14:02:47,0,noise,other,1,positive
+phonepe,47e8f205-d31e-443f-af84-21dd20a1dfd1,shiva,5,2026-09-16 14:02:17,0,noise,other,1,neutral
+phonepe,2909108e-401d-4cf1-bec1-49832c3832d6,good,5,2026-09-16 13:57:00,0,noise,other,1,positive
+phonepe,9fc26ffa-f57b-43f7-b7c1-71fc4e3138fc,2 sall bad login hua h,5,2026-09-16 13:54:53,0,bug,login_auth,3,negative
+phonepe,6c1d254c-499b-4773-9639-ddc5f2e647da,godd,5,2026-09-16 13:53:49,0,noise,other,1,positive
+phonepe,9c877ac4-85e8-4127-9e2e-d71d2fd59f7f,Nice App...smooth operation and lovely features...,5,2026-09-16 13:52:29,0,noise,other,1,positive
+phonepe,248bd96b-b7ad-49e6-83a7-4bdf1ef9b21e,good app,5,2026-09-16 13:52:08,0,noise,other,1,positive
+phonepe,682084cf-a9b5-40d9-a5f7-c8c5302702fb,Good 👍,5,2026-09-16 13:52:08,0,noise,other,1,positive
+phonepe,21422f70-2f42-4655-94ce-df12ebc52e7f,good,5,2026-09-16 13:47:44,0,noise,other,1,positive
+phonepe,5c2907a5-afb5-481a-8e6b-060e77220b74,good,5,2026-09-16 13:47:20,0,noise,other,1,positive
+phonepe,4b7dc1d2-f17c-464f-9208-4adfa324e108,good,5,2026-09-16 13:47:13,0,noise,other,1,positive
+phonepe,84d25e54-0ccf-4c81-a736-19b090eead2c,worst Experience. Hv transferred 100 Rs into Wallet to just check. My Rs stucked. Can't payment any shops! it's directly taking to my bank account for payment... somehow iam able to withdraw. Not Happy at all.,1,2026-09-16 13:45:00,0,bug,payment_gateway,5,negative
+phonepe,81bacf80-be31-4904-a95f-e0be28755953,good,5,2026-09-16 13:43:54,0,noise,other,1,positive
+phonepe,91bd3cf7-91bd-422d-833f-8982dbf36993,very fast thankyou,5,2026-09-16 13:43:27,0,noise,other,1,positive
+phonepe,7ecbec77-e6b0-4a29-972f-ad5ea1cbb371,Great!,5,2026-09-16 13:43:07,0,noise,other,1,positive
+phonepe,46e21030-8f4f-4753-a989-499fa97a3a07,ok,5,2026-09-16 13:42:57,0,noise,other,1,neutral
+phonepe,e63dab3e-f618-4225-949f-e59ef17f96de,nice app,3,2026-09-16 13:42:03,0,noise,other,1,positive
+phonepe,a36c8f2a-ac5a-4dc5-a8eb-9efd768e6814,👍,5,2026-09-16 13:39:56,0,noise,other,1,positive
+phonepe,6b15aae9-61ca-454e-a38f-592d50c7a6ca,very useful app easy for all type of payment,5,2026-09-16 13:39:19,0,noise,other,1,positive
+phonepe,bf1c0ce0-9d30-4beb-b7f6-c22381fec241,very good 😊 9,5,2026-09-16 13:39:04,0,noise,other,1,positive
+phonepe,cf6b78d7-02a4-4796-bee0-2f53924dc64d,Smooth all time,5,2026-09-16 13:38:22,0,noise,other,1,positive
+phonepe,c03f19e3-e516-4474-ac07-6c2868f23c4b,Great experience 👍👍👍,5,2026-09-16 13:35:14,0,noise,other,1,positive
+phonepe,5a7e258b-517a-44e0-9c32-5b2650cc3d60,it's very easy to use and feel great experience please these indian apps to grow our GDP,5,2026-09-16 13:34:43,0,noise,other,1,positive
+phonepe,547fdb20-7384-42b7-9f24-e5ca15536cbc,Rahul,5,2026-09-16 13:34:40,0,noise,other,1,neutral
+phonepe,e2780a37-8771-4bb4-823e-0eda4596e278,best experience,5,2026-09-16 13:30:46,0,noise,other,1,positive
+phonepe,0fb5cf76-6d82-43cc-8534-4733a980897e,kundan,5,2026-09-16 13:27:35,0,noise,other,1,positive
+phonepe,f2365120-1d1e-4029-9093-0c24a7dd90a3,optional,5,2026-09-16 13:26:13,0,noise,other,1,positive
+phonepe,202dc5de-fcd1-441b-aca9-ed2de026c706,Phonepe Ceo Bjp supporters hai,1,2026-09-16 13:25:28,0,noise,other,1,neutral
+phonepe,50446530-1c4e-4988-b035-d0b6a8f24367,nice app,4,2026-09-16 13:25:13,0,noise,other,1,positive
+phonepe,caa7169f-1d02-42e1-a14e-3b0b29bb3339,Good 😊,5,2026-09-16 13:23:37,0,noise,other,1,positive
+phonepe,d44d1fe9-9313-4d6e-bb14-3ed7924ac97a,👍,3,2026-09-16 13:22:20,0,noise,other,1,positive
+phonepe,c48db6de-aca6-45ec-98db-54ae898e10cf,this app is not batter for tax matter in gold saving extra hidden tax and in reacharge extra tax i know its app easy way but extra payment..... is not perfect,1,2026-09-16 13:21:26,0,bug,payment_gateway,3,negative
+phonepe,5457c944-c944-4c45-adb9-d99aea9b1728,good aap but I'm not sure about the future,4,2026-09-16 13:19:31,0,noise,other,1,neutral
+phonepe,a43320e7-fceb-4770-a28f-e7c8a3b0a99b,good app,5,2026-09-16 13:18:04,0,noise,other,1,positive
+phonepe,867c120b-dc5c-4dfa-a9af-c03234432ad2,excellent,5,2026-09-16 13:17:47,0,noise,other,1,positive
+phonepe,529399f1-0e7d-412b-b787-366d0212df53,nice,5,2026-09-16 13:16:08,0,noise,other,1,positive
+phonepe,1650f295-856b-49e6-a9eb-531d0038a2cc,best app,5,2026-09-16 13:15:03,0,noise,other,1,positive
+phonepe,8e949a7c-d8b4-4953-b259-e2dbc0a23d16,Tata Bye-Bye,1,2026-09-16 13:15:03,0,noise,other,1,negative
+phonepe,e0144551-7364-4150-94ab-57f67d57c3da,good 👍,5,2026-09-16 13:14:40,0,noise,other,1,positive
+phonepe,2876297e-a109-4711-b73d-64218bbc7fb9,nice 🙂👍🏼,2,2026-09-16 13:13:19,0,noise,other,1,positive
+phonepe,d1ea44db-53d3-48d4-850e-7c02b3b8a455,great app,5,2026-09-16 13:12:52,0,noise,other,1,positive
+phonepe,3737d5bb-ea24-485c-b15f-8efc69e16532,he,2,2026-09-16 13:07:12,0,noise,other,1,negative
+phonepe,16bffe07-57ee-4771-88c5-b9c4a57345ac,ok,5,2026-09-16 13:06:11,0,noise,other,1,neutral
+phonepe,a1fa2c6b-ea0e-42a1-970e-bba598178e05,good 👍,5,2026-09-16 12:58:30,0,noise,other,1,positive
+phonepe,30d1196b-ec3a-47d8-9350-6fb7ca4b1ab3,not server down and easy payment done...,5,2026-09-16 12:54:52,0,noise,payment_gateway,1,positive
+phonepe,fd2bd530-bd2d-43a4-9e8e-b73bd807a212,good,5,2026-09-16 12:54:25,0,noise,other,1,positive
+phonepe,7d1c72f6-5073-4159-b126-12c301b89db8,best app,5,2026-09-16 12:54:13,0,noise,other,1,positive
+phonepe,a75219bd-8691-44c0-a9ce-c16cd4b50b7f,good some timea scanning problem,5,2026-09-16 12:51:03,0,bug,other,3,positive
+phonepe,6147f05c-1611-4cdd-b83b-a5e3dc5ee72a,best,5,2026-09-16 12:49:42,0,noise,other,1,positive
+phonepe,a681c5ee-aa82-4220-a86b-20a2d06442c5,Nice app😘,5,2026-09-16 12:49:41,0,noise,other,1,positive
+phonepe,f36bfc41-ec7e-4e38-bfc6-a47b7de05ef9,good 👍,5,2026-09-16 12:47:39,0,noise,other,1,positive
+phonepe,0e372b77-27e2-458e-a543-adad3a22a6a9,ह्ह्ह् हम,3,2026-09-16 12:46:16,0,noise,other,1,neutral
+phonepe,b1c59772-f04d-4f51-b270-007de133bdb6,best,5,2026-09-16 12:45:41,0,noise,other,1,positive
+phonepe,a36c035c-ae3f-40bd-a056-7cf2cdb63c09,supar,5,2026-09-16 12:43:05,0,noise,other,1,positive
+phonepe,c2b04a68-c3ad-400a-a798-8e58c5e5f875,nice app,4,2026-09-16 12:42:46,0,noise,other,1,positive
+phonepe,535984b8-cce4-4ed9-bb45-9ac512b96fa9,good,5,2026-09-16 12:42:42,0,noise,other,1,positive
+phonepe,ac651d07-d397-42e0-8d57-15353a19c04c,gpay better,4,2026-09-16 12:41:58,0,noise,other,1,positive
+phonepe,e8eeade7-9ab6-4ca0-abb0-f0b28fb7a0ae,good,5,2026-09-16 12:39:44,0,noise,other,1,positive
+phonepe,87d8326b-7823-437d-b042-7064265cf356,"Hello PhonePe Support, I am a Deaf person and I cannot hear or speak on phone calls. I have already received 5 phone calls, but I am unable to communicate through voice calls. Please provide chat support or written communication for my issue. I can communicate clearly through online chat. Thank you for understanding and supporting accessibility.",1,2026-09-16 12:39:35,0,feature_request,other,5,negative
+phonepe,d084bd15-daca-4e3b-9fad-5d7fe5c20524,best,5,2026-09-16 12:38:52,0,noise,other,1,positive
+phonepe,2b61a9c7-005d-4581-9de5-8d5c3a2d7da0,Best,5,2026-09-16 12:38:39,0,noise,other,1,positive
+phonepe,a42cff85-8a40-4fe9-9e59-7578c1bd21ea,nice upi aap,5,2026-09-16 12:38:09,0,noise,other,1,positive
+phonepe,c69a35c9-5d27-4ff0-b515-578e7fa94a22,not work present 😡😡 no work any payment update not work account check,1,2026-09-16 12:37:49,0,bug,payment_gateway,5,negative
+phonepe,ff072a3d-dc0f-4d3f-a7f6-f5c14a2b2cdf,thik thik,3,2026-09-16 12:37:39,0,noise,other,1,neutral
+phonepe,2d6a69cd-0269-43a3-a08f-c7748f4f24ef,kanhaiya 🇮🇳,5,2026-09-16 12:36:36,0,noise,other,1,neutral
+phonepe,a7381510-7fdf-47ef-a80a-3565116b6320,good service 👍,5,2026-09-16 12:31:34,0,noise,other,1,positive
+phonepe,724cc3b7-55e0-4c9d-b880-2c3cdd0e3c6f,"dont use this , amount charges for money transfer",1,2026-09-16 12:29:46,0,bug,payment_gateway,4,negative
+phonepe,43333069-00cd-4ca0-b19f-17196d066185,good,5,2026-09-16 12:28:03,0,noise,other,1,positive
+phonepe,83d40694-f408-4a08-8a61-7e1df177e4e7,This App Is Halp fully I Promise 🙏,5,2026-09-16 12:27:42,0,noise,other,1,positive
+phonepe,f052a826-7b2b-42c7-bb52-7fcf6ad89121,Some times it is very comfortable some times not. I have one more point to discuss with you for which you need to make arrangements in *PLAYSTORE* so that they can implement in their *CUSTOMER SUPPORT APP* for *SCREEN SHARING* to avoid the crime happening. The Customer Support user while sharing from his mobile Number should not operate Financial Transactions unless Phonepe should ask for Mobile Password so that we can avoid digital crimes to an extent. Because mobile PW is different.,2,2026-09-16 12:25:47,0,feature_request,login_auth,3,negative
+phonepe,1918e6e3-6e02-405c-9d67-ebf7f3771390,aggaaggasg,4,2026-09-16 12:24:43,0,noise,other,1,neutral
+phonepe,f86c5c3a-a0b4-46a4-b588-1a7217484d2f,good 👍🏻,5,2026-09-16 12:21:54,0,noise,other,1,positive
+phonepe,5f9aad1f-9ed0-40af-a34d-51efd0705f83,"It's a great app and I love it, It deserves 5 stars!",5,2026-09-16 12:21:10,0,noise,other,1,positive
+phonepe,dfe5feb2-dcad-4fe5-b8ff-a1149c6994d6,good 👍🏿,5,2026-09-16 12:19:06,0,noise,other,1,positive
+phonepe,3edb98f4-a923-4239-b855-4a7dc475d704,good,5,2026-09-16 12:18:18,0,noise,other,1,positive
+phonepe,4279ad43-475f-46b2-ac4e-5e70b1e06eb4,"app experience is very good and easy to use, but we don't get offers or Cashback.",4,2026-09-16 12:16:15,0,feature_request,other,3,positive
+phonepe,12a6713e-6d15-42e8-81c9-a5bc5999b92b,good,5,2026-09-16 12:16:13,0,noise,other,1,positive
+phonepe,20c77c98-7f63-4c5f-8291-603d4fcbdbe6,super,5,2026-09-16 12:15:52,1,noise,other,1,positive
+phonepe,2aaecdf8-f128-47c4-910c-00492cf61fba,good,5,2026-09-16 12:13:25,0,noise,other,1,positive
+phonepe,b8dcc902-f2e1-4608-843b-8802eaa9a6a7,sms no recieved,5,2026-09-16 12:12:21,0,bug,notifications,3,negative
+phonepe,a7e4f2ce-23a7-4ff6-9ed9-e75d7ba3b0c1,"Your device may not be secure phone Pay has identified that your device does not meet required security standards. For your safety, services on Google Pay are blocked.",1,2026-09-16 12:11:01,0,bug,payment_gateway,4,negative
+phonepe,6487d51e-0c5e-43a5-b762-30912f093fe7,nice,5,2026-09-16 12:09:33,0,noise,other,1,positive
+phonepe,abb63d03-ad9d-458c-8eea-82925637a4dc,wonderful secure option i got.thanks phonepe,5,2026-09-16 12:09:23,0,noise,other,1,positive
+phonepe,d7124991-4f43-4e0a-9eb5-8659a6ad3155,nice,5,2026-09-16 12:07:51,0,noise,other,1,positive
+phonepe,58df7d8f-f420-40f7-bad2-769677f64921,ok,4,2026-09-16 12:06:37,0,noise,other,1,neutral
+phonepe,90389895-2fbd-449c-94c8-3189a94cb918,superb,5,2026-09-16 12:05:27,0,noise,other,1,positive
+phonepe,e0efc2a2-7587-4bb9-8f31-7df2394b8ed2,nice,5,2026-09-16 11:59:38,0,noise,other,1,positive
+phonepe,110fb1ef-3192-4d91-9914-f62a3841f6b1,Good.,5,2026-09-16 11:58:37,1,noise,other,1,positive
+phonepe,5f0cf1b1-af98-4e41-bffe-1523de143afd,seamless experience 👍,4,2026-09-16 11:57:41,1,noise,other,1,positive
+phonepe,e6b2e25f-0362-41b3-95a6-f77842128faf,nice,5,2026-09-16 11:57:21,0,noise,other,1,positive
+phonepe,1ff11c34-1a92-4ceb-850c-ba4659f749b0,very good app to users.,5,2026-09-16 11:52:37,0,noise,other,1,positive
+phonepe,358b89f7-9664-493d-9198-8ede72af8ef8,good,3,2026-09-16 11:52:20,0,noise,other,1,neutral
+phonepe,cfd389e3-67ad-4850-8df2-714d897bc052,love it,5,2026-09-16 11:50:22,0,noise,other,1,positive
+phonepe,a7e3136d-61f3-40c6-a323-5713880f887f,good,5,2026-09-16 11:46:24,0,noise,other,1,positive
+phonepe,7bb016c6-1410-4e0c-b8f3-f1025faca968,good 👍,4,2026-09-16 11:44:59,0,noise,other,1,positive
+phonepe,760f7ced-2153-4397-9cae-e80e6f85adc7,Good 👍,4,2026-09-16 11:43:33,0,noise,other,1,positive
+phonepe,ca0ca42c-850f-4a27-92ee-c5b44eea8ab2,good 👍👌 super,5,2026-09-16 11:43:33,0,noise,other,1,positive
+phonepe,38e7f70d-375d-43d8-bf76-c2e68d2cd8c2,app is good. but adds disturbs to the use.,5,2026-09-16 11:41:26,0,bug,other,3,positive
+phonepe,f07007ee-a0be-422a-afde-2953ac537812,good,5,2026-09-16 11:39:42,0,noise,other,1,positive
+phonepe,be2d329a-df63-4ed6-a466-3b2f7c10c791,very good,5,2026-09-16 11:35:58,0,noise,other,1,positive
+phonepe,cd9e9e39-0fd1-4921-b76f-7f7c62cebc42,नीस app,5,2026-09-16 11:35:42,0,noise,other,1,positive
+phonepe,56ed6be2-1301-431d-90ca-eac2fa3bfb19,good,4,2026-09-16 11:31:05,0,noise,other,1,positive
+phonepe,e535c323-9176-4198-9dc1-4749799a91ad,nice work,5,2026-09-16 11:30:42,0,noise,other,1,positive
+phonepe,917c8ca0-34f9-420a-85f0-599efb93c892,very good,5,2026-09-16 11:28:51,0,noise,other,1,positive
+phonepe,738c4c84-0ec6-45ff-91a8-f6b00adb0235,ok,4,2026-09-16 11:26:42,0,noise,other,1,neutral
+phonepe,9048c1e1-39bd-47c6-9928-c078083f8000,fast transaction,5,2026-09-16 11:24:17,0,noise,other,1,positive
+phonepe,cbed1eac-ef65-4204-b06c-bacaefca3be9,very good,5,2026-09-16 11:22:04,0,noise,other,1,positive
+phonepe,6e3880ac-4100-4483-b7c6-6dde8642d828,yas,5,2026-09-16 11:20:11,0,noise,other,1,positive
+phonepe,53e241b2-e086-4cec-9cf0-47a47b2bab17,good,1,2026-09-16 11:17:45,0,noise,other,1,positive
+phonepe,a136e3be-6a64-46af-b278-2f7e4672cb70,good,5,2026-09-16 11:10:25,0,noise,other,1,positive
+phonepe,2da274ab-6e81-4b7f-a0cf-5d8be5efff6d,"Hello PhonePe Support, I am facing an issue with the PhonePe app. The app is automatically going back to the previous screen without me pressing the back button. This happens repeatedly and makes it difficult to use the app properly. Please check this issue and provide a solution as soon as possible. Device: Android Phone App: PhonePe Issue: Automatically going back / Auto Back problem Thank you.",1,2026-09-16 11:09:55,0,bug,other,4,negative
+phonepe,6da9ee89-ff90-4a3a-913f-894cb6ff745e,the app is good 👍🏼,3,2026-09-16 11:08:36,0,noise,other,1,positive
+phonepe,9a8d49d6-26a0-45d6-b458-f3dab7da86fb,Very good app,5,2026-09-16 11:06:39,0,noise,other,1,positive
+phonepe,b701ad5c-0ca5-443c-be82-982739fde14d,good,5,2026-09-16 11:04:26,0,noise,other,1,positive
+phonepe,5b5db52d-9d30-451d-8a63-b2719e581f2d,best,3,2026-09-16 10:55:45,0,noise,other,1,positive
+phonepe,b2067b4f-e63d-414f-9a83-a9083f23e283,So easily superb app,5,2026-09-16 10:55:13,0,noise,other,1,positive
+phonepe,b0ab7d35-c950-492e-ab84-ab9143449861,Good,4,2026-09-16 10:54:31,0,noise,other,1,positive
+phonepe,a919a2dd-15ca-4bcf-bc0e-0b8b8262755a,good,5,2026-09-16 10:54:23,0,noise,other,1,positive
+phonepe,80ba2123-bd08-4565-9987-3997f0c8aadc,I sold gold on 11th September and today is 16th i still didn't receive payment . there is no way I can talk to coustomer care,1,2026-09-16 10:53:44,0,bug,payment_gateway,5,negative
+phonepe,09a224c3-029c-418e-a5f3-0ec7cba15177,good,5,2026-09-16 10:49:05,0,noise,other,1,positive
+phonepe,28704e7f-74ad-4210-9cad-dcf3256b9748,it is good I like it,4,2026-09-16 10:48:56,0,noise,other,1,positive
+phonepe,e288a611-216f-49d5-91c1-1d76ed8cd426,super,4,2026-09-16 10:47:30,0,noise,other,1,positive
+phonepe,6eb6a317-74e8-4e57-ab19-67037af3073a,Excellent working and performances always for A better experience,5,2026-09-16 10:46:57,13,noise,other,1,positive
+phonepe,3253ba95-1fd1-40c8-8cc6-114b8b53588e,good,4,2026-09-16 10:46:30,0,noise,other,1,positive
+phonepe,c9971594-4a63-4444-86ca-1bdc49184143,nice app,5,2026-09-16 10:44:10,0,noise,other,1,positive
+phonepe,5bdc631a-5622-4f62-b7c3-170b81725f70,good,4,2026-09-16 10:41:44,0,noise,other,1,positive
+phonepe,08f8ab89-cd9f-4457-b640-018018aacebe,ehhhh,1,2026-09-16 10:38:52,0,noise,other,1,negative
+phonepe,fc5c1673-b134-40ef-8df6-5451b516b3e5,service badhiya hai,5,2026-09-16 10:38:16,0,noise,other,1,positive
+phonepe,c6c88400-ffb7-48ef-b067-be3dc01c0596,Wrost customer care support,5,2026-09-16 10:37:19,0,bug,other,3,negative
+phonepe,7819ec17-8bcb-43ff-b03c-a259862da4b8,that idiot app are not working since yesterday,1,2026-09-16 10:35:17,0,bug,other,5,negative
+phonepe,4fba9ec5-7181-458d-9827-a1a58669efb6,acha,4,2026-09-16 10:34:38,0,noise,other,1,neutral
+phonepe,c1423c34-dc05-4f9b-9ec2-b45e90e050f1,I didn't get my last 3 referral cashback code it's just worst app like scam us pls don't install this,1,2026-09-16 10:33:40,0,bug,payment_gateway,4,negative
+phonepe,eb47d95a-22b3-4513-9bbf-8e2256a83ae5,supper,5,2026-09-16 10:32:56,0,noise,other,1,neutral
+phonepe,525532a9-aa95-4bde-8899-dc30aa887613,👌,5,2026-09-16 10:21:56,0,noise,other,1,positive
+phonepe,5947594f-3bd1-46e2-a18f-48795a28c3d4,excellent service,5,2026-09-16 10:21:42,0,noise,other,1,positive
+phonepe,76adc417-fb3f-44b5-87d7-744f0a7a5b8e,nice,5,2026-09-16 10:15:00,0,noise,other,1,positive
+phonepe,0be1135b-4037-4a59-adae-0b3ecf669957,good service,5,2026-09-16 10:10:57,0,noise,other,1,positive
+phonepe,349b1e74-e78a-4681-8209-977e5b9e858f,easy to pay,5,2026-09-16 10:09:21,0,noise,payment_gateway,1,positive
+phonepe,b98deb01-f357-439c-bad3-5e4a0268171c,bahut achha professional,5,2026-09-16 10:08:14,0,noise,other,1,positive
+phonepe,69ddc97f-48ed-4b8f-9219-1cf0518e56ae,best,5,2026-09-16 10:03:53,0,noise,other,1,positive
+phonepe,6f3153cb-edf7-4232-832f-4070ad38116e,it's very helpful ☺️,5,2026-09-16 10:03:39,0,noise,other,1,positive
+phonepe,5e91cc20-2a6e-4b4e-b3d0-c974102bcaa7,owsom,5,2026-09-16 09:59:55,0,noise,other,1,positive
+phonepe,299a6cb9-72a2-4e54-849a-2e4b9dbbb3f1,nice,5,2026-09-16 09:57:57,0,noise,other,1,positive
+phonepe,5b37336a-534d-4f7a-9615-2c19e2df538a,very nice,5,2026-09-16 09:54:31,0,noise,other,1,positive
+phonepe,5cb0079a-a8ce-43fc-aa69-b9f8be6fd1dd,good,4,2026-09-16 09:53:41,0,noise,other,1,positive
+phonepe,7784dd24-18ae-4466-bf16-4927b0156406,Good app,5,2026-09-16 09:48:10,0,noise,other,1,positive
+phonepe,28faf864-d303-4b26-abeb-415f1711e15d,Paytm account abhi banaya Hai Lekin Paytm fir bhi bahut achcha hai,5,2026-09-16 09:48:07,0,noise,other,1,positive
+phonepe,eeb4b7d7-64e0-422b-996d-d752805de36c,konja naal upi app ellam use pannama irunthuta athu pothum and I uninstall,1,2026-09-16 09:46:13,0,bug,payment_gateway,4,negative
+phonepe,d8f80fbb-de02-46f0-aa55-b7bf1f33f753,દઠફટ🦚બ,4,2026-09-16 09:43:17,0,noise,other,1,neutral
+phonepe,ecf72e19-afc0-4285-8dc8-53572690ee47,great,5,2026-09-16 09:42:11,0,noise,other,1,positive
+phonepe,7646b649-cb00-4853-bc8d-c0d51e909759,best service,5,2026-09-16 09:39:44,0,noise,other,1,positive
+phonepe,a90b2c16-dc09-44de-8329-aa3152d2e1f7,ok,4,2026-09-16 09:38:18,0,noise,other,1,neutral
+phonepe,28d5974d-2352-4b16-8f4d-8f466abdb520,the best,5,2026-09-16 09:36:35,0,noise,other,1,positive
+phonepe,8b3dd058-2577-4360-b3a1-815caaf4dccd,"কাল থেকে ফোন পে টা খুলছেই না, এটাকে তাড়াতাড়ি ফিক্সড করুন পেমেন্ট করার জন্য অ্যাপ্লিকেশন টাকে ইন্সটল করেছি যদি সেটাই না করতে পারি কিসের জন্য রাখবো",1,2026-09-16 09:35:14,0,bug,payment_gateway,5,negative
+phonepe,e087f943-6283-4d6a-95d7-c523cf9a6326,very good app,5,2026-09-16 09:33:01,0,noise,other,1,positive
+phonepe,7af2f92c-9919-41db-97f2-1cc89943bb0d,good,5,2026-09-16 09:32:17,0,noise,other,1,positive
+phonepe,ad50e7f9-4658-43af-b7ef-4a8d404a6241,Excellent,4,2026-09-16 09:30:29,0,noise,other,1,positive
+phonepe,03ac8b58-cb2d-4b8e-b6fc-80781ae21ed7,super,5,2026-09-16 09:29:02,1,noise,other,1,positive
+phonepe,b889c1cc-4616-4dc8-92f5-8581c0f3e20c,the app is very expensive than other apps,3,2026-09-16 09:28:33,0,feature_request,other,3,negative
+phonepe,8c42ef9d-a246-472b-a1fb-91b801cb4b7c,good 👍,5,2026-09-16 09:26:04,0,noise,other,1,positive
+phonepe,7acd1d60-c7a3-42ac-beb2-6f789bcceb38,best,5,2026-09-16 09:25:21,0,noise,other,1,positive
+phonepe,ed8def2a-8b1d-4cf9-b31f-9684fdf14e77,Mony. is pawar,3,2026-09-16 09:25:20,0,noise,other,1,neutral
+phonepe,c263681a-d616-4408-bad3-237d36879e12,good,5,2026-09-16 09:24:21,0,noise,other,1,positive
+phonepe,b9dcf1bf-15e3-4742-87eb-7801e6c3588f,good,5,2026-09-16 09:24:05,0,noise,other,1,positive
+phonepe,87372c26-4e08-4812-bf19-2be5d8b657f5,good👍,5,2026-09-16 09:23:31,0,noise,other,1,positive
+phonepe,320233af-89a3-4619-ad22-3650438524f7,Good,5,2026-09-16 09:21:09,0,noise,other,1,positive
+phonepe,095c4972-a138-43fa-8adf-ef104a050488,Average,3,2026-09-16 09:14:05,0,noise,other,1,neutral
+phonepe,d4a8f041-d3a6-4ad3-8da7-ee6ca51a738c,supeer app he,5,2026-09-16 09:11:34,0,noise,other,1,positive
+phonepe,75b649d8-96be-479c-9117-a51f829ba738,nice but know reward know offer on cash back,2,2026-09-16 09:09:05,0,ux_confusion,other,2,negative
+phonepe,507c8d14-da78-4568-8c7a-2b85ed916d5a,pay karna ne aacha hai,5,2026-09-16 09:05:59,0,noise,other,1,positive
+phonepe,e8471644-171b-4e50-86b7-92853ae957e2,ysuw,1,2026-09-16 09:05:37,0,noise,other,1,negative
+phonepe,e02393f7-e0f8-4b98-8023-9b8aa3d1dc1d,awsome app,5,2026-09-16 09:04:44,0,noise,other,1,positive
+swiggy,e503e5ea-f5c6-4f11-b19c-ce734ce4a1dd,good food all ⭐⭐⭐⭐⭐⭐,5,2026-09-15 15:46:59,0,noise,other,1,positive
+swiggy,dc2e774f-d811-4aaf-815e-4327221d00ff,nice,5,2026-09-15 15:46:33,0,noise,other,1,positive
+swiggy,8ec9fc6f-7ead-4748-a09f-cce049ca3f35,✨😘 nice,5,2026-09-15 15:43:34,0,noise,other,1,positive
+swiggy,90532cd0-7b80-4776-8e72-d85d1657e9c9,very very bad service 😞,1,2026-09-15 15:37:45,0,bug,other,5,negative
+swiggy,c6c9a9e2-0a93-4a5a-870c-3292374cbe8f,awesome,5,2026-09-15 15:33:24,0,noise,other,1,positive
+swiggy,77638c10-7669-462c-bcb7-eb1c98c513f3,super,4,2026-09-15 15:19:43,0,noise,other,1,positive
+swiggy,28c7b136-3d6d-4c5e-a0a4-46bae6dbf23b,op😎,5,2026-09-15 15:18:05,0,noise,other,1,positive
+swiggy,cc8678df-825a-4a20-aae5-59371128c428,poor customer service,1,2026-09-15 15:12:09,0,bug,other,3,negative
+swiggy,78aa7460-27af-4049-b405-fca8c365de59,good delivery,5,2026-09-15 15:12:05,0,noise,other,1,positive
+swiggy,c24410a4-69a8-4143-8427-f36b04506780,not affordable price this app is complete wasted is time this app is complete no use 😤😡,1,2026-09-15 15:09:44,0,feature_request,other,5,negative
+swiggy,1331f379-4f1a-46a3-9518-6a25ff441fb4,good,5,2026-09-15 15:05:47,0,noise,other,1,positive
+swiggy,b8a18b59-56a2-448c-9cf2-bf1d625ca70d,Best,4,2026-09-15 15:04:39,0,noise,other,1,positive
+swiggy,4df32181-8cb6-460f-a1d5-f1605bc0a794,This was the first time I ordered food from Swiggy and it was the worst experience.They show offers like buy one get one free on food items but not delivered the offered food item. I had a very disappointing experience with Swiggy. Never use Swiggy for ordering food they have very bad service,1,2026-09-15 15:00:47,0,bug,checkout,4,negative
+swiggy,52621791-a104-496e-8aa4-d4a9ef14c9f7,good but not very good,3,2026-09-15 15:00:07,0,noise,other,1,neutral
+swiggy,b453bd9e-c0f2-4a7c-9640-4103211d37cd,don't order iam just order to paneer biryani but it's unfortunately got chicken fried piece biryani iam cancel that order on 30 seconds but it shows that it's already your order is already prepared don't order this order zomato or other apps looting total public money don't order to Swiggy iam requesting all,1,2026-09-15 14:55:48,0,bug,order_tracking,4,negative
+swiggy,3f3331b0-9670-4a46-bcf7-231509ee0ac5,didn't find the option to add veggies and sauces,1,2026-09-15 14:54:00,0,feature_request,checkout,3,negative
+swiggy,4679f673-9d16-4a72-9fcc-856df73c78bf,best service Swiggy,5,2026-09-15 14:53:31,0,noise,other,1,positive
+swiggy,6cb97f08-dfd0-4d6b-82ec-2a4e7542fce2,good,4,2026-09-15 14:52:39,0,noise,other,1,positive
+swiggy,a0c3fd1c-d339-44ee-8741-5554127faf88,good 😊,5,2026-09-15 14:44:40,0,noise,other,1,positive
+swiggy,e5449ac6-0099-4334-b032-b66f7f6b8d61,fast food,5,2026-09-15 14:34:44,0,noise,other,1,neutral
+swiggy,1237e057-4e6c-4bb7-a47d-11b0b9a95267,good,5,2026-09-15 14:34:30,0,noise,other,1,positive
+swiggy,d2eb5de4-4572-47c5-93fd-1cc95b916b9b,Excellent,5,2026-09-15 14:28:05,0,noise,other,1,positive
+swiggy,fe2fe883-75dc-4bf6-87ab-a2c2ae643fce,"i ordered food (chicken chawmein and momos) from Swiggy at 1 pm. The food arrived no issue there. but the momos were gone bad, if i have eaten it, i surely gone sick, so i complaint it to swiggy, uploaded the pics, with food still in the box. the response from swiggy, we cant do anything,no refund, nothing and we are closing the complaint. the most terrible service.",1,2026-09-15 14:24:42,0,bug,other,5,negative
+swiggy,c192d671-a0c2-487c-8c0a-7df7321de6f4,good 👍👍,4,2026-09-15 14:23:37,0,noise,other,1,positive
+swiggy,8ac8791e-220c-4f89-983e-c2a808bfa9a1,mast,5,2026-09-15 14:18:51,0,noise,other,1,neutral
+swiggy,47f84088-1aae-475b-9f7b-499dddfd4ea0,kali chunji very kali,4,2026-09-15 14:16:47,0,noise,other,1,neutral
+swiggy,fddb6108-0460-4182-b6c6-b8c263dd75e3,good,5,2026-09-15 14:14:41,0,noise,other,1,positive
+swiggy,4428fa0c-09db-47a1-9c2c-ebf640256360,nice to buy,5,2026-09-15 14:13:23,0,noise,other,1,positive
+swiggy,db839860-7850-4d48-b10c-99bab33a9e60,good,5,2026-09-15 14:10:19,0,noise,other,1,positive
+swiggy,87efd386-3bc3-497b-b9f1-d9c0f1b8bd33,super,5,2026-09-15 14:10:06,0,noise,other,1,positive
+swiggy,ce5e5d68-ab90-4a24-9f6b-69735189910a,good,5,2026-09-15 14:03:58,0,noise,other,1,positive
+swiggy,43c6a50a-852d-436b-9cd8-7ffab12eb06d,good,5,2026-09-15 14:02:43,0,noise,other,1,positive
+swiggy,2a0a77e1-e16f-4d58-b2db-ad65370554c8,"their delivery is so awful, the order never arrives on time, they even cancel the order without permission after making me wait for an hour, their delivery partners are so disrespectful, They talk awfully even when it's their fault, serious this platform is not good towards its customers, sometimes the order never even arrives on the destination and when u contact customer support they don't do anything about it",1,2026-09-15 14:02:41,0,bug,order_tracking,5,negative
+swiggy,9e2ec5c0-313e-41c3-b6bc-f92a99c0f332,nice 🙂,4,2026-09-15 14:00:52,0,noise,other,1,positive
+swiggy,79c5e9d9-367f-4d1f-8c1f-d9b7ea2c1926,you are one of the worst service provider,1,2026-09-15 14:00:05,0,noise,other,1,negative
+swiggy,b8da514a-01b6-496f-a755-cdcce3703ea9,good service,5,2026-09-15 13:56:00,0,noise,other,1,positive
+swiggy,10ebc40a-dc40-4d49-830a-f843cc545445,good,5,2026-09-15 13:53:06,0,noise,other,1,positive
+swiggy,1faee879-0330-4980-bad6-9ebc32eb416a,Nice Service Keep it up,4,2026-09-15 13:51:30,0,noise,other,1,positive
+swiggy,71481be8-71df-490e-82cc-931c93a01d67,"⭐ 1/5 Very disappointing experience. My ₹821 order was NEVER delivered, yet Swiggy marked it “Delivered” at 11:22 PM. Customer support repeatedly refused a refund with generic replies and provided no proper evidence. The delivery partner was also extremely rude and disrespectful. I have lost all trust in Swiggy. I am uninstalling the app, will never order again, and will not recommend Swiggy to anyone. Totally unreliable and, in my experience, feels fraudulent.",1,2026-09-15 13:48:52,1,bug,order_tracking,5,negative
+swiggy,2091810e-1e47-4eef-9f1b-14b78898977f,vaey bast app,5,2026-09-15 13:44:10,0,noise,other,1,neutral
+swiggy,759123b7-fd7c-44c5-84dd-414236dd370c,"The worst app I have ever used.... takes more than 80mins to deliver my food even though the hotel is near my home.... If I ask for cancellation and refund they will cancel the order but won't refund the money..... please don't use this app just an easy way to scam us... they have the worst customer care service, all chapris they are always ready to scam",1,2026-09-15 13:38:47,0,bug,order_tracking,5,negative
+swiggy,f5353ac8-df18-4da7-abf4-855b507b2d17,good app,4,2026-09-15 13:23:29,0,noise,other,1,positive
+swiggy,24e5b892-9f0f-4f42-811b-1e16ac5ed016,super,5,2026-09-15 13:22:31,0,noise,other,1,positive
+swiggy,3f42fa68-3672-49f4-968d-e8a4ee331575,nice,5,2026-09-15 13:20:31,0,noise,other,1,positive
+swiggy,203a35d0-32de-48ed-8913-e60238ed6648,good,5,2026-09-15 13:11:50,0,noise,other,1,positive
+swiggy,dc71d576-1277-46ce-a22e-f616e6b14b68,good bahut fast delivery hai very good very good,5,2026-09-15 13:05:48,0,noise,other,1,positive
+swiggy,52c1b848-2918-42f5-8ac0-adb420f7d6f3,bhadiya h,5,2026-09-15 12:58:35,0,noise,other,1,positive
+swiggy,994c3a97-3e64-4095-abb2-aa9d570ed2d7,best food aap,3,2026-09-15 12:48:59,0,noise,other,1,neutral
+swiggy,a822f365-be91-44de-a7bb-03342e753253,too many unwanted unsolicited popups,1,2026-09-15 12:42:03,0,bug,notifications,4,negative
+swiggy,cf8702c0-cbfe-43b5-8c69-65141adc76d9,rate is higher,3,2026-09-15 12:27:20,0,noise,other,1,neutral
+swiggy,7e82c69a-886a-4f25-99bd-9bb58dc9be5a,super,5,2026-09-15 12:12:11,0,noise,other,1,positive
+swiggy,2d157700-6ec0-4f14-8546-7a57e68a9003,very good,4,2026-09-15 12:01:39,0,noise,other,1,positive
+swiggy,a4fafaa0-1d09-43a6-b06d-80d57946519b,good,4,2026-09-15 11:30:01,0,noise,other,1,positive
+swiggy,d25ad16e-fc95-45e8-a915-69b3f9b88b2d,thak you happy tha custarmor .,5,2026-09-15 11:21:45,0,noise,other,1,positive
+swiggy,2e40bdeb-0cae-4a27-8688-ba7356983be6,good,5,2026-09-15 11:09:34,0,noise,other,1,positive
+swiggy,0380736a-05c6-4f3b-be12-0a011c37ac1e,rajesh,5,2026-09-15 10:48:44,0,noise,other,1,neutral
+swiggy,e42d678d-3470-4fe7-bf80-4cc715fee23a,ok,5,2026-09-15 10:27:26,0,noise,other,1,neutral
+swiggy,85cc9329-d3ec-474e-a654-05d76c6766a8,"“After using Zomato, Swiggy feels like a huge downgrade. Poor service, poor experience and not customer-friendly at all. Zomato is much better in comparison.” 😏",1,2026-09-15 10:14:06,0,ux_confusion,other,5,negative
+swiggy,96dabd34-e13f-46a8-ae20-3f04f7074c86,very fast,5,2026-09-15 10:04:09,0,noise,other,1,positive
+swiggy,c19acb1b-2029-472d-8a45-93ee4adaf0f6,super,1,2026-09-15 10:00:32,0,noise,other,1,negative
+swiggy,0fb21a0d-cf6b-4101-a95b-8023b9548607,i am a jee aspirant and live 10 km away from urban area alone I was extremely sick and had no power to cook tried to order online and had no online cash zomato rejected cash on delivery but Swiggy accepted it thankyou soo much Swiggy,5,2026-09-15 09:53:46,0,noise,other,1,positive
+swiggy,9a699f64-6ae1-43cb-af80-234595327e73,GOOD APP,5,2026-09-15 09:34:16,0,noise,other,1,positive
+swiggy,a9aaf748-92f9-4cc8-9941-24a38b2aefb8,very bakvass app,1,2026-09-15 09:20:46,0,noise,other,1,negative
+swiggy,ba7df0a4-0e83-41db-88ce-3443b8d30c13,"very poor service, my order isn't cancelling not it is delivering",1,2026-09-15 09:11:40,0,bug,order_tracking,5,negative
+swiggy,ac2e5c99-6250-45ad-895e-ad226f2c6c49,rate high inside train,3,2026-09-15 09:03:30,0,noise,other,1,neutral
+swiggy,502c1f98-6c35-4e28-bb92-16e3947d081c,worst services order ur food n experience it . food order krne pr 20.min dikhaya h aur pick-up krne wala 2 ghante tak nhi pohochta h worst ever service,1,2026-09-15 06:33:49,0,bug,order_tracking,5,negative
+swiggy,5ec80b22-3cbe-4bea-bee1-ee5eddc4235a,this application is disgusting not Working properly time😖😖,1,2026-09-15 04:26:43,0,bug,other,5,negative
+swiggy,0d7ab588-59a1-4635-befd-a0d9b460422a,nice,3,2026-09-15 03:16:22,0,noise,other,1,positive
+swiggy,ea37dcf4-fbd4-46c4-ae8b-eac6a4e2eec1,no accountability ... very poor service.... very worst ever,1,2026-09-15 02:34:43,0,bug,other,5,negative
+swiggy,ac2da033-317a-4abd-94ac-025bf7f8005f,nice,5,2026-09-15 01:24:28,0,noise,other,1,positive
+swiggy,25b69dc0-74f7-4e78-ba78-18c9a9353bb3,👍,5,2026-09-15 01:22:52,0,noise,other,1,positive
+swiggy,7c9a30cc-8eeb-4eaf-a25e-9b3ed3675cfe,bakwas sarwis ha app ke 😡😡😡😡😡😡,1,2026-09-15 01:07:37,0,bug,other,5,negative
+swiggy,bf4a2d93-b097-46ed-aed0-d4e2600f0311,😊,5,2026-09-15 00:34:20,0,noise,other,1,positive
+phonepe,1469a8a3-5ee2-45aa-afc9-d0104587c926,good,5,2026-09-16 22:50:41,0,noise,other,1,positive
+phonepe,252e7e7c-7b64-4120-bffc-ac26163918f8,good,5,2026-09-16 22:40:58,0,noise,other,1,positive
+phonepe,a7561a41-6641-476e-912b-494240f3be71,सुनील मीणा,5,2026-09-16 22:35:30,0,noise,other,1,neutral
+phonepe,9b8dd793-5096-4920-82cd-dca2544ef1f9,super,4,2026-09-16 22:31:01,0,noise,other,1,positive
+phonepe,9dbe6ffa-3c62-414d-9912-cc8dd4c0cd92,good app esy transaction,5,2026-09-16 22:23:50,0,noise,other,1,positive
+phonepe,c4d93504-b9dd-4633-bb2d-085d2477d55e,not showing card transaction,1,2026-09-16 22:17:07,0,bug,payment_gateway,4,negative
+phonepe,5efbb38c-6d85-4b85-84ad-66814d7603a6,भारत में UPI से पैसा कटों अब ला... मिलेगा,1,2026-09-16 21:54:19,0,bug,payment_gateway,4,negative
+phonepe,33d263da-b716-4c45-877f-70c964a01ef6,mominurAli,5,2026-09-16 21:45:36,0,noise,other,1,neutral
+phonepe,bb866ccc-e361-4776-b682-ffde53b8cf2b,supr,5,2026-09-16 21:39:18,0,noise,other,1,positive
+phonepe,0edf5ac4-28c6-4d56-9ca4-06b6794ce28d,thank you i trust you Phone pay Team know I'm using international pay working very well,5,2026-09-16 21:33:16,0,noise,other,1,positive
+phonepe,9dcc98a9-a57d-48b8-887b-649165879877,🤩,5,2026-09-16 21:23:08,1,noise,other,1,positive
+phonepe,bd1f5990-c2c3-43be-b1a3-0a7ad85d3e7c,super reward points muje fayada huaaa,5,2026-09-16 21:19:12,0,noise,other,1,positive
+phonepe,15320c5e-ed6d-47cb-be38-440a03b877ea,good,5,2026-09-16 21:13:37,0,noise,other,1,positive
+phonepe,b9569f45-52de-442d-aab2-552ef69f98df,good,1,2026-09-16 21:03:16,0,noise,other,1,positive
+phonepe,2743c2ec-96f4-4827-a320-236c2767102b,good,5,2026-09-16 20:50:04,0,noise,other,1,positive
+phonepe,306c4d61-418f-4050-ae97-91269e9db2a7,good,3,2026-09-16 20:45:44,0,noise,other,1,neutral
+phonepe,d3676080-d36c-48ef-8cb6-fd82f9c0502f,bad phone pay using for money to bea charge any pament frod,1,2026-09-16 20:40:57,0,bug,payment_gateway,5,negative
+phonepe,c9815858-cc6c-4dd8-b19e-bdcec5fe3d6d,good app,5,2026-09-16 20:26:37,0,noise,other,1,positive
+phonepe,97d64b57-3154-42df-acef-6a7fe92e637c,gooods,5,2026-09-16 20:26:01,0,noise,other,1,positive
+phonepe,b8dcfe26-e7aa-4756-9442-66e89e60aa63,good 👍🏼,5,2026-09-16 20:24:46,0,noise,other,1,positive
+phonepe,5667eb40-1bff-4d46-8284-2a880df72f71,👍🏻,4,2026-09-16 20:21:21,0,noise,other,1,positive
+phonepe,b5417dcb-ab86-4972-bff3-9dfa85c60457,Moving to Cash Payment,1,2026-09-16 20:18:15,0,feature_request,payment_gateway,5,negative
+phonepe,11d632f5-cc5d-4950-a9b7-1f5f40cb8311,good 😊😊👍👍,4,2026-09-16 20:06:34,0,noise,other,1,positive
+phonepe,453a2868-36e2-484e-a350-20e45dc09e4d,सुपर ऐप,5,2026-09-16 20:04:30,0,noise,other,1,positive
+phonepe,89fe1713-8cd2-4bc6-a2c9-cadf11338d6b,good app,5,2026-09-16 19:58:53,0,noise,other,1,positive
+phonepe,12acaf39-e4ef-402a-98d9-16e5433faafe,fantastic,5,2026-09-16 19:57:12,0,noise,other,1,positive
+phonepe,8b1e6924-6b6f-4dc1-82aa-fb3fee755187,Worst,1,2026-09-16 19:49:26,0,noise,other,1,negative
+phonepe,8d6c8fdf-ecb4-4334-b7e8-2051a9add755,good,5,2026-09-16 19:47:55,0,noise,other,1,positive
+phonepe,ebbffb51-693f-4440-9e8a-aa1079fa06f6,nice,5,2026-09-16 19:43:48,0,noise,other,1,positive
+phonepe,2c357802-7ff1-48d9-858b-45baffc4ec74,ghatiya app,1,2026-09-16 19:41:01,0,noise,other,1,negative
+phonepe,b3e27076-15e5-42cc-bffa-939d0145981a,it was best u p i payment app,5,2026-09-16 19:35:12,0,noise,other,1,positive
+phonepe,c38450b3-ab55-4a72-8d69-eb1023437c42,Very good and safe app.,5,2026-09-16 19:30:39,0,noise,other,1,positive
+phonepe,5d454593-1b25-49bc-916e-ef262a28c429,i love this app,5,2026-09-16 19:26:05,0,noise,other,1,positive
+phonepe,f511ab19-c514-4efb-95e6-9f4ea3b1c9da,best to use in all over india,5,2026-09-16 19:23:58,0,noise,other,1,positive
+phonepe,c1c3aa6e-a26a-4378-8bbc-a74650bb00e7,helpful,5,2026-09-16 19:17:35,0,noise,other,1,positive
+phonepe,2deafe41-52fc-40ab-8749-d435e2711d6d,exellence,5,2026-09-16 19:16:58,0,noise,other,1,positive
+phonepe,5be4fd0a-1fc6-4291-97e0-7e2b265b7114,good,5,2026-09-16 19:15:39,0,noise,other,1,positive
+phonepe,20d2112f-8ade-4c30-9bac-4d320b8e15a3,very good,5,2026-09-16 19:12:51,0,noise,other,1,positive
+phonepe,a2ef4c60-23b2-423e-83c5-81d8f16b9f09,good app,5,2026-09-16 19:09:29,0,noise,other,1,positive
+phonepe,018dfd05-7f68-4102-bfd8-292f1975fad4,good,5,2026-09-16 19:06:39,0,noise,other,1,positive
+phonepe,e811f92e-1161-4d3f-8273-2096f002071e,excellent,5,2026-09-16 19:04:16,0,noise,other,1,positive
+phonepe,38f8b228-764b-4cca-9a5c-21da185b200a,awesome,5,2026-09-16 19:01:16,0,noise,other,1,positive
+phonepe,98bba5e6-7965-40b6-9001-f59eb04d68ec,Right ok,5,2026-09-16 18:57:23,0,noise,other,1,neutral
+phonepe,f1ff674c-a812-4920-bd88-5ee2ddfbbbff,ok,5,2026-09-16 18:55:18,0,noise,other,1,neutral
+phonepe,6153188c-29a9-4a0b-8c2d-598c0c0c7299,good service,5,2026-09-16 18:50:19,0,noise,other,1,positive
+phonepe,2d703af7-6414-42cc-a677-c16be972f34b,good,5,2026-09-16 18:48:42,0,noise,other,1,positive
+phonepe,4cecefe0-3dd6-441d-8584-3c10fe6ef3a4,very nice,5,2026-09-16 18:43:24,0,noise,other,1,positive
+phonepe,363c2768-660a-442c-bc8e-fc506d175c18,👌,5,2026-09-16 18:41:43,0,noise,other,1,positive
+phonepe,bdb43535-6ec1-453e-9a26-b3ed7003d8f1,Most worst service I ever seen,5,2026-09-16 18:32:19,0,bug,other,5,negative
+phonepe,d1dbedbe-2194-4fc4-9e9d-a386fc2a0c8f,ok,5,2026-09-16 18:28:51,0,noise,other,1,neutral
+phonepe,bea822fc-c6b6-4f5d-b9bd-168207cc8cc1,good,4,2026-09-16 18:23:40,0,noise,other,1,positive
+phonepe,06b0506d-fb53-46c0-acd2-0f096691d495,Good,4,2026-09-16 18:20:37,0,noise,other,1,positive
+phonepe,bb6405c4-3b96-4346-93e0-71628f78a5b3,good,5,2026-09-16 18:13:27,0,noise,other,1,positive
+phonepe,b3814c71-0d29-4726-be31-160aab8daf3a,I am satisfied,5,2026-09-16 18:08:20,0,noise,other,1,positive
+phonepe,32a9441d-3eae-4731-a0d2-a963e4f23d7e,good,5,2026-09-16 18:06:11,0,noise,other,1,positive
+phonepe,43682f36-5ab1-41b4-a6db-2976f7468664,good experience,5,2026-09-16 18:02:40,0,noise,other,1,positive
+phonepe,40e01792-eecc-46cc-804a-0984fee0fb12,good,4,2026-09-16 17:59:43,0,noise,other,1,positive
+phonepe,30e0eafe-71d2-438e-bff0-96a449f12a89,"today i uninstall my upi becoz; yesterday i went to buy something the shop owner said on upi you had to pay extra or give cash becoz govt is charging them on accepting upi, from now there will be no issue change",1,2026-09-16 17:53:49,0,bug,payment_gateway,4,negative
+phonepe,6c700b41-0280-4eb8-b800-8b3ac320872f,this is good,1,2026-09-16 17:48:33,0,noise,other,1,positive
+phonepe,5b1884ce-6f29-4bb1-9379-e48c521967e0,modi ne jo charge badhaya h isliye 1 star,1,2026-09-16 17:47:01,0,feature_request,other,3,negative
+phonepe,868cd22a-45de-4567-9538-5bf3eddd2c7d,good,5,2026-09-16 17:41:50,0,noise,other,1,positive
+phonepe,4f72c543-90a9-4fd7-b065-1aa80819eb1b,good,5,2026-09-16 17:37:21,0,noise,other,1,positive
+phonepe,830bc4cd-9e96-4d9f-9e86-07811621e0b7,better,4,2026-09-16 17:36:11,0,noise,other,1,positive
+phonepe,e66bc9b1-7ded-4b42-81e3-3d28e62d5ca6,good,5,2026-09-16 17:33:42,0,noise,other,1,positive
+phonepe,91040373-2c0d-4675-a0a8-0e0af3b17b72,adds adds not clear interface,3,2026-09-16 17:28:15,0,ux_confusion,other,3,negative
+phonepe,b3e9e993-23c2-426a-8c48-5d6154ddaede,very good app,5,2026-09-16 17:24:44,0,noise,other,1,positive
+phonepe,e3ee2620-0ae5-416d-8800-862cab46f137,good,5,2026-09-16 17:22:46,0,noise,other,1,positive
+phonepe,f5ec1f74-fef5-45c2-8c38-63226a337443,good,5,2026-09-16 17:20:09,0,noise,other,1,positive
+phonepe,496442ed-8c67-470c-9dd1-7b5570411709,good,4,2026-09-16 17:15:37,0,noise,other,1,positive
+phonepe,20532e95-ad77-445a-89bd-e6ab6b5c1af6,it is very good,5,2026-09-16 17:09:49,0,noise,other,1,positive
+phonepe,50f621aa-d737-429f-a486-a050db193bb4,good,5,2026-09-16 17:08:13,0,noise,other,1,positive
+phonepe,4c55c47a-3597-40b0-8589-643f8b0164f0,nice,5,2026-09-16 17:03:39,0,noise,other,1,positive
+phonepe,5edf9793-1604-474e-9c8f-15cee8ea711f,this app didn't get the cashback,1,2026-09-16 17:00:26,0,bug,other,5,negative
+phonepe,4ecd5b04-8822-4899-8d89-5766108352f4,very good,5,2026-09-16 16:57:38,0,noise,other,1,positive
+phonepe,05d6b2b6-4913-477e-b998-78db4ceb95b4,little bit bad experience,3,2026-09-16 16:52:14,0,ux_confusion,other,3,negative
+phonepe,faa70410-59e6-430a-be90-5a0622ca67a2,good,5,2026-09-16 16:49:17,0,noise,other,1,positive
+phonepe,19f5da31-4656-427c-b0b8-67ec79c8ce29,good,5,2026-09-16 16:37:53,0,noise,other,1,positive
+phonepe,96b85365-0dbe-4d7a-8ea6-0cda5e017682,super 👍,5,2026-09-16 16:37:03,0,noise,other,1,positive
+phonepe,b50106ea-4286-4823-8f74-0a66b4c6822a,best,5,2026-09-16 16:32:18,0,noise,other,1,positive
+phonepe,fa7cbd01-fdbb-44b7-9424-b65883bfcadc,Very easy .Nice,5,2026-09-16 08:29:51,0,noise,other,1,positive
+phonepe,8852373d-5898-4eb3-835c-7efca08b1f4a,Top,5,2026-09-16 08:27:30,0,noise,other,1,positive
+phonepe,724704c5-1903-4efd-83d4-a8aefa5428c4,excellent,5,2026-09-16 08:26:44,0,noise,other,1,positive
+phonepe,616cb8b1-0637-4380-9acb-ef787ac25a4b,good 😊😊😊😊👍👍👍,5,2026-09-16 08:22:15,0,noise,other,1,positive
+phonepe,45a57b29-0df9-4b9f-a8e1-cb77e36883d5,good 👍,5,2026-09-16 08:16:07,1,noise,other,1,positive
+phonepe,58cae74f-a546-4ad0-b09a-075448a8fa5b,నైస్,5,2026-09-16 08:10:13,0,noise,other,1,positive
+phonepe,28852dbd-a26c-4792-b60b-ce48f6ece907,NOTHING SPECIAL,4,2026-09-16 08:07:09,0,noise,other,1,neutral
+phonepe,9a9a1179-fb99-4049-bf73-d02ded65e763,I always use online phonpe upi payment app only on this,5,2026-09-16 07:58:53,0,noise,other,1,positive
+phonepe,e2bc903f-1f86-46df-9760-86a29750b536,🥰🥰,2,2026-09-16 07:53:43,0,noise,other,1,positive
+phonepe,ccafdd94-c789-4916-bc45-52bddb6d2499,super,5,2026-09-16 07:48:23,0,noise,other,1,positive
+phonepe,bd08ef89-9cf4-4850-97c5-259c8c3fde28,good,5,2026-09-16 07:44:23,0,noise,other,1,positive
+phonepe,109e9dad-2cfb-4810-b3e1-1ace2556b70c,very nice app,5,2026-09-16 07:40:13,0,noise,other,1,positive
+phonepe,12f4ca90-5400-4628-8a42-5297bd5bbcb0,☺️☺️,5,2026-09-16 07:31:02,0,noise,other,1,positive
+phonepe,4af56cf5-d754-42aa-91bf-aadfcc40fd49,good experience till now.,5,2026-09-16 07:29:03,0,noise,other,1,positive
+phonepe,c9b7a81e-6931-4a91-9cbe-58dd8971c7cc,bahut achchha good thankyou,5,2026-09-16 07:20:57,0,noise,other,1,positive
+phonepe,216ac313-e545-4e04-bd0f-0529d024592b,Nice 🙂,5,2026-09-16 07:16:44,0,noise,other,1,positive
+phonepe,f638beba-79aa-42fe-9196-8dbbe0fb140d,verry smart liye,5,2026-09-16 07:11:02,0,noise,other,1,positive
+phonepe,591e699b-f0c9-4a58-aab3-9e12cf0a0f2c,nice 👍👍,5,2026-09-16 07:01:45,0,noise,other,1,positive
+phonepe,2628f0f3-54bb-4813-b727-ee15cb446224,best,4,2026-09-16 06:56:48,0,noise,other,1,positive
+phonepe,095a60f8-b117-469f-8198-4241ace462d6,very user friendly and trustworth,5,2026-09-16 06:50:51,0,noise,other,1,positive
+phonepe,01334849-5093-4c14-a8a2-eb6f8e96ba7c,good,4,2026-09-16 06:26:40,0,noise,other,1,positive
+phonepe,18aa29f6-f79d-4432-b67e-00581297f616,Good,5,2026-09-16 06:21:24,0,noise,other,1,positive
+phonepe,9bc6ebf7-89d2-4ab3-a054-9daf48ae830e,Worst Management and Bad CEO Learn to respect all,1,2026-09-16 05:56:50,0,noise,other,1,negative
+phonepe,697399a4-2880-4fee-b229-d4d46aabe67e,good 👍,4,2026-09-16 03:19:47,0,noise,other,1,positive
+phonepe,b3729518-294e-4931-be61-b77f539bde0f,my imported traditional,4,2026-09-16 02:19:06,0,noise,other,1,positive
+phonepe,862ac243-1ccb-4f5e-bc9a-149a7af1ed9f,one of the biggest scam apps is phone pay don't do daily savings in phone pay they are taking more money from our account only don't trust phone pay,1,2026-09-16 01:53:51,1,bug,payment_gateway,4,negative
+phonepe,8123d328-b254-4b6c-aa80-05e46207ea3e,nice,5,2026-09-16 01:20:44,0,noise,other,1,positive
+phonepe,0346a2db-7317-4e68-a42b-7edff266c2fa,good 👍,5,2026-09-16 01:11:48,1,noise,other,1,positive
+phonepe,25381c16-58f4-4560-ab11-f67adc958f68,well I feel secure 🔐 that's why I use phone pay.,5,2026-09-16 00:46:49,0,noise,other,1,positive
+phonepe,fa8717fd-712a-418e-9e5f-69c844cccdec,👌,5,2026-09-16 00:42:18,0,noise,other,1,positive
+phonepe,75600bf3-12ab-410b-bd6e-b8a6dfc57ee2,good,5,2026-09-16 00:33:14,0,noise,other,1,positive
+phonepe,d018dc9c-9392-440f-8ba4-46c6306b39de,valaem .,5,2026-09-16 00:04:40,0,noise,other,1,positive
+phonepe,e9225615-d668-49fd-b34e-5ca790d771f0,good experience,5,2026-09-15 23:56:03,0,noise,other,1,positive
+phonepe,9e857eea-55cd-442b-9bb8-d7a999b13b1b,good,5,2026-09-15 23:54:16,0,noise,other,1,positive
+phonepe,b1ed3e14-e059-4447-a2fa-ac0672a324e0,good,4,2026-09-15 23:46:34,0,noise,other,1,positive
+phonepe,438d938f-d25e-405f-8aed-41c6268a7f10,superp,5,2026-09-15 23:33:23,0,noise,other,1,positive
+phonepe,ec7da9ac-41d8-4a28-be96-2bb03f04eceb,very good 😊💯,5,2026-09-15 23:27:24,0,noise,other,1,positive
+phonepe,7f16629a-f439-47da-b249-c211daf01658,"The system of phone service is very slow and very bad, there is absolutely no customer support in it, you are asking questions and the answers are coming automatically which you are not giving us.",1,2026-09-15 23:21:01,0,bug,other,5,negative
+phonepe,106cf000-192f-4799-82f2-fdda7a9d40d4,Nice 💯🙂👍,5,2026-09-15 23:11:46,0,noise,other,1,positive
+phonepe,4839f46f-001c-4cbc-8c01-706f22afa80f,nice,4,2026-09-15 22:58:38,0,noise,other,1,positive
+phonepe,78cfc0e0-5684-4a35-82c4-56ab29380839,good👍🏼😊,5,2026-09-15 22:48:03,0,noise,other,1,positive
+phonepe,36a4c457-3ad4-42c0-8107-db037fee719b,📈,1,2026-09-15 22:42:53,0,noise,other,1,negative
+phonepe,fb5c46bb-daac-49a9-9d6b-3f502b921555,nice per ek dikat hai Autopey ho jata hai es ko sahi kar do bss q ki mera 2000 chala gaya our refund bhi nahi mel,4,2026-09-15 22:38:13,0,bug,payment_gateway,4,negative
+phonepe,d23eda18-3a7f-4b7e-b349-47eb191225d7,nice app,5,2026-09-15 22:32:36,0,noise,other,1,positive
+phonepe,a1fd7444-eaa3-4c80-a11d-a0159e22c42c,अच्छा है,5,2026-09-15 22:30:23,0,noise,other,1,positive
+phonepe,590899cf-a336-4a6d-b488-c2a7676d9789,Excellent and safe,5,2026-09-15 22:23:16,0,noise,other,1,positive
+phonepe,7cc610ec-8b1d-40b4-a35b-12d7c9b653aa,😍😍,5,2026-09-15 22:22:17,0,noise,other,1,positive
+phonepe,560aea03-6ad1-4acf-b654-1432caaa0978,ki,4,2026-09-15 22:18:32,0,noise,other,1,neutral
+phonepe,b7cdb923-37ca-45e7-8e6b-60a5a896cdbb,super,5,2026-09-15 22:14:33,0,noise,other,1,positive
+phonepe,eecb6ebf-d3e5-4cec-bc5e-3217df1eed43,sometimes it open this app but suddenly back so that I will trubble some shops,3,2026-09-15 22:11:46,1,bug,other,3,negative
+phonepe,a839e4ca-6e8a-4246-a0af-9029ca563f45,good,5,2026-09-15 22:08:09,0,noise,other,1,positive
+phonepe,578e9c50-01eb-44ec-85c3-a8c991ef12f6,sobhit jatav 302,5,2026-09-15 22:06:13,0,noise,other,1,neutral
+phonepe,847ec628-8ec4-484a-b83e-6c925b5dcc56,good,5,2026-09-15 22:02:28,0,noise,other,1,positive
+phonepe,56707edb-aeee-4e80-abb4-d93ccdf3769e,Good,5,2026-09-15 22:00:55,0,noise,other,1,positive
+phonepe,ab61f300-8d47-44de-a8a3-8341ce4f8ce8,super experience,5,2026-09-15 21:55:28,0,noise,other,1,positive
+phonepe,331c21f8-beeb-4d57-8cce-408d50170d24,exelent,5,2026-09-15 21:47:25,0,noise,other,1,positive
+phonepe,1f69f7c2-be3d-4f6a-a914-f2450e712395,this app runs without any problem,5,2026-09-15 21:45:55,0,noise,other,1,positive
+phonepe,f7a47314-85c3-4777-8b0a-bd332430c523,good,5,2026-09-15 21:43:15,0,noise,other,1,positive
+phonepe,2ffde3f6-7d88-4083-8165-e6a7d668382c,good,5,2026-09-15 21:37:50,0,noise,other,1,positive
+phonepe,ae9cf9f5-49d3-4230-a9bb-35d8b38e0762,ih,5,2026-09-15 21:36:01,0,noise,other,1,positive
+phonepe,357f4fe3-b674-4538-8fd7-0e4ad413cf1f,easy and secure,5,2026-09-15 21:31:40,0,noise,other,1,positive
+phonepe,46250206-bd2d-4a64-943e-e535d3bfcb67,nice,5,2026-09-15 21:26:20,0,noise,other,1,positive
+phonepe,4d1c1d32-4f66-4f1e-9d09-20e33207b196,👍🏻,5,2026-09-15 21:21:27,0,noise,other,1,positive
+phonepe,7bc24e09-9e85-4b35-9572-d5db105dbebc,very nice app for payment,5,2026-09-15 21:20:10,0,noise,other,1,positive
+phonepe,a74e5f42-5e0d-427d-8949-e5bdd68fe2e0,very good,4,2026-09-15 21:15:23,0,noise,other,1,positive
+phonepe,39be2e4c-5eb7-4237-9d21-7df4a8860c4e,very best apps,5,2026-09-15 21:13:07,0,noise,other,1,positive
+phonepe,71e2ce1b-4377-4456-b78c-94a8c0b8e82b,good,5,2026-09-15 21:11:40,0,noise,other,1,positive
+phonepe,29396f1d-13b9-4bd2-8d21-eb6fb993a203,"TODAY FROM MORNING, THIS APP IS continuously crashing. kindly resolve the issue",3,2026-09-15 21:06:19,0,bug,other,4,negative
+phonepe,adddf4a4-7729-4aed-aafc-e80f875f4d9f,good,4,2026-09-15 21:01:43,0,noise,other,1,positive
+phonepe,d500b581-7cac-4560-a652-d0f4145bf3cc,মাহবা,4,2026-09-15 20:59:49,0,noise,other,1,positive
+phonepe,1e9c3d74-feea-42ac-9c47-9c2a2203bd26,Theek hai,5,2026-09-15 20:57:57,0,noise,other,1,neutral
+phonepe,934545c5-9b5e-42f9-a126-c3740eb91cbe,good,5,2026-09-15 20:55:56,0,noise,other,1,positive
+phonepe,5567c00b-2354-4deb-b1bf-c798d3440116,very good,5,2026-09-15 20:54:17,0,noise,other,1,positive
+phonepe,ac667cdf-ae09-46bc-b547-3d924d91393c,good,5,2026-09-15 20:53:57,0,noise,other,1,positive
+phonepe,614f8d1d-e528-4135-a5f5-7df3eff27c56,😭😭😭,4,2026-09-15 20:47:24,0,noise,other,1,negative
+phonepe,16ad5a22-2f1b-4ebb-902f-6bc68c761738,good,5,2026-09-15 20:45:42,0,noise,other,1,positive
+phonepe,e60a8fac-3674-49a7-b5af-ee9201aec688,very good 👍,5,2026-09-15 20:45:00,0,noise,other,1,positive
+phonepe,7680e4c8-7e68-4987-947f-fa971c293a48,very nice,5,2026-09-15 20:42:01,0,noise,other,1,positive
+phonepe,0f5513a6-ef0b-469d-87c1-29dbb597e086,good apps,5,2026-09-15 20:39:25,0,noise,other,1,positive
+phonepe,c3e39774-48e1-4a8d-8709-09079fb6128a,good,5,2026-09-15 20:36:29,0,noise,other,1,positive
+phonepe,d1529c15-a48b-4045-9531-3d3a4c5ce980,good,5,2026-09-15 20:31:50,0,noise,other,1,positive
+phonepe,5ce5d77d-e031-40fd-982e-42588dcd66c0,superb,5,2026-09-15 20:30:26,0,noise,other,1,positive
+phonepe,5f75cf60-a76b-4246-b113-b8d88468a60f,better payment method,5,2026-09-15 20:23:45,0,feature_request,payment_gateway,3,positive
+phonepe,2302b6f1-2dd9-44c5-9660-f669015fd92f,good,5,2026-09-15 20:23:35,0,noise,other,1,positive
+phonepe,5d5094fd-6de4-4ea4-af5b-5ab7b649b6c0,good,5,2026-09-15 20:21:06,0,noise,other,1,positive
+phonepe,2e910594-93b5-4f7b-bd6b-d88b1b2892be,super,5,2026-09-15 20:17:13,0,noise,other,1,positive
+phonepe,3f5eca92-dcd5-48ad-971a-4d957a1d1a83,Good App. very useful,5,2026-09-15 20:16:34,0,noise,other,1,positive
+phonepe,95c618b5-66d4-461c-b0d9-87359dff765c,v v v good,4,2026-09-15 20:14:31,0,noise,other,1,positive
+phonepe,3a41863c-2b9b-46f1-b676-9e71417f1e5e,india first payment bank,5,2026-09-15 20:13:36,0,noise,other,1,positive
+phonepe,d9bc8701-269a-43df-bdfc-1ca22ac52eef,Awesome,5,2026-09-15 20:11:40,0,noise,other,1,positive
+phonepe,60d1170f-c935-4e4a-a872-6a244a966a20,Very difficult to connect customer care. almost has no option to talk customer care person. so what customer do for problems?,1,2026-09-15 20:10:56,0,bug,other,4,negative
+phonepe,6b03c7c9-2cb9-48f0-8602-5f10b4ccdb77,nice 👍🙂,5,2026-09-15 20:05:12,0,noise,other,1,positive
+phonepe,cd6e9bb5-e558-4e47-893e-368d7a93d9cf,"I have very bad experience with this app, their charges are too high in comparison to other competitive application.",1,2026-09-15 20:00:23,0,feature_request,payment_gateway,4,negative
+phonepe,26cd589e-d06d-4a8a-8ff5-9c795989bf35,nice,5,2026-09-15 19:58:34,0,noise,other,1,positive
+swiggy,e870a0ba-420e-4119-ac7c-213e3b074aab,"⭐ 1/5 Very disappointing experience. My ₹241 order was NEVER delivered, yet Swiggy marked it “Delivered” .Customer support repeatedly refused a refund with generic replies and provided no proper evidence. The delivery partner was also extremely rude and disrespectful. I have lost all trust in Swiggy. I am uninstalling the app, will never order again, and will not recommend Swiggy to anyone. Totally unreliable and, in my experience, feels fraudulent.",1,2026-09-15 13:39:31,0,bug,order_tracking,5,negative
+swiggy,06778c66-008d-436e-af52-168cf416a96e,nhi ji,3,2026-09-15 13:28:30,0,noise,other,1,neutral
+swiggy,4d3e5018-68c7-42ee-b8e7-0400b0363ea1,good,5,2026-09-15 13:25:42,0,noise,other,1,positive
+swiggy,fcaf4491-8cf9-47d0-9f58-96e22fc4fa59,aapki ab hamen pasand hai isliye aapko Ham five star dete Hain,5,2026-09-15 13:23:06,0,noise,other,1,positive
+swiggy,4fb45076-c8b0-4820-9b3b-d82144e1a14e,good,5,2026-09-15 13:21:16,0,noise,other,1,positive
+swiggy,63dbcb97-2f8f-49cf-bb7a-afe0cc7bebc0,coastaly hai veg thali ka rate batata hai 89 aur pay me 220 aata hai,2,2026-09-15 13:10:12,0,bug,checkout,3,negative
+swiggy,4927524d-2bbf-47e0-b4ee-75f48f7e1f46,good 😊,5,2026-09-15 13:06:18,0,noise,other,1,positive
+swiggy,64a953c1-802c-4baa-9c09-dddb5a7a8646,"*""Worst service and worst explanation given for cancelling the order and charging a cancellation fee for an order that did not showing to be arrive as per the ETA. The simple funda is: take the money first and make the customer wait for the food to be delivered.""*",1,2026-09-15 13:02:51,0,bug,checkout,5,negative
+swiggy,1299954a-62f7-4116-bd70-dafb96e2d991,good offer,5,2026-09-15 13:02:49,0,noise,other,1,positive
+swiggy,20bdb35b-dc7a-4c79-9836-de3324c876c0,🤮🤮,1,2026-09-15 12:57:29,0,noise,other,1,negative
+swiggy,a4f09f35-9b0d-427f-9211-f9290c7d4a7b,good,2,2026-09-15 12:49:03,0,noise,other,1,positive
+swiggy,f65e397f-3d37-4177-8eb0-5430a9d962fd,👍,5,2026-09-15 12:44:42,0,noise,other,1,positive
+swiggy,ba373a64-5a65-4497-9e48-1b8af62d9d09,awesome,5,2026-09-15 12:44:39,0,noise,other,1,positive
+swiggy,7926a6a2-fedc-4d29-b439-234cf41d4ddf,fresh food dijiye,2,2026-09-15 12:36:14,0,feature_request,other,3,negative
+swiggy,76b59183-8d25-4695-bd48-092491fbf7d9,rate is very high,1,2026-09-15 12:34:04,0,noise,other,1,neutral
+swiggy,1412daf4-55df-43f3-9b52-b446194a2690,bekr hai,5,2026-09-15 12:22:23,0,noise,other,1,neutral
+swiggy,96280a98-2518-4420-be90-f0cf0b7c2352,good service,5,2026-09-15 12:22:02,0,noise,other,1,positive
+swiggy,436e2883-73f9-4659-9831-bf745f05b348,good,5,2026-09-15 12:08:14,0,noise,other,1,positive
+swiggy,8392ccc9-5fb7-41ba-8689-2522310ae297,good,3,2026-09-15 11:48:13,0,noise,other,1,neutral
+swiggy,759892b5-4c3a-4e2b-9016-648e9583fc23,waste,1,2026-09-15 11:23:32,0,noise,other,1,negative
+swiggy,f9602c26-9336-41df-9c03-ad449aac8faa,good,1,2026-09-15 11:19:46,0,noise,other,1,positive
+swiggy,76795ef1-e6ba-4924-8f84-b99dd430d2c8,smooth interface and deserves recognition best food delivery app,5,2026-09-15 11:16:13,0,noise,other,1,positive
+swiggy,cc25f7fb-2257-462e-b16c-3e6d905e4a09,good service,5,2026-09-15 10:55:30,0,noise,other,1,positive
+swiggy,5553caf9-d344-4722-8777-86b91c709c77,👍,5,2026-09-15 10:51:53,0,noise,other,1,positive
+swiggy,9c683bfc-085a-490c-95b9-a9b2285212d8,nice,5,2026-09-15 10:47:35,0,noise,other,1,positive
+swiggy,9510bcbb-9d7b-4b80-bef3-af655cf257ab,Good 👍,5,2026-09-15 10:43:17,0,noise,other,1,positive
+swiggy,b585f5e0-e3f4-4f50-a6ab-a1faa3d63e10,very worst experience,1,2026-09-15 10:18:55,0,noise,other,1,negative
+swiggy,cc06342b-1415-45f1-a2e9-c4380c04cd79,too much adds,3,2026-09-15 10:18:40,0,feature_request,other,3,negative
+swiggy,0eb9ee8b-949c-48b8-b95b-31c959c813c4,Instamart has started looting customers. They either send broken products or they send absolutely different order and then provide very less refund. Pathetic service.,1,2026-09-15 10:12:05,0,bug,order_tracking,4,negative
+swiggy,718ac712-c8e3-4b49-a6ce-6fdc1b9b64e7,"Saman mangwaane waale sabhi bhai aur behano se meri gujarish hai — is app se galti se bhi kuch mat khareedo! Mera ye review likhne ka sirf ek hi maqsad hai ki jo dhokha aur ₹1,700 ka fraud mere sath hua hai, wo kisi aur ke sath na ho. Saket area me toh bilkul bhi mat mangwana. Saman bechne ke baad ye apni hi return/refund policy se mukar jaate hain. Is bakwas app se lakho guna behtar Flipkart hai jo customers ki izzat karti hai. Apna hard-earned money bachaayein, is app ko turant UNINSTALL karei",1,2026-09-15 10:08:37,0,bug,checkout,5,negative
+swiggy,61d28c9f-139e-4a3a-9c61-2139207b2339,don't install this app .very bad response.,1,2026-09-15 10:07:55,0,bug,other,5,negative
+swiggy,e9e122ae-a675-462b-9a19-191c4da145a8,good,5,2026-09-15 10:03:56,0,noise,other,1,positive
+swiggy,1aeedd33-d319-44a7-9b5b-0ada74d18816,"don't know what's wrong with you guys 🤬🤬. firstly i got 50 free cash on breakfast order, when i tried to use it now it's not showing in the cart.... where has it goneeeeeee 😡",1,2026-09-15 10:03:53,0,bug,checkout,5,negative
+swiggy,14086470-a544-4704-9b45-7ffc13169e46,inspite of activating veg only mode. it is showing posts from restaurant that serve non veg also. big technical flaw. when I do not want to order food from non veg serving restaurant why are you showing it in the first place. this problem never occurred with Zomato. please check.,2,2026-09-15 10:00:18,1,bug,search,4,negative
+swiggy,1e13baf2-2df7-4e22-9f6d-87e4a92cf29e,osssssam,5,2026-09-15 09:59:10,0,noise,other,1,positive
+swiggy,fbf2f8bc-a787-4cd1-9023-386c27689a5a,"Order No.: 3706# Made the payment online. ~10 mins later, got a call from Swiggy informing me that the items I had ordered were no longer available. I asked the customer care representative, Wht action does Swiggy take against restaurants tht fail to mark items as unavailable & disconnected my call. 2nd time got a call, same question, disconnected. Whts disappointing is that Swiggy is more concerned abt protecting restaurant partners than standing up for its own customers. This needs to change",1,2026-09-15 09:54:31,0,bug,order_tracking,4,negative
+swiggy,0916d82a-1dcc-45a3-926d-af15f19a9a56,sabsa acha food dilavri app,5,2026-09-15 09:40:29,0,noise,other,1,positive
+swiggy,ccdcd634-c6f6-4d54-8dfc-48da53218445,good,5,2026-09-15 09:38:32,0,noise,other,1,positive
+swiggy,29e11ffc-c82a-4d3e-acc9-75e094513c7b,good,5,2026-09-15 09:32:43,0,noise,other,1,positive
+swiggy,124ef9ef-0f9c-46dc-b200-b27aa9ba06af,"Please stay away from swiggy. I'm continuously receiving OTP s from Swiggy regarding login attempt and I had mailed this to Swiggy. But no response or solution from the company regarding this even it is a serious issue. So u won't get any support from the company if u lose your money or any other issues by hacking your account. So guys, Be careful while using the app.",1,2026-09-15 09:11:54,0,bug,login_auth,5,negative
+swiggy,6dc28d85-87ee-440f-9c9c-a890654f8cdb,veery gooy,5,2026-09-15 09:10:39,0,noise,other,1,positive
+swiggy,8d0e427d-3411-493d-824f-655d3b933b4d,very good,5,2026-09-15 09:06:28,0,noise,other,1,positive
+swiggy,b8bb95f8-a857-453e-9803-1773a4982ada,very good,5,2026-09-15 07:21:02,0,noise,other,1,positive
+swiggy,e99e06bf-f4a9-4187-9925-7fc0254e5d77,nice,4,2026-09-15 07:14:18,0,noise,other,1,positive
+swiggy,6ed5a251-e15a-4613-95bd-de9ea63cf33a,"Swiggy has commitment issue in their services....i think they need to work on their app tech so that app can capture all the update on real time. According to that commit the services to user. on 13 sep'26 , i had bad customer experience. I reported for stale and smelly food. still they charged me partially without any of my fault.",1,2026-09-15 07:12:47,0,bug,other,5,negative
+swiggy,1f964316-7b61-49a5-8531-bebb9498eb6c,swiggy is we're worst 👎app I had order food in train but I didn't receive it I had paid online 288 swiggy is not refunding it and the worst part of this app there is no hlep line customer care number also on email allow swiggy is froud now very Disopinment I feel for this app swiggy se better zomato hai,1,2026-09-15 05:32:34,0,bug,order_tracking,5,negative
+swiggy,39324375-2d52-4585-a90b-c7f1823cc642,best,5,2026-09-15 04:31:29,0,noise,other,1,positive
+swiggy,8e70df61-5030-494d-aeb3-299177aa254f,worest app because I order 2:00 a.m. for biryani 4m Biryani House and 3:20 am i call the customer care is a don't find delivery boy it's not my problem.,1,2026-09-15 03:35:56,0,bug,order_tracking,4,negative
+swiggy,bb851a9e-a65e-4f3d-a10f-0b458c907fd4,Genuine thriller ❤️,5,2026-09-15 03:34:42,0,noise,other,1,positive
+swiggy,609885eb-e475-4ba7-92fe-802d7520a3ad,"Absolutely the worst experience with Instamart! I placed my food order around 2:00 AM, and even by 3:13 AM, the order was still not assigned to a delivery partner. What is the point of providing a late-night delivery service if the order cannot even be assigned? The customer support is equally disappointing. Even after calling and explaining the issue, there was no proper response or meaningful assistance. The support team seems completely unresponsive and keeps customers waiting without provid",1,2026-09-15 03:16:10,0,bug,order_tracking,5,negative
